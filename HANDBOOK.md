@@ -46,10 +46,10 @@ Epsilon Security Consulting was created in 2019 (confirm date) by Nivanglus Aya,
 The Second Life Military Community (SLMC) is made up of many different personalitie. Some are great, plenty are terrible, and most are somewhere in between. However, even for the shittiest among us, there are some lines that should never be crossed. Below is a list of acts that are generally agreed upon to be the "Big Four Offenses". 
 
 If you commit a "Big Four Offense", you will likely no longer be welcome anywhere. They are as follows:
-    - Distribution of identifying real-life information about others (doxxing)
-    - GPU crashing or other griefing intended to damage real-life hardware
-    - Creative content theft and distribution (ripping, copybotting, etc)
-    - Mass-abuse reporting
+- Distribution of identifying real-life information about others (doxxing)
+- GPU crashing or other griefing intended to damage real-life hardware
+- Creative content theft and distribution (ripping, copybotting, etc)
+- Mass-abuse reporting
 
 We are made up of individuals from many walks of life. We all have our own life experiences, morals, and goals. It is up to **everyone**, from the top of this organization to the bottom, to ensure that this diversity is leveraged as strength to the group instead of breeding conflict.
 
