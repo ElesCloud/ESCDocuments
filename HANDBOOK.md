@@ -57,7 +57,7 @@ The Second Life Military Community has been a complex patchwork of many differen
 
 
 ### Input and Output
-Epsilon Security Consulting was founded on the idea of thinking outside the box and always striving to improve. We ultimately value and want to cultivate openness to new concepts, personal growth, adaptability, and a positive attitude.
+Epsilon Security Consulting was founded on the concept of thinking outside the box and always striving to improve. We ultimately value and want to cultivate openness to new concepts, personal growth, adaptability, and a positive attitude.
 
 You will get out of the group what you put in. Inaction and apathy will net you nothing. Genuine interest and effort will be recognized and rewarded.
 
