@@ -28,7 +28,7 @@ SECURITY LEVEL: PUBLIC DOMAIN
     - [Administration](#administration)
     - [Ancillary Departments](#ancillary-departments)
   - [Chapter Five: Combat Classes and Gear](#chapter-five-combat-classes-and-gear)
-  - [Chapter Six: Prologue](#chapter-six-prologue)
+  - [Chapter Six: Epilogue](#chapter-six-epilogue)
 
 
 
@@ -244,8 +244,17 @@ The currently available combat classes and their intended "flavor' are as follow
 - Airborne
   - All things that fly - fighter jets, gunships, fleetships. 
  
-
-
 More information about specific gear and how to progress in the class system can be found in [this document (internal only).](https://github.com/ElesCloud/ESCDocuments/blob/main/CLASSES.md)
+
+
+
+# Chapter Six: Epilogue
+
+This handbook was designed and is currently maintained by Eles Cloud. If you have any questions, you can reach out there, or to any other officer. Suggestions are welcome.
+
+Remember that ignorance is not an excuse. 
+
+Thank you for reading.
+
 
 [RETURN TO TOP](#table-of-contents)
