@@ -100,7 +100,7 @@ Everyone within the group is assumed to be an adult and is expected to act like 
 1. During combat, the designated officer in charge (OIC) is the individual responsible for all combat-related decisions.
    - OIC directives must be followed by everyone regardless of rank for the duration of that particular combat event. Despite the implication of the name, OICs are not always and do not necessarily need to be officers.
    - Any messages from opponents should be passed to the OIC to be addressed and not responded to individually. This is to ensure communication stays clear.
-   - The OIC should be given a reasonable amount of time to address problems. If there are multiple issues, they should be IMed to the OIC in a list. Recordings and screenshots should be forwarded if possible; for some issues, this is the only way to get a resolution.
+   - The OIC should be given a reasonable amount of time to address problems. If there are multiple issues, they should be IMed to the OIC in a list. Recordings and screenshots should be forwarded to the OIC if they are obtained. For some issues, proof is the only way to get a resolution.
 
 2. During any combat operations, communcation should be limited to combat-pertinent conversation. Light banter is fine, but it should not overwhelm combat pertinent communication or be disruptive.
    - Individuals who become upset or find themselves complaining a lot are strongly recommended to take a break.
