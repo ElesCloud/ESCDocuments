@@ -2,8 +2,6 @@
 
 PERSONNEL HANDBOOK
 
-VERSION 0.1
-
 SECURITY LEVEL: PUBLIC DOMAIN
 
 ![Banner](https://github.com/ElesCloud/ESCHandbook/blob/main/TYYGtcn.jpg)
@@ -28,8 +26,8 @@ SECURITY LEVEL: PUBLIC DOMAIN
     - [Foundation](#foundation)
     - [Core](#core)
     - [Administration](#administration)
-    - [Ancillary Departments](#ancillary)
-  - [Chapter Five: Combat Classes](#chapter-five-combat-classes)
+    - [Ancillary Departments](#ancillary-departments)
+  - [Chapter Five: Combat Classes and Gear](#chapter-five-combat-classes-and-gear)
   - [Chapter Six: Prologue](#chapter-six-prologue)
 
 
@@ -45,22 +43,30 @@ Epsilon Security Consulting was created in 2019 (confirm date) by Nivanglus Aya,
 ## Chapter Two: Code
 
 ### Cooperation
-- The Second Life Military Community (SLMC) has a lot of different personalities - some great, plenty terrible, and a lot that are some of both. Some lines should never be crossed, even for the shittiest among us. The foregoing acts are the generally agreed-upon "Big Four Offenses". If you commit a "Big Four Offense", you are not likely to be welcome anywhere in the community.
+The Second Life Military Community (SLMC) is made up of many different personalitie. Some are great, plenty are terrible, and most are somewhere in between. However, even for the shittiest among us, there are some lines that should never be crossed. Below is a list of acts that are generally agreed upon to be the "Big Four Offenses". If you commit a "Big Four Offense", you will likely no longer be welcome anywhere.
     - Distribution of identifying real-life information about others (doxxing)
     - GPU crashing or other griefing intended to damage real-life hardware
     - Creative content theft and distribution (ripping, copybotting, etc)
     - Mass-abuse reporting
-- We are made up of individuals from many walks of life. We all have our own life experiences, morals, and goals. It is up to **everyone**, from the top of this organization to bottom, to ensure that this diversity is leveraged as strength to the group instead of breeding conflict.
-- The Second Life Military Community has been a complex patchwork of many different groups throughout its nearly two decade lifespan. If you have spent any significant amount of time here, you are likely to encounter people from your past. These people may have been on the "other side" before. **Leave grudges at the door.**
+
+We are made up of individuals from many walks of life. We all have our own life experiences, morals, and goals. It is up to **everyone**, from the top of this organization to the bottom, to ensure that this diversity is leveraged as strength to the group instead of breeding conflict.
+
+The Second Life Military Community has been a complex patchwork of many different groups throughout its nearly two decade lifespan. If you have spent any significant amount of time here, you are likely to encounter people from your past. These people may have been on the "bad guys" side before. **Leave grudges at the door.**
+
 
 ### Input and Output
-- Epsilon Security Consulting was founded on the idea of thinking outside the box and always striving to improve. We ultimately value and intend to cultivate openness to new concepts, personal growth, adaptability, and a positive attitude.
-- You will get out of the group what you put in. Inaction and apathy will go nowhere. Genuine effort will be recognized and rewarded.
+Epsilon Security Consulting was founded on the idea of thinking outside the box and always striving to improve. We ultimately value and want to cultivate openness to new concepts, personal growth, adaptability, and a positive attitude.
+
+You will get out of the group what you put in. Inaction and apathy will net you nothing. Genuine interest and effort will be recognized and rewarded.
+
 
 ### Professionalism
-- Mistakes are expected, but we must own up to shortcomings and strive to do better next time. Finger-pointing and blame-shifting are unhelpful.
-- Individuality and expression are encouraged. However, that freedom is limited to the extent that it is not disruptive to others in the group. A balance between individuality and group interests will be maintained.
-- All individuals within the group are assumed to be adults and are expected to act like it.
+Mistakes are expected, but we must own up to shortcomings and strive to do better next time. Finger-pointing and blame-shifting are unhelpful.
+
+Individuality and expression are encouraged. However, that freedom of expression is limited to the extent that it is not disruptive to others in the group.
+
+Everyone within the group is assumed to be an adult and is expected to act like one.
+
 
 
 ## Chapter Three: Policy
@@ -170,7 +176,7 @@ Epsilon Security Consulting was created in 2019 (confirm date) by Nivanglus Aya,
 
 ### FOUNDATION
 - F-1 // CONSCRIPT
-  - *All trainees introduced to the group are conscripts for the duration of their training.
+  - *All trainees introduced to the group are conscripts for the duration of their training.*
 
 ### CORE
 - CONTRACTED
@@ -200,6 +206,44 @@ Epsilon Security Consulting was created in 2019 (confirm date) by Nivanglus Aya,
   - B-2 // ASSISTANT DIRECTOR
   - B-3 // DIRECTOR
 
-# To be continued . . .
+### ANCILLARY DEPARTMENTS
+*These are additional roles that ESC personnel may participate in that involve work above and beyond combat*
+
+- Research and Development
+  - *Internal and external branches. Develops tangible assets (creative content such as meshes, scripts, animations, land builds; database systems; other items as needed) for the organization.*
+  - *Subgroup: Quality Assurance - beta tests gear for bugs*
+- Training (Foundation)
+  - *Educates and acclimates new recruits to the organization. Coordinates with Ministry of Truth for recruitment.*
+- Ministry of Truth
+  - *Handles active recruitment of new individuals into the community and oversees external-facing information.*
+- Omega Bureau
+  - *Internal affairs and external affairs. Resolves disputes between members. Bridges between administration and other SLMC groups. Administers disciplinary action alongside Administration staff when necessary.*
+- Combat Operations
+  - *Educates individuals on OIC skills, schedules and encourages raids, determines gear authorizations.*
+
+
+# Chapter Five: Combat Classes and Gear
+
+ESC personnel are able to unlock a considerable array of gear to enrich and diversify the experience of combat. This is done through an in-house credits system. Credits are earned by actively participating in combat. The standard pay rate is 60 credits per hour, or one credit per minute.
+To be eligible for compensation, a combat operation must meet three criteria:
+  - The operation must consist of at least three individuals on at least two opposing teams.
+  - The operation must have a designated OIC for each participating team.
+  - The operation must be officially recorded via a report in ESC's records (at this time, on the forums).
+
+Time spent idle during combat will not be compensated. However, if members of the ESC team initially join combat but ratio restrictions prevent their active participation, those members will still be paid as long as they continue to actively observe. Officer and command staff may, at their discretion, add bonus credits or increase the rate of pay to compensate for extraordinary events, or to increase incentive for participation.
+
+In addition to the standard gear available to be unlocked by credits, ESC also operates with a combat class system. At a certain rank, ESC personnel are granted the ability to specialize into one of these classes for gear exclusive to that class. There is also an option to further mutliclass.
+
+The currently available combat classes and their intended "flavor' are as follows:
+  - Assault
+    - Aggressive and high-intensity up-in-your-face boots-on-the-ground fighting
+  - Airborne
+    - All things that fly - fighter jets, gunships, fleetships. 
+  - Mechanized
+    - Massive robots that walk on two legs with devastatingly big guns. 
+  - Technician
+    - A wide array of items made to support other classes and control the battlefield .
+
+More information about specific gear and how to progress in the class system can be found in [this document.](https://docs.google.com/document/d/1iEhuUfLRdqd5ViESJ3b74SBPZ1ncriMxu8fc46eh7lo/)
 
 [RETURN TO TOP](#table-of-contents)
