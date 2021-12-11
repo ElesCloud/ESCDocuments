@@ -235,15 +235,17 @@ Time spent idle during combat will not be compensated. However, if members of th
 In addition to the standard gear available to be unlocked by credits, ESC also operates with a combat class system. At a certain rank, ESC personnel are granted the ability to specialize into one of these classes for gear exclusive to that class. There is also an option to further mutliclass.
 
 The currently available combat classes and their intended "flavor' are as follows:
-  - Assault
-    - Aggressive and high-intensity up-in-your-face boots-on-the-ground fighting
-  - Airborne
-    - All things that fly - fighter jets, gunships, fleetships. 
-  - Mechanized
-    - Massive robots that walk on two legs with devastatingly big guns. 
-  - Technician
-    - A wide array of items made to support other classes and control the battlefield .
+- Assault
+  - Aggressive and high-intensity up-in-your-face boots-on-the-ground fighting
+- Technician
+  - A wide array of items made to support other classes and control the battlefield.
+- Mechanized
+  - Massive robots that walk on two legs with devastatingly big guns.
+- Airborne
+  - All things that fly - fighter jets, gunships, fleetships. 
+ 
 
-More information about specific gear and how to progress in the class system can be found in [this document.](https://docs.google.com/document/d/1iEhuUfLRdqd5ViESJ3b74SBPZ1ncriMxu8fc46eh7lo/)
+
+More information about specific gear and how to progress in the class system can be found in [this document.](https://github.com/ElesCloud/ESCDocuments/blob/main/CLASSES.md)
 
 [RETURN TO TOP](#table-of-contents)
