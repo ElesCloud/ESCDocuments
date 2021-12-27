@@ -5,7 +5,6 @@ SECOND LIFE MILITARY COMMUNITY: A PRIMER
 SECURITY LEVEL: PUBLIC DOMAIN
 
 ![Banner](https://github.com/ElesCloud/ESCHandbook/blob/main/TYYGtcn.jpg)
-///Description:
 
 ## Table of Contents
   - [Section One: Description and Purpose](#chapter-one-description-and-purpose)
