@@ -151,7 +151,7 @@ Everyone within the group is assumed to be an adult and is expected to act like 
 2. Specific to the Kusanagi Hard Suit: "key" pieces (the chest piece, upper arms, and thigh pieces) may not be replaced, removed, shrunk down, or otherwise obscured to the point that they no longer can be easily seen in the overall appearance.
    - Official ESC-issue modifications such as the Diamas Pattern Shoulder Guard and Ashigaru Shoulder Pads are an exception to this rule. 
    - **However, if the rank badge is covered up, it should be moved to another place where it can be clearly seen, such as the chestpiece.**
-3. Mbdifications of a revealing, explicit, or fetishistic/kinky nature are prohibited.
+3. Modifications of a revealing, explicit, or fetishistic/kinky nature are prohibited.
    - This part of the dress code was intentionally left up to interpretation, because what is considered "revealing" or "explicit" is subjective to the individual. 
    - A case-by-case approach is preferred. However, if this causes problems, stricter and more specific guidelines may be added in the future. Try to use common sense and have consideration for your fellow ESC personnel.
 4. The armor should be used on bipedal, anthropomorphic avatars ONLY. Quad/feral avatars are prohibited from wearing ESC apparel.
