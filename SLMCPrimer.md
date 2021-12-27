@@ -15,7 +15,7 @@ SECURITY LEVEL: PUBLIC DOMAIN
 
 ## SECTION ONE: Description and Purpose
 
-This document is an general-level guide on the basics of the Second Life Military Community. It is made from the perspective of Epsilon Security Consulting and it is intended for individuals who are interested in learning about how the community operates, whether they are part of ESC or not.
+This document is a general-level guide on the basics of the Second Life Military Community. It is made from the perspective of Epsilon Security Consulting and it is intended for individuals who are interested in learning about how the community operates, whether they are part of ESC or not.
 
 
 ## SECTION TWO: What exactly is the SLMC?
