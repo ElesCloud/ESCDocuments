@@ -41,7 +41,7 @@ Special note: All trainees must undergo P1/P2 to graduate to Contracted. However
      - R/D/S: 0/0/0
      - Comments:
 5. Have the trainee set their home in the spawn point.
-6. If the new trainee is not familiar with the SLMC at all, furnish them a copy of the SLMC primer.
+6. If the new trainee is not familiar with the SLMC at all, furnish them a copy of the [SLMC primer](https://github.com/ElesCloud/ESCDocuments/blob/main/SLMCPrimer.md).
    - The most recent version of the primer is pinned on the Trainer discord channel chat.
    - Give the trainee plenty of time to read this and ask any questions they might have.
 7. Bring the recruit to the armory and direct them to collect the items under the Recruit section, including:
