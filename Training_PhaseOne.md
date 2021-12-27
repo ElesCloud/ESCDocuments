@@ -35,11 +35,11 @@ Special note: All trainees must undergo P1/P2 to graduate to Contracted. However
 4. Denote the recruit's initiation into to Phase One in the trainer-chat on Discord.
    - This will aid us in staying efficient and organized, so we are not constantly wondering who has done what.
    - Use this template in the channel to track progress:
-Trainer:
-Recruit:
-Phase:
-R/D/S:0/0/0
-Comments:
+     - Trainer:
+     - Recruit:
+     - Phase:
+     - R/D/S: 0/0/0
+     - Comments:
 5. Have the trainee set their home in the spawn point.
 6. If the new trainee is not familiar with the SLMC at all, furnish them a copy of the SLMC primer.
    - The most recent version of the primer is pinned on the Trainer discord channel chat.
