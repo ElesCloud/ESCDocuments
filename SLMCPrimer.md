@@ -56,7 +56,7 @@ THE “BIG FOUR”: As mentioned previously, the SLMC is a place where you need 
 
 ## SECTION FIVE: Glossary
 
-The SLMC is deeply intertwined with the more technical side of Second Life as well as FPS gaming in general. There may be many concepts and terms we take for granted that may look like jargon to the unfamiliar. The following list has been compiled of some of those terms and their meanings:
+The SLMC is deeply intertwined with the more technical side of Second Life as well as FPS gaming in general. There are some concepts and terms we may take for granted that can look like jargon to the unfamiliar. The following list has been compiled of some of those terms and their meanings:
 
 - **Dodgeroll**: Most groups in the SLMC utilize a type of scripted movement enhancement called a dodgeroll. This a quick dash or roll of no more than 10 meters with a cool-down period in between uses. It is considered a standard feature by most groups.
 - **Hard fall**: This is a moment of immobility when you've landed on your face after falling a long distance. Disabling this is cheating and typically prohibited in most SLMC sims.
