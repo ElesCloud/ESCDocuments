@@ -13,6 +13,7 @@ SECURITY LEVEL: PUBLIC DOMAIN
   - [Section Three: Structure](#section-three-structure-classes-gear)
 
 In this phase, you will be covering ESC's handbook with the recruit. Open the handbook and explain it as best you can using your own personal example, lecture-style to the recruit. 
+
 Watch your recruit's level of engagement. This is an interactive and variable part of the training. Read the room and go at a pace appropriate to the class you are holding.
 
 ## Section One: Code
