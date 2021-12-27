@@ -35,7 +35,7 @@ Special note: All trainees must undergo P1/P2 to graduate to Contracted. However
 4. Denote the recruit's initiation into to Phase One in the trainer-chat on Discord.
    - This will aid us in staying efficient and organized, so we are not constantly wondering who has done what.
    - Use this template in the channel (with the ```s):
-> " ```Trainer:
+" ```Trainer:
 Recruit:
 Phase:
 R/D/S:0/0/0
