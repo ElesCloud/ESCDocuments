@@ -121,7 +121,7 @@ Everyone within the group is assumed to be an adult and is expected to act like 
 1. Some attackers who come to fight don't organize under a group and instead fight independently. These "lone wolves" typically come with lower-quality firepower and less tactical advantage than participants in an organized group do. To keep things fair, lone wolves should be handled on a strictly one-to-one ratio. Limited exceptions apply as noted below:
    - The attacker(s) use equipment more powerful than what the defenders have available and the only way to compensate the imbalance is to add more defenders.
    - Additional ESC personnel are invited by the lone wolf.
-2. All ESC personnel are expected to be aware of our own sim rules. The most recent edition can be found [here](https://github.com/Nivanglus/Epsilon-Rules/blob/master/Rules.md)
+2. All ESC personnel are expected to be aware of our own sim rules. The most recent edition can be found [here](https://github.com/Nivanglus/Epsilon-Rules/blob/master/Rules.md).
    - Ignorance of these rules is not an excuse and will not be tolerated.
 2. The defending OIC may ask groups to leave if combat becomes disruptive or tiresome.
 
