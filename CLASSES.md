@@ -2,7 +2,7 @@
 
 COMBAT CLASS GUIDE
 
-SECURITY LEVEL: INTERNAL GENERAL
+SECURITY LEVEL: PUBLIC DOMAIN
 
 ![Banner](https://github.com/ElesCloud/ESCHandbook/blob/main/TYYGtcn.jpg)
 
