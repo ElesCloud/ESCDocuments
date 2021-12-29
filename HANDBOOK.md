@@ -238,7 +238,7 @@ In addition to the standard gear available to be unlocked by credits, ESC also o
 
 The currently available combat classes and their intended "flavor' are as follows:
 - Assault
-  - Aggressive and high-intensity up-in-your-face boots-on-the-ground fighting
+  - Aggressive and high-intensity up-in-your-face boots-on-the-ground fighting.
 - Technician
   - A wide array of items made to support other classes and control the battlefield.
 - Mechanized
