@@ -246,7 +246,7 @@ The currently available combat classes and their intended "flavor' are as follow
 - Airborne
   - All things that fly - fighter jets, gunships, fleetships. 
  
-More information about specific gear and how to progress in the class system can be found in [this document (internal only).](https://github.com/ElesCloud/ESCDocumentsInternal/blob/main/CLASSES.md)
+More information about specific gear and how to progress in the class system can be found in [this document](https://github.com/ElesCloud/ESCDocuments/blob/main/CLASSES.md).
 
 
 
