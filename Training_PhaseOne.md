@@ -58,4 +58,4 @@ Special note: All trainees must undergo P1/P2 to graduate to Contracted. However
    - Give the trainee plenty of time to read this and ask any questions they might have.
 4. Ensure the trainee has a copy of the handbook [at this link](https://github.com/ElesCloud/ESCDocuments/blob/main/HANDBOOK.md).
 
-**PHASE ONE COMPLETE. Proceed to Phase Two.**
+**PHASE ONE COMPLETE. Proceed to [Phase Two](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md).**
