@@ -5,7 +5,7 @@ PHASE ONE | INTAKE PROCESSING
 
 SECURITY LEVEL: PUBLIC DOMAIN
 
-PHASE [TWO](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md) / [THREE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseThree.md) / [FOUR](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFour.md)
+OTHER PHASES: [TWO](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md) - [THREE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseThree.md) - [FOUR](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFour.md)
 
 ![Banner](https://github.com/ElesCloud/ESCHandbook/blob/main/TYYGtcn.jpg)
 
