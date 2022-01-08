@@ -2,6 +2,7 @@
 
 TRAINING INSTRUCTIONS
 PHASE TWO | ORIENTATION
+
 [PREVIOUS PHASE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOne.md)
 
 SECURITY LEVEL: PUBLIC DOMAIN
