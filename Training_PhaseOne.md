@@ -50,7 +50,7 @@ Special note: All trainees must undergo P1/P2 to graduate to Contracted. However
    - The RF30 Recruit SMG
 2. Bring the recruit to the classroom and go over components of the HUD. Explain to them that it is gesture-driven.
    - The HUD Diagram can be found and linked from [here](https://github.com/ElesCloud/ESCDocuments/blob/main/huddiagram%20labeled.png).
-   - Note that the gestures on the diagram are the defaults, but they can be customized however the recruit would like.
+   - Note that the gestures on the diagram and in the folder are the defaults, but they can be customized however the recruit would like.
    - Make sure they look at the gestures. Most of them are self-explanatory, but if the recruit wants to know what one does, explain it to them.
    - Make a note that if gestures overlap on the same key, they will not work properly.
    - Allow them time to test if they want.
