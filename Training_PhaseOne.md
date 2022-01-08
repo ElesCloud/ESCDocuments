@@ -40,13 +40,13 @@ Special note: All trainees must undergo P1/P2 to graduate to Contracted. However
      - Phase:
      - R/D/S: 0/0/0
      - Comments:
-5. Have the trainee set their home in the spawn point.
+5. Have the trainee set their client homepoint in the spawn area and configure their HUD Return-to-Base homepoint also using /c !sethome.
 
 ## Section Three: Gear and Documentation
 1. Bring the recruit to the armory and direct them to collect the items under the Recruit section, including:
    - The trainee uniform
    - "-Epsilon Standard Gear (Adony)-" (has the current HUD and an old outdated plasma knife)
-   - HUD gestures - as of this edition of the guide, there are two. Fuck if I know why. As far as I can tell, they're the same.
+   - HUD gestures package.
    - The RF30 Recruit SMG
 2. Bring the recruit to the classroom and go over components of the HUD. Explain to them that it is gesture-driven.
    - Link the trainee to the [HUD Diagram](https://github.com/ElesCloud/ESCDocuments/blob/main/huddiagram%20labeled.png).
