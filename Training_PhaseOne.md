@@ -40,7 +40,7 @@ Special note: All trainees must undergo P1/P2 to graduate to Contracted. However
      - Phase:
      - R/D/S: 0/0/0
      - Comments:
-5. Have the trainee set their client homepoint in the spawn area and configure their HUD Return-to-Base homepoint also using /c !sethome.
+5. Have the trainee set their viewer homepoint in the spawn area and configure their HUD Return-to-Base homepoint also using /c !sethome.
 
 ## Section Three: Gear and Documentation
 1. Bring the recruit to the armory and direct them to collect the items under the Recruit section, including:
