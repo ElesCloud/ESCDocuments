@@ -29,3 +29,28 @@ Important information about the database and the forums:
 - Explain that the web database tracks individual rank and class, and most of the gear we keep is documented and distributed through this website.
 - You will need to go into the database and manually edit their new user file from Rank: Conscript to Rank: Contracted. If you cannot do this, ask for help right away.
 - Anytime they click the terminal on the pedestal after initial registration, it provides a direct link to the database. The terminal on the wall will allow them to reset their password on the database.
+
+
+## Section Two: Contracted Gear
+
+After they have been successfully registered to the database and their rank has been configured, the new Contracted will have access to some equipment for free.
+- Weapons and tools:
+  - [ESC.] Arcwelder 'Zappy Repair'
+  - [ESC.] 'Astrape' Tesla Knife
+  - [ESC.] G19 'Wickerman' Pistol
+  - [ESC.] AAX-21 'High Roller' Rocket Launcher
+  - [ESC.] // "Huntsman" Knife
+  - [ESC.] R301 Assault Rifle 
+- Cosmetics
+  - [ESC] \\ Diamas-Pattern Shoulder Guard
+  - [ESC] \\ "Ingeniare" Helmet
+  - [ESC] Enlisted helmet overlay
+
+The new Contracted should also collect their uniforms. Pictures attached if you want to show the recruit what a mostly unmodified set looks like out of the box without changing outfits.
+Kusanagi Hard Suit - General combat use. Not for use at meetings. Made of multiple unrigged, modifiable pieces.
+![image](https://user-images.githubusercontent.com/71983240/148656770-0f66a1ef-b922-4e4e-84ed-e0ee4ac30f5d.png)
+
+Seraph Light Armor - General combat use and meetings (required for meetings). Fully rigged, one piece. Not modifiable.
+![image](https://user-images.githubusercontent.com/71983240/148656913-7824c117-e7d3-45ec-bcc2-39f155b2f3ec.png)
+
+
