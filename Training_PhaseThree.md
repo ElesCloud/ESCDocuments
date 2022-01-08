@@ -23,7 +23,7 @@ Rules to note:
 - The purple-colored pads are checkpoint areas. The recruit should set their homepoint on these to save progress. This requires the Land group.
 - The course was not designed to require anything other than regular running and jumping. No movement enhancers are permitted at all.
   - This includes the standard dodgeroll in the HUD. The recruit should detach the HUD for this section.
-  - Any attempts made that involved cheating are invalid and will not count toward passing.
+  - Completions of the course made with the assistance of movement enhancers do not count toward passing.
 - If the recruit hasn't made any progress in an extended time and there are extenuating circumstances that clearly bar them from succeeding despite their best efforts, the course *may* be skipped.
   - Examples of extenuating circumstances include: 
     - A real-life physical condition that limits their reaction time
