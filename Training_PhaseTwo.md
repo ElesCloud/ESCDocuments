@@ -43,7 +43,7 @@ Illustrate in more detail our "input/output" concept as it applies to rank.
     - Higher-ranked individuals have proven themselves to be trustworthy and have dedicated more time and effort to the group, but that does not mean they are more important.
     - Everyone's contribution is appreciated.
   - It's fine to take breaks from ESC sometimes, both short and extended as needed. However, there's a difference between taking a break and going AWOL.
-    - If there's a problem causing them to not want to be around, that person needs to say something. We can't resolve problems we are not aware of.
+    - If they are avoiding us because of a problem, they need to say something. We can't resolve problems we are not aware of.
     - If that doesn't help and they are still not happy, they are free to depart. Our members should be here because they want to be, not because they feel like they have to be.
 
 Make note of the combat classes and be sure they check the [class document](https://github.com/ElesCloud/ESCDocuments/blob/main/CLASSES.md) for details on how class ranks work and what specialized gear is available to each class.
