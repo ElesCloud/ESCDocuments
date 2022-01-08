@@ -3,9 +3,9 @@
 TRAINING INSTRUCTIONS
 PHASE TWO | ORIENTATION
 
-[PREVIOUS PHASE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOne.md)
-
 SECURITY LEVEL: PUBLIC DOMAIN
+
+[PREVIOUS PHASE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOne.md)
 
 ![Banner](https://github.com/ElesCloud/ESCHandbook/blob/main/TYYGtcn.jpg)
 
