@@ -43,16 +43,20 @@ Special note: All trainees must undergo P1/P2 to graduate to Contracted. However
 5. Have the trainee set their home in the spawn point.
 6. If the new trainee is not familiar with the SLMC at all, furnish them a copy of the [SLMC primer](https://github.com/ElesCloud/ESCDocuments/blob/main/SLMCPrimer.md)..
    - Give the trainee plenty of time to read this and ask any questions they might have.
+
+## Section Three: Gear and Documentation
 7. Bring the recruit to the armory and direct them to collect the items under the Recruit section, including:
    - The trainee uniform
    - "-Epsilon Standard Gear (Adony)-" (has the current HUD and a non-functional plasma knife)
    - HUD gestures - as of this edition of the guide, there are two. Fuck if I know why. As far as I can tell, they're the same.
    - The RF30 Recruit SMG
 8. Bring the recruit to the classroom and go over components of the HUD. Explain to them that it is gesture-driven.
-   - An infographic will be added to this guide to help you go over the HUD itself, soon (TM).
-   - Gestures can be customized however the recruit would like.
-   - Make sure the recruit knows that if gestures overlap on the same key, they will not work properly.
+   - The HUD Diagram can be found and linked from [here](https://github.com/ElesCloud/ESCDocuments/blob/main/huddiagram%20labeled.png).
+   - Note that the gestures on the diagram are the defaults, but they can be customized however the recruit would like.
+   - Make sure they look at the gestures. Most of them are self-explanatory, but if the recruit wants to know what one does, explain it to them.
+   - Make a note that if gestures overlap on the same key, they will not work properly.
    - Allow them time to test if they want.
+
 9. Ensure the trainee has a copy of the handbook [at this link](https://github.com/ElesCloud/ESCDocuments/blob/main/HANDBOOK.md).
 
 **PHASE ONE COMPLETE. Proceed to Phase Two.**
