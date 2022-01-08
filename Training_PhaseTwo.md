@@ -54,4 +54,4 @@ Make note of the different ancillary departments and what they do.
 
 Offer an opportunity to ask any questions.
 
-**PHASE TWO COMPLETE. Proceed to Phase Three (regular training) or Phase Four (expedited).**
+**PHASE TWO COMPLETE. Proceed to Phase [Three](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseThree.md) (standard training) or Phase [Four](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFour.md) (expedited).**
