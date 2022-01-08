@@ -36,4 +36,20 @@ Trainers are not required to lead the recruit through the entire course. However
 * Starting with this edition of the training materials, prospective trainers will be required to demonstrate their ability before they qualify to train others.
 
 
-## Section Two: One on One Combat
+## Section Two: One-on-One Combat
+Take the recruit to the skirmish area. The trainer and any recruits should set their home points. The next part is combat in its most basic element, a test of their ability to fight.
+
+Complete at least three rounds one-on-one. Both trainer and recruit may only use the RF30 and frag grenades. If the recruit is able to hold their own, then they pass. If they clearly struggle, extend the combat out until they show improvement, as many rounds as necessary. Point out mistakes that they make and give suggestions to improve their ability to survive.
+
+If there is more than one recruit, complete each recruit's portion of this training one at a time.
+
+## Section Three: Official Combat
+For the last section of training, the recruit must join an official, report-logged combat event to pass. They can meet this requirement by participating in any kind of combat available - raid, defense, or skirmish. They must have been present for a minimum of 30 minutes or the full combat event if it lasted less than 30 minutes.
+
+**In keeping with the concept of input/output, it is our policy to pay recruits for all combat they participate in. A recruit who goes above and beyond the minimum should be given more than the minimum.**
+- There is no failsafe way to implement this at this time because the combat HUD does not track participation time for recruits. 
+- Until a system is implemented, the recruit should keep track of how long they spend fighting and report it to their trainer. This does mean we will be assuming they are reporting themselves accurately.
+- The recruit will be paid retroactively for all accumulated time spent in official events at graduation. It is the trainer's responsibility to ensure that this payment is made in the final phase. Trainers who fail to compensate recruits for their time may lose training privileges.
+
+
+**PHASE THREE COMPLETE. Proceed to Phase Four.**
