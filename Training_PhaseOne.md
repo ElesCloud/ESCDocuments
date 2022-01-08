@@ -45,7 +45,7 @@ Special note: All trainees must undergo P1/P2 to graduate to Contracted. However
 ## Section Three: Gear and Documentation
 1. Bring the recruit to the armory and direct them to collect the items under the Recruit section, including:
    - The trainee uniform
-   - "-Epsilon Standard Gear (Adony)-" (has the current HUD and a non-functional plasma knife)
+   - "-Epsilon Standard Gear (Adony)-" (has the current HUD and an old outdated plasma knife)
    - HUD gestures - as of this edition of the guide, there are two. Fuck if I know why. As far as I can tell, they're the same.
    - The RF30 Recruit SMG
 2. Bring the recruit to the classroom and go over components of the HUD. Explain to them that it is gesture-driven.
