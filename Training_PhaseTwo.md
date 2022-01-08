@@ -10,7 +10,7 @@ SECURITY LEVEL: PUBLIC DOMAIN
 ## Table of Contents
   - [Section One: Code](#section-one-code)
   - [Section Two: Policy](#section-two-policy)
-  - [Section Three: Structure](#section-three-structure-classes-gear)
+  - [Section Three: Structure, Classes, Gear](#section-three-structure-classes-gear)
 
 In this phase, you will be covering ESC's [handbook](https://github.com/ElesCloud/ESCDocuments/blob/main/HANDBOOK.md) with the recruit. Open the handbook and explain it as best you can using your own personal example, lecture-style to the recruit. 
 
