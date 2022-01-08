@@ -46,7 +46,7 @@ After they have been successfully registered to the database and their rank has 
   - [ESC] \\ "Ingeniare" Helmet
   - [ESC] Enlisted helmet overlay
 
-The new Contracted should also collect their uniforms. Pictures attached if you want to show the recruit what a mostly unmodified set looks like out of the box without changing outfits.
+The new Contracted should also collect their uniforms. Pictures below to link if you want to show the recruit what a mostly unmodified set looks like out of the box without changing outfits.
 Kusanagi Hard Suit - General combat use. Not for use at meetings. Made of multiple unrigged, modifiable pieces.
 ![image](https://user-images.githubusercontent.com/71983240/148656770-0f66a1ef-b922-4e4e-84ed-e0ee4ac30f5d.png)
 
