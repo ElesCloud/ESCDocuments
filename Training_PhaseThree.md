@@ -11,7 +11,7 @@ PHASE [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOn
 
 ## Table of Contents
   - [Section One: Movement Course](#section-one-movement-course)
-  - [Section Two: One on One Combat](#section-two-one-on-one-combat)
+  - [Section Two: One-on-One Combat](#section-two-one-on-one-combat)
   - [Section ThreE: Official Combat](#section-three-official-combat)
 
 ## Section One: Movement Course
