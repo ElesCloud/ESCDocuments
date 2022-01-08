@@ -19,6 +19,7 @@ Bring the recruit to the movement course. The movement course can be accessed by
 
 Rules to note:
 - The course must be completed fully from start to finish under a trainer's observation to pass.
+- There is no time limit.
 - The purple-colored pads are checkpoint areas. The recruit should set their homepoint on these to save progress. This requires the Land group.
 - Client-side assists like pre-jump or disabled hard-fall and movement enhancers are **prohibited**. The course was not designed to require anything other than running and jumping. 
   - This includes the standard dodgeroll in the HUD. The recruit should detach the HUD for this section.
