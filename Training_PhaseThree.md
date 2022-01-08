@@ -39,7 +39,7 @@ Trainers are not required to lead the recruit through the entire course. However
 ## Section Two: One-on-One Combat
 Take the recruit to the skirmish area. The trainer and any recruits should set their home points. The next part is combat in its most basic element, a test of their ability to fight.
 
-Complete at least three rounds one-on-one. Both trainer and recruit may only use the RF30 and frag grenades. If the recruit is able to hold their own, then they pass. If they clearly struggle, extend the combat out until they show improvement, as many rounds as necessary. Point out mistakes that they make and give suggestions to improve their ability to survive.
+Complete at least three rounds one-on-one. Both trainer and recruit may only use the RF30 and frag grenades. If the recruit is able to hold their own, then they pass. If they clearly struggle, extend the combat section by as many rounds necessary until they show improvement. Point out mistakes that they make and give suggestions to improve their ability to survive.
 
 If there is more than one recruit, complete each recruit's portion of this training one at a time.
 
