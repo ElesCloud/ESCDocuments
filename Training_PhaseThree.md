@@ -5,7 +5,7 @@ PHASE THREE | PRACTICAL SKILLS
 
 SECURITY LEVEL: PUBLIC DOMAIN
 
-PHASE [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOne.md) / [TWO](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md) / FOUR
+OTHER PHASES [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOne.md) - [TWO](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md) - [FOUR](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFour.md)
 
 ![Banner](https://github.com/ElesCloud/ESCHandbook/blob/main/TYYGtcn.jpg)
 
@@ -54,4 +54,4 @@ For the last section of training, the recruit must join an official, report-logg
 - The recruit will be paid retroactively for all accumulated time spent in official events at graduation. It is the trainer's responsibility to ensure that this payment is made in the final phase. Trainers who fail to compensate recruits for their time may lose training privileges.
 
 
-**PHASE THREE COMPLETE. Proceed to Phase Four.**
+**PHASE THREE COMPLETE. Proceed to Phase [Four](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFour.md).**
