@@ -21,7 +21,7 @@ Rules to note:
 - The course must be completed fully from start to finish under a trainer's observation to pass.
 - There is no time limit.
 - The purple-colored pads are checkpoint areas. The recruit should set their homepoint on these to save progress. This requires the Land group.
-- Client-side assists like pre-jump or disabled hard-fall and movement enhancers are **prohibited**. The course was not designed to require anything other than running and jumping. 
+- All movemement enhancement is prohibited. The course was not designed to require anything other than regular running and jumping. 
   - This includes the standard dodgeroll in the HUD. The recruit should detach the HUD for this section.
   - Individuals who try to cheat will not pass until they complete the full course without assistance.
 - If the recruit hasn't made any progress in an extended time and there are extenuating circumstances that clearly bar them from succeeding despite their best efforts, the course *may* be skipped.
