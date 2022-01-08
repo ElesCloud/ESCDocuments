@@ -37,11 +37,12 @@ Shift to Chapter Three: Policy and go over each section. While it is not necessa
 
 Briefly cover our rank structure, from "Foundation" (trainees), to "Core" (enlisted/"contracted" and NCOs), and "Administration" (officers and command).
 
-Make note of the specific ranks at which contracted may choose a combat class (C-2) and begin accepting jobs (C-3).
-  - As personnel are promoted, their level of responsibility will also increase. Lower C-ranks just need to show up and shoot stuff; beyond that, it gets more involved.
-  - It is perfectly fine to be career enlisted, if that is all that member wants.
-  - Intentionally ignoring calls to muster for combat or to appear at meetings may result in a rank reduction or even removal.
-  - If you have to force yourself to show up all the time, then you should reconsider why you are part of ESC. There is no expectation to stay if you aren't having fun.
+Illustrate in more detail our "input/output" concept here.
+  - As personnel are promoted, their level of responsibility they receive is increased. Lower C-ranks just need to show up, but beyond that, it gets more involved.
+    - If a person joins and they have no interest in doing anything other than combat, there is no shame in staying career Contracted. Everyone's contribution is appreciated and valued.
+  - It's fine to take breaks from ESC sometimes, both short and extended as needed. However, there's a difference between taking a break and going AWOL.
+    - If there's a problem causing them to not want to be around, that person needs to say something. We can't resolve problems we are not aware of.
+    - If that doesn't help and they are still not happy, they are free to depart. Our members should be here because they want to be, not because they feel like they have to be.
 
 Make note of the combat classes and be sure they check the [class document](https://github.com/ElesCloud/ESCDocuments/blob/main/CLASSES.md) for details on how class ranks work and what specialized gear is available to each class.
 
