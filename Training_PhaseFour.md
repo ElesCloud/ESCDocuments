@@ -17,7 +17,7 @@ PHASE [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOn
 
 ## Section One: Database Registration
 1. Invite the recruit to the main Epsilon Security Consulting group.
-   - Not all trainers have this ability. IF you don't, contact an available officer or other trainer with admin rights. This must be done before any other part of this phase can be successfully completed.
+   - Not all trainers have this ability. If you don't, contact an available officer or other trainer with admin rights. This must be done before any other part of this phase can be successfully completed.
 2. Change the recruit's DIscord role.
 - Epsilon Bot’s role command is !enlisted @discordname#tag.
 - If you can't change roles, seek assistance.
