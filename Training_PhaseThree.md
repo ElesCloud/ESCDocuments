@@ -32,7 +32,7 @@ Rules to note:
   - **This must be documented clearly in the progress notes.**
   - **A recruit who misrepresents these circumstances to get out of the course will be shamed and face disciplinary action.**
 
-Trainers are not required to lead the recruit through the entire course. However, they may be required to demonstrate specific sections to the recruit if they struggle, so trainers must be able to successfully complete the course themselves. 
+Trainers are not required to lead the recruit through the entire course. However, they may be required to demonstrate specific sections to the recruit if they struggle. Therefore, trainers must be able to successfully complete the course themselves. 
 * Starting with this edition of the training materials, prospective trainers will be required to demonstrate their ability before they qualify to train others.
 
 
