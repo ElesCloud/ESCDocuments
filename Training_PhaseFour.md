@@ -19,8 +19,8 @@ PHASE [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOn
 1. Invite the recruit to the main Epsilon Security Consulting group.
    - Not all trainers have this ability. If you don't, contact an available officer or other trainer with admin rights. This must be done before any other part of this phase can be successfully completed.
 2. Change the recruit's DIscord role.
-  - Epsilon Bot’s role command is !enlisted @discordname#tag.
-  - If you can't change roles, seek assistance.
+   - Epsilon Bot’s role command is !enlisted @discordname#tag.
+   - If you can't change roles, seek assistance.
 3. Bring the recruit to the Armory and have them click the **terminal on the pedestal** to connect their Second Life account to the web-based database and to the forums. ![terminal yes-no](https://user-images.githubusercontent.com/71983240/148655928-6b606629-befd-47d1-a013-f6f1820a5ada.png)
 
 Important information about the database and the forums:
