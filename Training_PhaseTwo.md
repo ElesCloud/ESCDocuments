@@ -5,7 +5,7 @@ PHASE TWO | ORIENTATION
 
 SECURITY LEVEL: PUBLIC DOMAIN
 
-PHASE [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOne.md) TWO THREE FOUR
+PHASE [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOne.md) / THREE / FOUR
 
 ![Banner](https://github.com/ElesCloud/ESCHandbook/blob/main/TYYGtcn.jpg)
 
