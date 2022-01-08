@@ -21,7 +21,8 @@ PHASE [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOn
 2. Change the recruit's DIscord role.
    - Epsilon Bot’s role command is !enlisted @discordname#tag.
    - If you can't change roles, seek assistance.
-3. Bring the recruit to the Armory and have them click the **terminal on the pedestal** to connect their Second Life account to the web-based database and to the forums. ![terminal yes-no](https://user-images.githubusercontent.com/71983240/148655928-6b606629-befd-47d1-a013-f6f1820a5ada.png)
+3. Bring the recruit to the Armory and have them click the **terminal on the pedestal** to connect their Second Life account to the web-based database and to the forums.![terminal yes-no](https://user-images.githubusercontent.com/71983240/148656441-adaa8a04-beb3-4b41-b6d1-9203a1fdbfb6.png)
+
 
 Important information about the database and the forums:
 - On the initial registration click, the terminal will not only set their account up, but will also provide them a temporary password in their local chat **for the forums**. Have them [log in](https://epsilonsecurityconsulting.net/index.php) and change their password.
