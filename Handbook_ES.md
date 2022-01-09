@@ -198,7 +198,7 @@ Se supone que todos los miembros del grupo son adultos y se espera que actúen c
   - W-1 // GUARDIAN
   - W-2 // ENFORCER
 
-### ADMINISTRATION
+### ADMINISTRACIÓN
 - OFFICERS
   - O-1 // CAPTAIN
   - O-2 // MAJOR
