@@ -250,7 +250,7 @@ Puede encontrar más información sobre equipo específico y cómo progresar en 
 
 
 
-# Capítulo Seis: Epílogo
+# Capítulo Siete: Epílogo
 
 Este manual fue diseñado y actualmente es mantenido por Eles Cloud. Si tiene alguna pregunta, puede comunicarse allí o con cualquier otro oficial. Las sugerencias son bienvenidas.
 
