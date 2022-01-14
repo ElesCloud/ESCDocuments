@@ -13,10 +13,10 @@ SECURITY LEVEL: PUBLIC DOMAIN
      - [Prestige Mode](#prestige-mode)
      - [Class Resets](#class-resets)
    - [Chapter Four: Available Gear](#chapter-four-available-gear)
-     - [1. ASSAULT](#1.-assault)
-     - [2. TECHNICIAN](#2.-technician)
-     - [3. MECHANIZED](#3.-mechanized)
-     - [4. AIRBORNE](#4.-airborne)
+     - [1. ASSAULT](#1-assault)
+     - [2. TECHNICIAN](#2-technician)
+     - [3. MECHANIZED](#3-mechanized)
+     - [4. AIRBORNE](#4-airborne)
    
    
 # Chapter One: Introduction
