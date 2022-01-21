@@ -67,7 +67,7 @@ To start the new Contracted personnel on their fruitful career with Epsilon Secu
 Trainers will be compensated for their efforts to bring new members into the group. The rate is 75 credits per phase completed.
 - A fully completed standard training course from intake to exit processing is 300 credits.
 - Trainers who completed the expedited process are eligible for 225 credits. 
-- Partial training is paid per hpase.
+- Partial training is paid per phase.
 - If you cannot pay yourself, ask to be paid.
 
 **PHASE FOUR COMPLETE.** 
