@@ -32,7 +32,8 @@ Shift to Chapter Three: Policy and go over each section. While it is not necessa
 - Remind the recruit that the handbook will always be available for reference.
 - If at any point you encounter a question you can't answer, it is your job to follow up and find that answer. "I don't know" is not acceptable.
 - To ensure that the recruit has at least a basic understanding of our expectations, a quiz has been developed for use [here](https://forms.gle/wQFGguMS71cZVAGk8). 
--  This quiz requires a passing grade of 8/10. If they fail, go over Chapter Three: Policy with them again and spend more time covering the rules. It is crucial that they understand how we operate and will abide by our protocols. Remember Section One. If they are not clicking well with this part, it is not too late for them to decide to drop out.
+-  This quiz requires a passing grade of 8/10. The quiz will give them a score response immediately after they complete it.
+-  If they fail, go over Chapter Three: Policy with them again and spend more time covering the rules. It is crucial that they understand how we operate and will abide by our protocols. Remember Section One. If they are not clicking well with this part, it is not too late for them to decide to drop out.
 
 
 ## Section Three: Structure, Classes, Gear
