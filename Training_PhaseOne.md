@@ -42,7 +42,7 @@ Special note: All trainees must undergo P1/P2 to graduate to Contracted. However
      - Phase:
      - R/D/S: 0/0/0
      - Comments:
-5. Have the trainee set their viewer homepoint in the spawn area and configure their HUD Return-to-Base homepoint also using /c !sethome.
+5. Have the trainee set their viewer homepoint in the spawn area.
 
 ## Section Three: Gear and Documentation
 1. Bring the recruit to the armory and direct them to collect the items under the Recruit section, including:
@@ -50,14 +50,15 @@ Special note: All trainees must undergo P1/P2 to graduate to Contracted. However
    - "-Epsilon Standard Gear (Adony)-" (has the current HUD and an old outdated plasma knife)
    - HUD gestures package.
    - The RF30 Recruit SMG
-2. Bring the recruit to the classroom and go over components of the HUD. Explain to them that it is gesture-driven.
+2. Take the recruit back to the spawn area to configure their HUD Return-to-Base homepoint using /c !sethome.
+3. Bring the recruit to the classroom and go over components of the HUD. Explain to them that it is gesture-driven.
    - Link the trainee to the [HUD Diagram](https://github.com/ElesCloud/ESCDocuments/blob/main/huddiagram%20labeled.png).
    - Note that the gestures on the diagram and in the folder are the defaults, but they can be customized however the recruit would like.
    - Make sure they look at the gestures. Most of them are self-explanatory, but if the recruit wants to know what one does, explain it to them.
    - Make a note that if gestures overlap on the same key, they will not work properly.
    - Allow them time to test if they want.
-3. If the new trainee is not familiar with the SLMC at all, furnish them a copy of the [SLMC primer](https://github.com/ElesCloud/ESCDocuments/blob/main/SLMCPrimer.md)..
+4. If the new trainee is not familiar with the SLMC at all, furnish them a copy of the [SLMC primer](https://github.com/ElesCloud/ESCDocuments/blob/main/SLMCPrimer.md)..
    - Give the trainee plenty of time to read this and ask any questions they might have.
-4. Ensure the trainee has a copy of the handbook [at this link](https://github.com/ElesCloud/ESCDocuments/blob/main/HANDBOOK.md).
+5. Ensure the trainee has a copy of the handbook [at this link](https://github.com/ElesCloud/ESCDocuments/blob/main/HANDBOOK.md).
 
 **PHASE ONE COMPLETE. Proceed to [Phase Two](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md).**
