@@ -57,7 +57,7 @@ Special note: All trainees must undergo P1/P2 to graduate to Contracted. However
    - Make sure they look at the gestures. Most of them are self-explanatory, but if the recruit wants to know what one does, explain it to them.
    - Make a note that if gestures overlap on the same key, they will not work properly.
    - Allow them time to test if they want.
-4. If the new trainee is not familiar with the SLMC at all, furnish them a copy of the [SLMC primer](https://github.com/ElesCloud/ESCDocuments/blob/main/SLMCPrimer.md)..
+4. If the new trainee is not familiar with the SLMC at all, furnish them a copy of the [SLMC primer](https://github.com/ElesCloud/ESCDocuments/blob/main/SLMCPrimer.md).
    - Give the trainee plenty of time to read this and ask any questions they might have.
 5. Ensure the trainee has a copy of the handbook [at this link](https://github.com/ElesCloud/ESCDocuments/blob/main/HANDBOOK.md).
 
