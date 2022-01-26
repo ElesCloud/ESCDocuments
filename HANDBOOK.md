@@ -209,7 +209,7 @@ Everyone within the group is assumed to be an adult and is expected to act like 
   - B-3 // DIRECTOR
 
 ### ANCILLARY DEPARTMENTS
-*These are additional roles that ESC personnel may participate in that involve work above and beyond combat*
+*These are additional roles that ESC personnel may participate in that involve work above and beyond combat.*
 
 - Research and Development
   - *Internal and external branches. Develops tangible assets (creative content such as meshes, scripts, animations, land builds; database systems; other items as needed) for the organization.*
