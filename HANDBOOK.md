@@ -140,7 +140,7 @@ Everyone within the group is assumed to be an adult and is expected to act like 
      - Example: if ESC is made aware that one of our own is blatantly griefing another group, the offender may not only be ejected or banned from that sim, but also removed from ESC as well.
 
 
-#### Dress Code
+### Dress Code
 
 ##### Modifications
 1. Everyone is encouraged to add personality to their uniforms and modify to their taste. As mentioned in Chapter Two: Code, there should be a balance between individual expression and group representation.
