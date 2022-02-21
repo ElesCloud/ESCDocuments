@@ -134,7 +134,7 @@ Everyone within the group is assumed to be an adult and is expected to act like 
    - The raid party should attempt to deploy and exit roughly together to avoid unnecessary strain on sim resources.
 
 2. ESC personnel are permitted to engage in combat independent from ESC. Stipulations apply.
-   - ESC personnel may NOT be using an ESC tag or wearing an ESC uniform.
+   - ESC personnel may not wear the ESC uniform or tag or otherwise imply that they are acting on behalf of ESC while fighting independently.
    - ESC gear is acceptable to use, up to and including vehicles, but excluding unreleased and unfinished items.
      - OIC requests to test/examine gear should be referred to that group's diplomacy rep or an officer with R&D competency.
    - ESC personnel will not be protected from the administrative actions of sim owners and other groups made in response to unofficial, off-group activities. 
