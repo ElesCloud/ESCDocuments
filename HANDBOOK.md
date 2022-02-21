@@ -133,12 +133,14 @@ Everyone within the group is assumed to be an adult and is expected to act like 
    - The OIC is responsible for ensuring that all members of the raid party arrive and are able to set their home points in the appropriate place.
    - The raid party should attempt to deploy and exit roughly together to avoid unnecessary strain on sim resources.
 
-2. ESC personnel **are** permitted to engage in combat independent from ESC. However, there are stipulations.
-   - ESC personnel may NOT be using an ESC tag or wearing an ESC uniform, and may not use ESC armory gear while acting unofficially.
-   - ESC is not responsible for the conduct of any ESC personnel acting on their own and will not act to appeal any disciplinary measures incurred for misconduct during unofficial activity.
-   - If the misconduct is egregious enough, ESC reserves the right to add more disciplinary measures on top of what the defending group administers.
-     - Example: if ESC is made aware that one of our own is blatantly griefing another group, the offender may not only be ejected or banned from that sim, but also removed from ESC as well.
-
+2. ESC personnel are permitted to engage in combat independent from ESC. Stipulations apply.
+   - ESC personnel may NOT be using an ESC tag or wearing an ESC uniform.
+   - ESC gear is acceptable to use, up to and including vehicles, but excluding unreleased and unfinished items.
+     - OIC requests to test/examine gear should be referred to that group's diplomacy rep or an officer with R&D competency.
+   - ESC personnel will not be protected from the administrative actions of sim owners and other groups made in response to unofficial, off-group activities. 
+     - ESC will not act to appeal any admin actions imposed by other SLMC groups in response to ESC personnel acting as lone wolves.
+     - ESC officers and Omega bureau personnel reserve the right to impose additional internal discipline as necessary depending on the context and severity of misconduct as observed.
+     - **Bottom line: you are on your own. Exercise discretion and common sense.**
 
 ### Dress Code
 
