@@ -166,14 +166,21 @@ Everyone within the group is assumed to be an adult and is expected to act like 
   - The rest of the armor may be tinted subtly in shades of gray, but it should not be tinted dark enough to stand out from the default shade of gray. Use common sense.
 
 ##### Time and Place
-1. ESC personnel are expected to wear the appropriate attire at all times.
+1. ESC personnel are expected to wear the appropriate attire at all times while in service.
    - Either the "Kusanagi Hard Suit" or "Seraph" light set must be worn while on sim. Limited exceptions apply:
      - The space hub and lounge are designated casual areas all the time.
      - On Sundays and holidays announced ahead of time, casual wear is acceptable anywhere on the sim.
        - Personnel may defend or skirmish in casual apparel on casual days; however, raids to other regions will be uniformed as usual. 
    - The Seraph light/formal set must be worn at biweekly general meetings.
    - Casual wear still needs to follow minimum standards. No sexual, revealing outfits are allowed. Use common sense.
-
+2. ESC personnel should not wear the uniform anywhere outside of SLMC regions.
+   - An exception is made for places where ESC is collectively participating, for example a scifi con or recruitment event.
+   - This rule DOES apply to off-duty public areas, including but not limited to:
+     - Clubs, bars, and hangouts
+     - Other RP sims
+     - Sandboxes
+     - Stores
+   - Personnel will not be monitored at their own residences. We respect an individual's right to privacy and will not keep tabs on someone's home. However, discretion and common sense should still apply. **Bottom line: please do not use the uniforms for anything other than to represent the group.**
 
 
 ## Chapter Four: Structure
