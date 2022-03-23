@@ -173,14 +173,11 @@ Everyone within the group is assumed to be an adult and is expected to act like 
        - Personnel may defend or skirmish in casual apparel on casual days; however, raids to other regions will be uniformed as usual. 
    - The Seraph light/formal set must be worn at biweekly general meetings.
    - Casual wear still needs to follow minimum standards. No sexual, revealing outfits are allowed. Use common sense.
-2. ESC personnel should not wear the uniform anywhere outside of SLMC regions.
-   - An exception is made for places where ESC is collectively participating, for example a scifi con or recruitment event.
-   - This rule DOES apply to off-duty public areas, including but not limited to:
-     - Clubs, bars, and hangouts
-     - Other RP sims
-     - Sandboxes
-     - Stores
-   - Personnel will not be monitored at their own residences. We respect an individual's right to privacy and will not keep tabs on someone's home. However, discretion and common sense should still apply. **Bottom line: please do not use the uniforms for anything other than to represent the group.**
+2. ESC personnel should be conscious of where they wear the uniform when not on duty as well.
+   - Personnel are permitted to wear the uniform while off-base or not at an enemy sim, especially for conventions or other public events where ESC is participating.
+     - This includes general public areas like stores, sandboxes, and other non-adult themed areas.
+     - This EXCLUDES any 18+ hangouts, clubs, bars, RP sims, or anywhere where sexual activity occurs or may occur. PG ONLY.
+   - In all cases, personnel should be mindful of the image they are presenting and ensure it is a positive one.
 
 
 ## Chapter Four: Structure
