@@ -95,6 +95,9 @@ Everyone within the group is assumed to be an adult and is expected to act like 
    - A visitor who is not known to regularly attack ESC should be given an opportunity to disarm. An IM request to stand down is sufficient.
    - If the visitor is given an opportunity to disarm and fails to comply in a reasonable amount of time, they are a hostile target.
 
+3. Visitors invited by ESC personnel are allowed in restricted areas with the stipulation that the invitee is solely responsible for their guest's behavior.
+   - Individuals who abuse this trust may have their privilege to bring friends revoked or face additional discipline as needed.
+
 
 ### Combat Protocols
 1. During combat, the designated officer in charge (OIC) is the individual responsible for all combat-related decisions.
