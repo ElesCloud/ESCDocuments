@@ -105,12 +105,16 @@ Everyone within the group is assumed to be an adult and is expected to act like 
    - Any messages from opponents should be passed to the OIC to be addressed and not responded to individually. This is to ensure communication stays clear.
    - The OIC should be given a reasonable amount of time to address problems. If there are multiple issues, they should be IMed to the OIC in a list. Recordings and screenshots should be forwarded to the OIC if they are obtained. For some issues, proof is the only way to get a resolution.
 
-2. During any combat operations, communcation should be limited to combat-pertinent conversation. Light banter is fine, but it should not overwhelm combat pertinent communication or be disruptive.
+2. ESC primarily makes use of Discord for external text and voice communication, including announcements.
+   - Personnel are generally expected to be able to at least log in to hear what is going on. Being able to talk is NOT required; many folks make use of text-to-speech.
+   - ESC personnel should have their nicknames set to match their SL username or display name, or at least have it in parentheses. 
+
+3. During any combat operations, communcation should be limited to combat-pertinent conversation. Light banter is fine, but it should not overwhelm combat pertinent communication or be disruptive.
    - Individuals who become upset or find themselves complaining a lot are strongly recommended to take a break.
    - Participants who fail to comply with a request to pipe down will lose their voice privileges. 
-   - ESC personnel are not permitted to mute other ESC personnel. Aside from the fact that this is a mediocre, zero-effort avoidance tactic, it causes problems when people talk over each other.
+   - ESC personnel are not permitted to mute other ESC personnel. If there is an inter-personnel problem, it should be resolved in other ways.
 
-3. Gear restrictions apply.
+4. Gear restrictions apply.
    - ESC personnel may only use gear made available from the official armory.
      - Non-standard and unreleased versions of ESC gear are reserved for R&D/QA and are only permitted for the purpose of testing official projects.
      - Personal project items and independently commissioned works are prohibited.
