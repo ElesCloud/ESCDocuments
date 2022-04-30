@@ -49,7 +49,7 @@ If you commit a "Big Four Offense", you will likely no longer be welcome anywher
 - Distribution of identifying real-life information about others (doxxing)
 - GPU crashing or other griefing intended to damage real-life hardware
 - Creative content theft and distribution (ripping, copybotting, etc)
-- Mass-abuse reporting
+- Use of the Linden Labs AR (abuse report) system either for problems that can be resolved without LL assistance, or for nefarious/malicious reasons
 
 We are made up of individuals from many walks of life. We all have our own life experiences, morals, and goals. It is up to **everyone**, from the top of this organization to the bottom, to ensure that this diversity is leveraged as strength to the group instead of breeding conflict.
 
