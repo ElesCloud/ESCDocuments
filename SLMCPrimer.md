@@ -51,7 +51,7 @@ THE “BIG FOUR”: As mentioned previously, the SLMC is a place where you need 
 - Doxxing: Releasing someone's real life information that they have not made publicly accessible via Second Life. It is morally reprehensible even by the standards of the SLMC. If there is proof you've done this, not only will you be banned and reviled by the entire community, this is one instance where we permit the filing of an abuse report or law enforcement above and beyond.
 - Graphics Crashing: Computer hardware is expensive. Graphics crashing can damage a person’s computer and prevent them from being able to participate in this community. This is not tolerated by any group. You will be banned and other sim owners will be informed who will also likely ban you to protect themselves.
 - Asset theft: Our content creators work hard to produce the many wonderful things we enjoy. Copybotting or open sourcing assets that do not belong to you is theft, period. This is not tolerated and you will be removed from the community. 
-- Abusing the AR system: As mentioned above, the SLMC handles most of its problems internally. Invoking the abuse report system to file false reports or convince others to mass-report in order to increase the chances of getting Linden Labs’ attention is grounds for community expulsion.
+- Abusing the AR system: As mentioned above, the SLMC handles most of its problems internally. Invoking the abuse report system for a problem that can otherwise be addressed within the community, abusing it to file false reports, and convincing others to mass-report in order to increase the chances of getting Linden Labs’ attention is grounds for community expulsion.
 
 
 ## SECTION FIVE: Glossary
