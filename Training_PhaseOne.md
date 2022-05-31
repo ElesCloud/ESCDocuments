@@ -52,11 +52,6 @@ Special note: All trainees must undergo P1/P2 to graduate to Contracted. However
    - The RF30 Recruit SMG
 2. Take the recruit back to the spawn area to configure their HUD Return-to-Base homepoint using /c !sethome.
 3. Bring the recruit to the classroom and go over components of the HUD. Explain to them that it is gesture-driven.
-   ~~- Link the trainee to the HUD Diagram.
-   ~- Note that the gestures on the diagram and in the folder are the defaults, but they can be customized however the recruit would like.
-   ~- Make sure they look at the gestures. Most of them are self-explanatory, but if the recruit wants to know what one does, explain it to them.
-   ~- Make a note that if gestures overlap on the same key, they will not work properly.
-   ~- Allow them time to test if they want.~~
    Temporary edit: current version of the HUD is in beta and a new guide is WIP. For now, have them test it out and just poke around, answer questions. Good luck, LOL.
 4. If the new trainee is not familiar with the SLMC at all, furnish them a copy of the [SLMC primer](https://github.com/ElesCloud/ESCDocuments/blob/main/SLMCPrimer.md).
    - Give the trainee plenty of time to read this and ask any questions they might have.
