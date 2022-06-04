@@ -245,7 +245,7 @@ To be eligible for compensation, a combat operation must meet three criteria:
   - The operation must have a designated OIC for each participating team.
   - The operation must be officially recorded via a report in ESC's records (at this time, on the forums).
 
-Time spent idle during combat will not be compensated. However, if members of the ESC team initially join combat but ratio restrictions prevent their active participation, those members will still be paid as long as they continue to actively observe. Officer and command staff may, at their discretion, add bonus credits or increase the rate of pay to compensate for extraordinary events, or to increase incentive for participation.
+Time spent idle during combat will not be compensated. However, if members of the ESC team initially join combat but ratio restrictions prevent their active participation, those members will still be paid as long as they continue to actively observe. Junior enlisted are generally given priority when determining who is to be placed on standby and who is to be active. Officer and command staff may, at their discretion, add bonus credits or increase the rate of pay to compensate for extraordinary events, or to increase incentive for participation.
 
 In addition to the standard gear available to be unlocked by credits, ESC also operates with a combat class system. At a certain rank, ESC personnel are granted the ability to specialize into one of these classes for gear exclusive to that class. There is also an option to further mutliclass.
 
