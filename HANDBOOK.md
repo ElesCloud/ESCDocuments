@@ -255,9 +255,9 @@ The currently available combat classes and their intended "flavor' are as follow
 - Technician
   - A wide array of items made to support other classes and control the battlefield.
 - Mechanized
-  - Massive robots that walk on two legs with devastatingly big guns.
+  - Massive robots that walk on two legs with devastatingly big guns and armored tanks too.
 - Airborne
-  - All things that fly - fighter jets, gunships, fleetships. 
+  - All things that dominate the atmosphere - fighter jets, gunships, fleetships. 
  
 More information about specific gear and how to progress in the class system can be found in [this document](https://github.com/ElesCloud/ESCDocuments/blob/main/CLASSES.md).
 
