@@ -13,6 +13,7 @@ OTHER PHASES: [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training
   - [Section One: Code](#section-one-code)
   - [Section Two: Policy](#section-two-policy)
   - [Section Three: Structure, Classes, Gear](#section-three-structure-classes-gear)
+  - [Section Four: Recap](#section-four-recap)
 
 In this phase, you will be covering ESC's [handbook](https://github.com/ElesCloud/ESCDocuments/blob/main/HANDBOOK.md) with the recruit. Open the handbook and explain it as best you can using your own personal example, lecture-style to the recruit. 
 
@@ -48,6 +49,8 @@ Illustrate in more detail our "input/output" concept as it applies to rank.
 Make note of the combat classes and be sure they check the [class document](https://github.com/ElesCloud/ESCDocuments/blob/main/CLASSES.md) for details on how class ranks work and what specialized gear is available to each class.
 
 Make note of the different ancillary departments and what they do.
+
+## Section Four: Recap
 
 To ensure that the recruit has at least a basic understanding of our expectations, a quiz has been developed for use [here](https://forms.gle/wQFGguMS71cZVAGk8). 
 -  This quiz requires a passing grade of 8/10. The quiz will give them a score response immediately after they complete it.
