@@ -20,7 +20,7 @@ This document is a general-level guide on the basics of the Second Life Military
 
 ## SECTION TWO: What exactly is the SLMC?
 
-The Second Life Military Community is a cluster of self-identified combat groups on Second Life that mutually agree to participate in Linden Labs damage combat with each other. The SLMC uses scripted weapons typically designed to deal one-hit kills which return the target to their homepoint. The SLMC also designs and employs a variety of vehicles, gear, and technology to try and make combat more variable and interesting.
+The Second Life Military Community is a cluster of self-identified combat groups on Second Life that mutually agree to participate in Linden Labs damage combat with each other. The SLMC uses scripted weapons typically (but not always) designed to deal one-hit kills which return the target to their homepoint. The SLMC also designs and employs a variety of vehicles, gear, and technology to try and make combat more variable and interesting.
 
 The SLMC has a complex history spanning back to the early 2000s. Many of the individuals who participate in it have been members for nearly as long as the community's genesis. Even as groups and individuals arrive, leave, and evolve over time, many of the individuals who are a part of the community are unabashedly toxic and difficult to interact with. In other words, despite the fact that we've been around for nearly 20 years, some people simply will never grow up or move on. This has mellowed to a degree since earlier days, but the necessity of this warning still remains: if you are interested in participating, be aware that you will need a thick skin to survive.
 
