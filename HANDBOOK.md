@@ -47,9 +47,10 @@ The Second Life Military Community (SLMC) is made up of many different personali
 
 If you commit a "Big Four Offense", you will likely no longer be welcome anywhere. They are as follows:
 - Distribution of identifying real-life information about others (doxxing)
-- GPU crashing or other griefing intended to damage real-life hardware
+- GPU crashing or any other griefing intended to damage a user's real-life PC hardware
 - Creative content theft and distribution (ripping, copybotting, etc)
-- Use of the Linden Labs AR (abuse report) system either for problems that can be resolved without LL assistance, or for nefarious/malicious reasons
+- Abuse of the Linden Labs AR (abuse report) system; that is, a bad-faith attempt to provoke a direct response from LL with the malicious intent to have someone's account suspended or banned.
+  - This, of course does, not apply for cases where individuals have a good-faith reason to involve LL (for example, threats of real-life violence, etc).
 
 We are made up of individuals from many walks of life. We all have our own life experiences, morals, and goals. It is up to **everyone**, from the top of this organization to the bottom, to ensure that this diversity is leveraged as strength to the group instead of breeding conflict.
 
