@@ -38,7 +38,7 @@ After they have been successfully registered to the database and their rank has 
   - [ESC.] Arcwelder 'Zappy Repair'
   - [ESC.] 'Astrape' Tesla Knife
   - [ESC.] G19 'Wickerman' Pistol
-  - [ESC.] AAX-21 'High Roller' Rocket Launcher
+  - [ESC.] 'NEOLAW' Single-Use RPG
   - [ESC.] // "Huntsman" Knife
   - [ESC.] R301 Assault Rifle 
 - Cosmetics
