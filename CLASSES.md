@@ -65,17 +65,17 @@ Contact a member of Command to do this until the database function is added.
 *“The onslaught of Epsilon’s forces intended to overwhelm the enemy frontline with sheer willpower and relentless firepower.”*
 
 PRIMARY WEAPON:
-- CX-34 'Raven' Assault Rifle 
-  - An automatic assault rifle with attachments
+- PP-19 ‘Darpacell’ SMG
+  - Basic SMG with a foldable stock.
 
 TOOLKIT ITEM:
 - Stim Shot 
-  - Injected compound (used on the "spacebar" movement enhancement gesture) that allows a 10-second sprint, increasing movement speed to 7.3 M/s. Five-second cooldown between uses.
+  - Injected compound that allows a 10-second sprint, increasing movement speed to 7.3 M/s. Integrated with the main HUD; used on the "spacebar" movement enhancement gesture and is used in place of a regular dodge roll. Five-second cooldown between uses.
 
 UNLOCKS: 
 - R1
-  - Primary weapon: Raven Assault Rifle
-  - Toolkit item: Stimshot
+  - Primary weapon: PP-19 ‘Darpacell’ SMG
+  - Toolkit item: Stim Shot
 - R2
   - NI13 Radon Assault Rifle
     - *Assault Rifle with an interchangeable underslung grenade launcher or shotgun blast*
@@ -129,8 +129,10 @@ TOOLKIT ITEMS:
 
 UNLOCKS:
 - R1
-  - MG-02 ‘Viper’ LMG MK.II and 80mm Mortar
-    - *High-capacity, large-caliber LMG and indirect-fire mortar.*
+  - MG-02 ‘Viper’ LMG MK.II 
+  - 80mm 'FedEx' Mortar
+    - *High-capacity, large-caliber LMG.*
+    - *Indirect-fire mortar.*
 - R2
   - Engineering Computer Upgrade (*not yet implemented*)
     - *Adds more features to the standard engineering computer.*
@@ -177,17 +179,20 @@ TOOLKIT ITEMS:
 
 UNLOCKS:
 - R1
-  - PPSh-41 'Gopnik' SMG, Core Overload, HS.09 // "Arbalest" Mech
-    - *Cyka SMG, big boom, starter mechanized unit.* 
+  - PPSh-41 'Gopnik' SMG
+  - M350 ‘Ballista’ Hover Tank
+    - *Cyka SMG.*
+    - *Basic hover tank.*
 - R2
-  - HS.09 "Arbalest" Boosters
-    - *Adds strafing and upward boost ability.*
+  - N/A at this time
 - R3
-  - Pile Buker (*not yet implemented*)
-     - *FALCON PAWNCH*
+  - HS.09 'Arbalest' Mech
+    - *Bread and butter mechanized unit.* 
 - R4
   - SLP-117 'Gungnir' DE Weapon
+  - Arbalest Boosters
      - *Devastating anti-armor laser cannon.*
+     - *Boosty for your mech.*
 - R5
   - HS-09 'Arbalest' Railgun
     - *High-damage railgun attachment for the Arbalest.*
@@ -209,11 +214,15 @@ TOOLKIT ITEMS:
 
 UNLOCKS:
 - R1
-  - KM-90 'Gato' PDW, Orbital Laser, ADF-01 'Falken' Jet Fighter
-    - *Space P90, orbital designation tool, standard fighter jet.*
+  - KM-90 'Gato' PDW
+  - ADF-01 'Falken' Jet Fighter
+  - Orbital Laser
+    - *Space P90.*
+    - *Bread and butter fighter jet.*
+    - *Orbital designation tool for aerial bombardment.*
 - R2
-  - MX Garand (*Not yet implemented*)
-    - *Semi-automatic marksman rifle* 
+  - ASP-12 ‘Nemesis’ Assault Rifle
+    - *Transforming high-accuracy rifle.* 
 - R3
   - Triple Take Sniper Rifle
     - *Sniper rifle. Three shots per pull of the trigger.*
