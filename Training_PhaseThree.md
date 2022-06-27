@@ -20,13 +20,13 @@ OTHER PHASES: [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training
 In this phase, you will be covering ESC's culture, policies, and structure to the recruit. You will explain the handbook to them lecture-style, in an approach that works best for you (as long as it still conveys all of the necessary information). Watch your recruit's level of engagement. This is an interactive and variable part of the training. Read the room and go at a pace/use a level of verbiage appropriate to the class you are holding.
 
 ## Section One: Primer
-- If the new trainee is not familiar with the SLMC at all, they will need to be introduced to what the SLMC is and how the community as a whole operates. Furnish them a copy of the [SLMC primer](https://github.com/ElesCloud/ESCDocuments/blob/main/SLMCPrimer.md).
-- Give the trainee plenty of time to read this and ask any questions they might have.
-- If they have been in the SLMC before but it's been a long time, they should probably still review it. If they're fresh out of a previous group, you can skip it.
+- If the new trainee is not familiar with the SLMC at all, they will need to be introduced to what the SLMC is and how the community as a whole operates. Furnish them a copy of the primer [here](https://github.com/ElesCloud/ESCDocuments/blob/main/SLMCPrimer.md).
+- Give the trainee plenty of time to read this and ask any questions they might have, or read it to them.
+- If they have been in the SLMC before but it's been a long time, they should probably still review it since some things may have changed. If they're fresh out of a previous group, you can skip it.
 - Ensure the trainee has a copy of the handbook [at this link](https://github.com/ElesCloud/ESCDocuments/blob/main/HANDBOOK.md).
 
 ## Section Two: Handbook - Code
-- Ultimately, this is our "ethos." This section defines who we are in general.
+- This is our ethos. This section defines who we are in general.
 - If the recruit isn't meshing with these ideals for any reason, now is the best time to amicably part ways and minimize loss of time. 
   - In this phase of training, you aren't just educating them on our expectations, you are also monitoring for early signs of trouble. It is your job to pay attention to how receptive the recruit is to what is presented in the handbook, especially to the Code.
   - If the recruit doesn't take it seriously, you are not just allowed, but **expected**, to discuss with them and help them decide if ESC is the right group for them. There should be no hard feelings. Not everyone has to be a good fit for ESC.
