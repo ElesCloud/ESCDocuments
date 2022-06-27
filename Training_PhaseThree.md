@@ -66,9 +66,7 @@ To ensure that the recruit has at least a basic understanding of our expectation
 - Offer an opportunity to ask any questions.
 
 ## Section Six: Update
-Denote the recruit's initiation into to Phase One in the trainer-chat on Discord.
-   - This will aid us in staying efficient and organized, so we are not constantly wondering who has done what.
-   - **Also, to receive credit for the trainers-only Showstopper reward, you must post each phase individually.**
+Denote the recruit's progress in the trainee-status channel on Discord.
    - Use this template in the channel to track progress:
      - Trainer:
      - Recruit:
@@ -76,4 +74,4 @@ Denote the recruit's initiation into to Phase One in the trainer-chat on Discord
      - R/D/S: 0/0/0
      - Comments:
 
-**PHASE TWO COMPLETE. Proceed to Phase [Three](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseThree.md) (standard training) or Phase [Four](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFour.md) (expedited).**
+**PHASE TWO COMPLETE. Proceed to Phase [Four](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFour.md) (standard training) or Phase [Five](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFive.md) (expedited).**
