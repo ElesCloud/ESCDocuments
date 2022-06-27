@@ -16,7 +16,7 @@ OTHER PHASES: [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training
   - [Section Three: Structure, Classes, Gear](#section-four-structure-classes-gear)
   - [Section Four: Recap](#section-five-recap-and-test)
 
-In this phase, you will be covering ESC's culture and roles of operation with the recruit. You will explain the handbook to them lecture-style, in an approach that works best for you (as long as it still conveys all of the necessary information). Watch your recruit's level of engagement. This is an interactive and variable part of the training. Read the room and go at a pace/use a level of verbiage appropriate to the class you are holding.
+In this phase, you will be covering ESC's culture, policies, and structure to the recruit. You will explain the handbook to them lecture-style, in an approach that works best for you (as long as it still conveys all of the necessary information). Watch your recruit's level of engagement. This is an interactive and variable part of the training. Read the room and go at a pace/use a level of verbiage appropriate to the class you are holding.
 
 ## Section One: Primer
 - If the new trainee is not familiar with the SLMC at all, they will need to be introduced to what the SLMC is and how the community as a whole operates. Furnish them a copy of the [SLMC primer](https://github.com/ElesCloud/ESCDocuments/blob/main/SLMCPrimer.md).
