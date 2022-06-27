@@ -45,10 +45,10 @@ Briefly cover our rank structure, from "Foundation" (trainees), to "Core" (enlis
 
 Illustrate in more detail our "input/output" concept as it relates to rank, structure, and job choices.
   - Everyone's contribution, from simply attending regularly to beyond, is valued and appreciated. 
-  - Rank-chasing is a bad idea.
+  - Rank-chasing is a bad idea and will only lead to sadness and frustration.
     - Promotions are assigned based not just on level of contribution, but the caliber of one's leadership qualities. 
     - A member's rank is a signifier not only of their time and effort dedicated to the group, but also trust.
-    - You should put in time and effort because you enjoy doing it and want to, not because you expect a promotion.
+    - **Everyone in this group should putting in time and effort because they enjoy doing it and want to, not because they expect a promotion.**
   - It's fine to take breaks from ESC sometimes, both short and extended as needed. However, there's a difference between taking a break and going AWOL.
     - The difference is in keeping us apprised of the situation. Tell us you need a break, don't just disappear.
     - If someone is avoiding us because of a problem, they need to make an effort to speak up about it. We can't resolve problems we are not aware of.
