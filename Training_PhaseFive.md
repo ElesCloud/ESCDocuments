@@ -19,10 +19,11 @@ OTHER PHASES: [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training
 ## Section One: Database Registration
 1. Invite the recruit to the main Epsilon Security Consulting group.
    - Not all trainers have this ability. If you don't, contact an available officer or other trainer with admin rights. This must be done before any other part of this phase can be successfully completed! **IM or ping if you have to, this is important!**
-2. Change the recruit's Discord role.
+2. Make them leave the Foundation group, and if they had it, the Land group. They do not need either of these groups anymore. If they don't leave them now, they will probably be ejected later.
+3. Change the recruit's Discord role.
    - Epsilon Bot’s role command is !enlisted @discordname#tag.
    - If you can't change roles, seek assistance.
-3. Bring the recruit to the Armory and have them click the **terminal on the pedestal** to connect their Second Life account to the web-based database and to the forums.![terminal yes-no](https://user-images.githubusercontent.com/71983240/148656441-adaa8a04-beb3-4b41-b6d1-9203a1fdbfb6.png)
+4. Bring the recruit to the Armory and have them click the **terminal on the pedestal** to connect their Second Life account to the web-based database and to the forums.![terminal yes-no](https://user-images.githubusercontent.com/71983240/148656441-adaa8a04-beb3-4b41-b6d1-9203a1fdbfb6.png)
 
 
 Important information about the database and the forums:
