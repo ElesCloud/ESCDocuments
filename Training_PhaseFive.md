@@ -70,6 +70,6 @@ Trainers will be compensated for their efforts to bring new members into the gro
 - Split training between more than one instructor should be paid per phase.
 - If you cannot pay yourself, ask to be paid.
 
-**PHASE FOUR COMPLETE.** 
+**PHASE FIVE COMPLETE. TRAINING COMPLETE.** 
 
-Thank you for your continued, valuable service as a Trainer. If you have any questions, contact Eles Cloud, Foundation Superintendent.
+Thank you for your continued, valuable service as a Trainer. If you have any questions, contact Eles Cloud, Chief Foundation Officer.
