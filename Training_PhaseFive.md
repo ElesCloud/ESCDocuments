@@ -62,13 +62,12 @@ Seraph Light Armor - General combat use and meetings (required for meetings). Fu
 
 ### Trainee
 To start the new Contracted personnel on their fruitful career with Epsilon Security Consulting, all graduates are paid a 500-credit stipend, in addition to any time they earned previously while participating in combat. As mentioned in Phase Four, this does involve taking the trainee's word for it. We accept the risk this involves.
-- This step must be done by someone who has the ability to pay (import time) on the database. **If you can't or don't know how, ask for help.**
-- The appropriate method to pay a user for time is to go to "Import Time" under "Users", paste the recruit's UUID, add a comma (,) and then the number of credits after the comma. There should be no spaces. The Import Time page will return a successful result report if you did it correctly.
+- This step must be done by someone who has the ability to import time on the database (NCO+). **If you can't or don't know how, ask for help.**
 - All ESC gear is subject to the Authorization list found [here](https://epsilonsecurityconsulting.net/viewforum.php?f=10) (secure, must be logged in). Personnel are advised to spend their credits prudently, starting with basic items that are authorized for general use, and then working towards the flashy, powerful items that only get authorized for use on occasion.
 
 ### Trainer
-Trainers will be compensated for their efforts to bring new members into the group.
-- The rate is 100 credits per phase completed.The rate is 100 credits per phase completed; a fully completed standard training course from intake to exit processing is 500 credits. Expedited is 400.
+Trainers will be compensated for their time and effort.
+- The rate is 100 credits per phase completed; a fully completed standard training course from intake to exit processing is 500 credits. Expedited is 400.
 - Split training between more than one instructor should be paid per phase.
 - If you cannot pay yourself, ask to be paid.
 
