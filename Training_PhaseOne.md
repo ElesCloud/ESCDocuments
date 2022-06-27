@@ -13,6 +13,7 @@ OTHER PHASES: [TWO](https://github.com/ElesCloud/ESCDocuments/blob/main/Training
   - [Section One: Before You Begin](#section-one-before-you-begin)
   - [Section Two: Expedited or Full](#section-three-expedited-or-full)
   - [Section Three: Group Setup](#section-two-group-setup)
+  - [Section Four: Update](#section-four-update)
  
 
 ## Section One: Before You Begin
@@ -39,7 +40,7 @@ When the recruit's application is accepted, their designation will be determined
 4. Have the trainee set their SL client homepoint in the spawn area.
 
 ## Section Four: Update
-Denote the recruit's initiation into to Phase One in the trainer-chat on Discord.
+Denote the recruit's initiation into to Phase One in the trainee-status channel on Discord.
    - Use this template in the channel to track progress:
      - Trainer:
      - Recruit:
