@@ -12,6 +12,7 @@ OTHER PHASES: [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training
 ## Table of Contents
   - [Section One: Gear Acquisition](#section-one-gear-acquisition)
   - [Section Two: HUD Overview](#section-two-hud-overview)
+  - [Section Three: Update](#section-three-update)
 
 ## Section One: Gear Acquisition
 1. Bring the recruit to the armory and direct them to collect the items under the Recruit section, including:
@@ -33,3 +34,14 @@ OTHER PHASES: [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training
 3. Take a moment to review the gesture controls provided in the pack. If you modify yours, keep a default copy for an example to explain to them.
    - Be sure to explain how our weapons operate on different "layers," one for primary weapons, two for secondaries/sidearms, and three for heavy/special weapons. One weapon can occupy each slot, and the gestures will allow a quick draw/sling to switch, rather than attaching/detaching all the time.
 4. Encourage them to test out the various items (at a distance from others) so they get a feel for how they work. Make sure they know that this is considered basic knowledge for everyone, so they should be asking questions and familiarizing *now*, not during the heat of combat.
+
+## Section Three: Update
+Denote the recruit's progress in the trainee-status channel on Discord.
+   - Use this template in the channel to track progress:
+     - Trainer:
+     - Recruit:
+     - Phase:
+     - R/D/S: 0/0/0
+     - Comments:
+
+**PHASE FOUR COMPLETE. Proceed to Phase [Five](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFive.md).**
