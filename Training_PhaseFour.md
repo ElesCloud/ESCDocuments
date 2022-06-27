@@ -5,7 +5,7 @@ PHASE FOUR | PRACTICAL SKILLS
 
 SECURITY LEVEL: PUBLIC DOMAIN
 
-OTHER PHASES [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOne.md) - [TWO](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md) - [THREE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFour.md) - [FIVE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFive.md)
+OTHER PHASES [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOne.md) - [TWO](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md) - [THREE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseThree.md) - [FIVE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFive.md)
 
 ![Banner](https://github.com/ElesCloud/ESCHandbook/blob/main/TYYGtcn.jpg)
 
@@ -51,7 +51,14 @@ For the last section of training, the recruit must join an official, report-logg
 **In keeping with the concept of input/output, it is our policy to pay recruits for all combat they participate in. A recruit who goes above and beyond the minimum should be given more than the minimum.**
 - There is no failsafe way to implement this at this time because the combat HUD does not track participation time for recruits. 
 - Until a system is implemented, the recruit should keep track of how long they spend fighting and report it to their trainer. This does mean we will be assuming they are reporting themselves accurately.
-- The recruit will be paid retroactively for all accumulated time spent in official events at graduation. It is the trainer's responsibility to ensure that this payment is made in the final phase. Trainers who fail to compensate recruits for their time may lose training privileges.
+- The recruit will be paid retroactively for all accumulated time spent in official events at graduation. It is the trainer's responsibility to ensure that this payment is made in the final phase. Trainers who regularly fail to compensate recruits for their time may lose training privileges.
 
+Denote the recruit's initiation into to Phase One in the trainer-chat on Discord.
+   - Use this template in the channel to track progress:
+     - Trainer:
+     - Recruit:
+     - Phase:
+     - R/D/S: 0/0/0
+     - Comments:
 
-**PHASE THREE COMPLETE. Proceed to Phase [Four](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFour.md).**
+**PHASE THREE COMPLETE. Proceed to Phase [Five](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFive.md).**
