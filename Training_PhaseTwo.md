@@ -27,8 +27,11 @@ OTHER PHASES: [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training
    - If they did it right, it will look like this:
 
 >[13:16:31] [ESC.] Enlisted HUD -  v1.0.4: Getting Data...
->[13:16:31] [ESC.] Enlisted HUD -  v1.0.4: New home set to: 
+>
+>[13:16:31] [ESC.] Enlisted HUD -  v1.0.4: New home set to:
+> 
 >REGION: Keres
+>
 >POS: <2.86206, 9.13427, 38.14831>
    
 ## Section Two: HUD Overview
