@@ -34,7 +34,7 @@ When the recruit's application is accepted, their designation will be determined
 2. Invite the trainee to the Foundation, Home, and Land groups.
    - If you cannot furnish invitations, reach out for assistance. Ping if you need to. Officers have this ability as do many NCOs.
 3. Invite them to the Discord using the link provided in the trainer channel on discord and change their role using Epsilon Bot.
-   - The command is " !trainee @discordname#number "
+   - The command is " !trainee @discordname#number " and you will need to manually type in their username (the trainer channel shouldn't have recruits in it).
    - All trainers should be able to do this, but if you cannot use the command, ask another trainer or the superintendent for help.
 4. Denote the recruit's initiation into to Phase One in the trainer-chat on Discord.
    - This will aid us in staying efficient and organized, so we are not constantly wondering who has done what.
