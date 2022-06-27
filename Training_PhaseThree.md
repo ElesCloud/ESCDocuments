@@ -25,7 +25,7 @@ In this phase, you will be covering ESC's culture, policies, and structure to th
 - Ensure the trainee has a copy of the handbook [at this link](https://github.com/ElesCloud/ESCDocuments/blob/main/HANDBOOK.md).
 
 ## Section Two: Handbook - Code
-- This is our ethos. This section defines who we are in general.
+- This is our ethos. This section defines who we are.
 - If the recruit isn't meshing with these ideals for any reason, now is the best time to amicably part ways and minimize loss of time. 
   - In this phase of training, you aren't just educating them on our expectations, you are also monitoring for early signs of trouble. It is your job to pay attention to how receptive the recruit is to what is presented in the handbook, especially to the Code.
   - If the recruit doesn't take it seriously, you are not just allowed, but **expected**, to discuss with them and help them decide if ESC is the right group for them. There should be no hard feelings. Not everyone has to be a good fit for ESC.
