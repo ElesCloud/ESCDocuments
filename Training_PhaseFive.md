@@ -13,7 +13,7 @@ OTHER PHASES: [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training
   - [Section One: Database Registration](#section-one-database-registration)
   - [Section Two: Contracted Gear](#section-two-contracted-gear)
   - [Section Three: Payment](#section-three-payment)
-  - [Section Four: Update]
+  - [Section Four: Update](#section-four-update)
 
 
 ## Section One: Database Registration
