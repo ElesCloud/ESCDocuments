@@ -36,15 +36,16 @@ When the recruit's application is accepted, their designation will be determined
 3. Invite them to the Discord using the link provided in the trainer channel on discord and change their role using Epsilon Bot.
    - The command is " !trainee @discordname#number " and you will need to manually type in their username (the trainer channel shouldn't have recruits in it).
    - All trainers should be able to do this, but if you cannot use the command, ask another trainer or the superintendent for help.
-4. Denote the recruit's initiation into to Phase One in the trainer-chat on Discord.
-   - This will aid us in staying efficient and organized, so we are not constantly wondering who has done what.
-   - **Also, to receive credit for the trainers-only Showstopper reward, you must post each phase individually.**
+4. Have the trainee set their SL client homepoint in the spawn area.
+
+## Section Four: Update
+Denote the recruit's initiation into to Phase One in the trainer-chat on Discord.
    - Use this template in the channel to track progress:
      - Trainer:
      - Recruit:
      - Phase:
      - R/D/S: 0/0/0
      - Comments:
-5. Have the trainee set their SL client homepoint in the spawn area.
+This will aid us in staying efficient and organized, so we are not constantly wondering who has done what. **Also, to receive credit for the trainers-only Showstopper reward, you must post each phase individually.**
 
 **PHASE ONE COMPLETE. Proceed to [Phase Two](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md).**
