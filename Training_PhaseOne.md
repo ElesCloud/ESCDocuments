@@ -12,7 +12,7 @@ OTHER PHASES: [TWO](https://github.com/ElesCloud/ESCDocuments/blob/main/Training
 ## Table of Contents
   - [Section One: Before You Begin](#section-one-before-you-begin)
   - [Section Two: Group Setup](#section-two-group-setup)
-  - [Section Three: Gear and Documentation](#section-three-gear-and-documentation)
+  - [Section Three: Expedited or Full](#section-three-expedited-or-full)
  
 
 ## Section One: Before You Begin
@@ -22,9 +22,6 @@ OTHER PHASES: [TWO](https://github.com/ElesCloud/ESCDocuments/blob/main/Training
 - Trainers are expected to follow through with all recruits they pick up, from initiating training through graduation.
 - The training session time varies but can be lengthy. If you are not prepared to spend a few hours with the recruit, set up a follow-up meeting with the recruit later.
 - If your plans fall through, you are responsible for checking in on your recruit.
-
-Special note: All trainees must undergo P1/P2 to graduate to Contracted. However, some recruits will be expedited through the combat/practical phase of training if they are known to possess significant prior experience. If this condition applies, it will be indicated by the training superintendent or officer staff when the application is accepted. If no such direction is given, the recruit is to be processed as normal. 
-
 
 ## Section Two: Group Setup
 1. Reach out to the prospective recruit. Congratulate them on their acceptance into the group and ask them if they are ready to begin.
@@ -36,25 +33,18 @@ Special note: All trainees must undergo P1/P2 to graduate to Contracted. However
    - All trainers should be able to do this, but if you cannot use the command, ask another trainer or the superintendent for help.
 4. Denote the recruit's initiation into to Phase One in the trainer-chat on Discord.
    - This will aid us in staying efficient and organized, so we are not constantly wondering who has done what.
+   - **Also, to receive credit for the trainers-only Showstopper reward, you must post each phase individually.**
    - Use this template in the channel to track progress:
      - Trainer:
      - Recruit:
      - Phase:
      - R/D/S: 0/0/0
      - Comments:
-5. Have the trainee set their viewer homepoint in the spawn area.
+5. Have the trainee set their SL client homepoint in the spawn area.
 
-## Section Three: Gear and Documentation
-1. Bring the recruit to the armory and direct them to collect the items under the Recruit section, including:
-   - The trainee uniform
-   - "-Epsilon Standard Gear (Adony)-" (has the current HUD and an old outdated plasma knife)
-   - HUD gestures package.
-   - The RF30 Recruit SMG
-2. Take the recruit back to the spawn area to configure their HUD Return-to-Base homepoint using /c !sethome.
-3. Bring the recruit to the classroom and go over components of the HUD. Explain to them that it is gesture-driven.
-   - Hud diagram [here](https://github.com/ElesCloud/ESCDocuments/blob/main/HUDdiagramdraft2.png).
-4. If the new trainee is not familiar with the SLMC at all, furnish them a copy of the [SLMC primer](https://github.com/ElesCloud/ESCDocuments/blob/main/SLMCPrimer.md).
-   - Give the trainee plenty of time to read this and ask any questions they might have.
-5. Ensure the trainee has a copy of the handbook [at this link](https://github.com/ElesCloud/ESCDocuments/blob/main/HANDBOOK.md).
+## Section Three: Expedited Or Full?
+All trainees invited to Epsilon Security Consulting must undergo Phases One, Two, Three, and Five. However, on occasion, ESC will recruit individuals who have already spent a significant amount of time in the SLMC, either recently in another group, or as older veterans of past groups. These "veteran" recruits have already gained relevant combat proficiency and will be, on a case-by-case basis, permitted to skip Phase Four in an effort to save time and stay efficient. 
+
+When the recruit's application is accepted, their designation will be determined by Foundation administrators or command staff prior to commencement of training.
 
 **PHASE ONE COMPLETE. Proceed to [Phase Two](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md).**
