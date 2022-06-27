@@ -158,9 +158,10 @@ Everyone within the group is assumed to be an adult and is expected to act like 
      - Clash with the overall theme of the armor,
      - Are not highly distracting to others, and,
      - Are not overly demanding of resources (excessive poly count or script load).
-2. Specific to the Kusanagi Hard Suit: "key" pieces (the chest piece, upper arms, and thigh pieces) may not be replaced, removed, shrunk down, or otherwise obscured to the point that they no longer can be easily seen in the overall appearance.
-   - Official ESC-issue modifications such as the Diamas Pattern Shoulder Guard and Ashigaru Shoulder Pads are an exception to this rule. 
-   - **However, if the rank badge is covered up, it should be moved to another place where it can be clearly seen, such as the chestpiece.**
+2. Specific rules for the Kusanagi Hard Suit: 
+   - At no point should the rank badge be obscured. If its default area on the upper arm piece is covered, it should be moved to somewhere else that is visible.
+   - "Key" pieces of the KHS - the chest piece, upper arms, and thigh pieces - may not be replaced, removed, shrunk down, or obscured to the point that they no longer can be easily seen overall.
+   - The only exception is official armory-release upper arm modifications/replacements: the Ashigaru, Diamas, and Guardian shoulderpads. The above rules still apply.
 3. Modifications of a revealing, explicit, or fetishistic/kinky nature are prohibited.
    - This part of the dress code was intentionally left up to interpretation, because what is considered "revealing" or "explicit" is subjective to the individual. 
    - A case-by-case approach is preferred. However, if this causes problems, stricter and more specific guidelines may be added in the future. Try to use common sense and have consideration for your fellow ESC personnel.
@@ -171,18 +172,18 @@ Everyone within the group is assumed to be an adult and is expected to act like 
 ##### Tinting
 1. Parts of the combat armor are blank textured/white and set to glow (LEDs).
   - You are encouraged to tint these LEDs in "Epsilon Blue" (hex code #8fdaff) or any color of your choosing, but ONLY those glowing areas can be any color.
-  - The rest of the armor may be tinted subtly in shades of gray, but it should not be tinted dark enough to stand out from the default shade of gray. Use common sense.
+  - Anything else that is NOT a blank texture may only be tinted in subtle shades of gray. It should not be tinted dark enough to stand out from the default shade of gray. Use common sense.
 
 ##### Time and Place
 1. ESC personnel are expected to wear the appropriate attire at all times while in service.
-   - Either the "Kusanagi Hard Suit" or "Seraph" light set must be worn while on sim. Limited exceptions apply:
+   - One of the two uniforms must be worn while on sim. Limited exceptions apply:
      - The space hub and lounge are designated casual areas all the time.
      - On Sundays and holidays announced ahead of time, casual wear is acceptable anywhere on the sim.
        - Personnel may defend or skirmish in casual apparel on casual days; however, raids to other regions will be uniformed as usual. 
-   - The Seraph light/formal set must be worn at biweekly general meetings.
    - Casual wear still needs to follow minimum standards. No sexual, revealing outfits are allowed. Use common sense.
-2. ESC personnel should be conscious of where they wear the uniform when not on duty as well.
-   - Personnel are permitted to wear the uniform while off-base or not at an enemy sim, especially for conventions or other public events where ESC is participating.
+   - The Seraph light/formal set must be worn at biweekly general meetings.
+3. ESC personnel should be conscious of where they wear the uniform when not on duty as well.
+   - Personnel are permitted to wear the uniform elsewhere on the grid, especially for conventions or other public events where ESC is participating.
      - This includes general public areas like stores, sandboxes, and other non-adult themed areas.
      - This EXCLUDES any 18+ hangouts, clubs, bars, RP sims, or anywhere where sexual activity occurs or may occur. PG ONLY.
    - In all cases, personnel should be mindful of the image they are presenting and ensure it is a positive one.
