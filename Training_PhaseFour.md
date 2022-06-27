@@ -61,4 +61,4 @@ Denote the recruit's initiation into to Phase One in the trainer-chat on Discord
      - R/D/S: 0/0/0
      - Comments:
 
-**PHASE THREE COMPLETE. Proceed to Phase [Five](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFive.md).**
+**PHASE FOUR COMPLETE. Proceed to Phase [Five](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFive.md).**
