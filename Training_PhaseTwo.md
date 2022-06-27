@@ -26,13 +26,10 @@ OTHER PHASES: [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training
    - Explain that this alllows us to instantly go back to our defender spawn after a raid, instead of being teleported to the visitor area and having to manually run back. It's great for anytime the client homepoint is set elsewhere.
    - If they did it right, it will look like this:
 
-[13:16:31] [ESC.] Enlisted HUD -  v1.0.4: Getting Data...
-
+"[13:16:31] [ESC.] Enlisted HUD -  v1.0.4: Getting Data...
 [13:16:31] [ESC.] Enlisted HUD -  v1.0.4: New home set to: 
-
 REGION: Keres
-
-POS: <2.86206, 9.13427, 38.14831>
+POS: <2.86206, 9.13427, 38.14831>"
    
 ## Section Two: HUD Overview
 1. Bring the recruit to the classroom and review the components of the HUD. The HUD is gesture-driven.
