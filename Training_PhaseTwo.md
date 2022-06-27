@@ -61,7 +61,7 @@ Make note of the different ancillary departments and what they do.
 
 To ensure that the recruit has at least a basic understanding of our expectations, a quiz has been developed for use [here](https://forms.gle/wQFGguMS71cZVAGk8). 
 -  This quiz requires a passing grade of 8/10. The quiz will give them a score response immediately after they complete it.
--  If they fail, go over the handbook with them again and spend more time covering the rules. It is crucial that they understand how we operate and will abide by our protocols. Remember Section One. If they are not clicking well with this part, it is not too late for them to decide to drop out.
+-  If they fail, go over the handbook with them again and spend more time covering the rules. It is crucial that they understand how we operate and will abide by our protocols. Remember Sections Two and Three. If they are not clicking well with these parts, it is not too late for them to decide to drop out.
 - Offer an opportunity to ask any questions.
 
 **PHASE TWO COMPLETE. Proceed to Phase [Three](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseThree.md) (standard training) or Phase [Four](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFour.md) (expedited).**
