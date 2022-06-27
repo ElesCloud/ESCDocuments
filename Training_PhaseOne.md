@@ -46,6 +46,7 @@ Denote the recruit's initiation into to Phase One in the trainer-chat on Discord
      - Phase:
      - R/D/S: 0/0/0
      - Comments:
+
 This will aid us in staying efficient and organized, so we are not constantly wondering who has done what. **Also, to receive credit for the trainers-only Showstopper reward, you must post each phase individually.**
 
 **PHASE ONE COMPLETE. Proceed to [Phase Two](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md).**
