@@ -20,9 +20,8 @@ OTHER PHASES: [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training
 In this phase, you will be covering ESC's culture, policies, and structure to the recruit. You will explain the handbook to them lecture-style, in an approach that works best for you (as long as it still conveys all of the necessary information). Watch your recruit's level of engagement. This is an interactive and variable part of the training. Read the room and go at a pace/use a level of verbiage appropriate to the class you are holding.
 
 ## Section One: Primer
-- If the new trainee is not familiar with the SLMC at all, they will need to be introduced to what the SLMC is and how the community as a whole operates. Furnish them a copy of the primer [here](https://github.com/ElesCloud/ESCDocuments/blob/main/SLMCPrimer.md).
+- If the trainee is not familiar with the SLMC at all or has been away from the community a long time (more than five years), they will need to be (re)introduced to what the SLMC is and how the community as a whole operates. Furnish them a copy of the primer [here](https://github.com/ElesCloud/ESCDocuments/blob/main/SLMCPrimer.md).
 - Give the trainee plenty of time to read this and ask any questions they might have, or read it to them.
-- If they have been in the SLMC before but it's been a long time, they should probably still review it since some things may have changed. If they're fresh out of a previous group, you can skip it.
 - Ensure the trainee has a copy of the handbook [at this link](https://github.com/ElesCloud/ESCDocuments/blob/main/HANDBOOK.md).
 
 ## Section Two: Handbook - Code
