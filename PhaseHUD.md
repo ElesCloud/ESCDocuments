@@ -10,7 +10,8 @@ OTHER PHASES: [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training
 ![Banner](https://github.com/ElesCloud/ESCHandbook/blob/main/TYYGtcn.jpg)
 
 ## Table of Contents
-  - [Section One: Gear Acquisition0(#section-one-gear-acquisition)
+  - [Section One: Gear Acquisition](#section-one-gear-acquisition)
+  - [Section Two: HUD Overview](#section-two-hud-overview)
 
 ## Section One: Gear Acquisition
 1. Bring the recruit to the armory and direct them to collect the items under the Recruit section, including:
