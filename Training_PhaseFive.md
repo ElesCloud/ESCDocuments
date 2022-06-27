@@ -13,6 +13,7 @@ OTHER PHASES: [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training
   - [Section One: Database Registration](#section-one-database-registration)
   - [Section Two: Contracted Gear](#section-two-contracted-gear)
   - [Section Three: Payment](#section-three-payment)
+  - [Section Four: Update]
 
 
 ## Section One: Database Registration
@@ -69,6 +70,15 @@ Trainers will be compensated for their efforts to bring new members into the gro
 - The rate is 100 credits per phase completed.The rate is 100 credits per phase completed; a fully completed standard training course from intake to exit processing is 500 credits. Expedited is 400.
 - Split training between more than one instructor should be paid per phase.
 - If you cannot pay yourself, ask to be paid.
+
+## Section Four: Update
+Denote the recruit's progress through phase five in the trainee-status channel on Discord.
+   - Use this template in the channel to track progress:
+     - Trainer:
+     - Recruit:
+     - Phase:
+     - R/D/S: 0/0/0
+     - Comments:
 
 **PHASE FIVE COMPLETE. TRAINING COMPLETE.** 
 
