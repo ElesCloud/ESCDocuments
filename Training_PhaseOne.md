@@ -26,7 +26,7 @@ OTHER PHASES: [TWO](https://github.com/ElesCloud/ESCDocuments/blob/main/Training
 ## Section Two: Expedited Or Full?
 All trainees invited to Epsilon Security Consulting must undergo Phases One, Two, Three, and Five. However, on occasion, ESC will recruit individuals who have already spent a significant amount of time in the SLMC, either recently in another group, or as older veterans of past groups. These "veteran" recruits have already gained relevant combat proficiency and will be, on a case-by-case basis, permitted to skip Phase Four in an effort to save time and stay efficient. 
 
-When the recruit's application is accepted, their designation will be determined by Foundation administrators or command staff prior to commencement of training.
+When the recruit's application is accepted, their designation will be determined by Foundation administrators or command staff prior to commencement of training. If no such designation is provided, the trainee should be given full training.
 
 ## Section Three: Group Setup
 1. Reach out to the prospective recruit. Congratulate them on their acceptance into the group and ask them if they are ready to begin.
