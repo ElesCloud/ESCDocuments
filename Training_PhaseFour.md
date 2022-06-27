@@ -12,7 +12,8 @@ OTHER PHASES [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_
 ## Table of Contents
   - [Section One: Movement Course](#section-one-movement-course)
   - [Section Two: One-on-One Combat](#section-two-one-on-one-combat)
-  - [Section ThreE: Official Combat](#section-three-official-combat)
+  - [Section Three: Official Combat](#section-three-official-combat)
+  - [Section Four: Update](#section-four-update)
 
 ## Section One: Movement Course
 Bring the recruit to the movement course. The movement course can be accessed by the "Training" teleport button on the teleporter menu. This course is designed to test not just the recruit's ability to utilize SL's physics quirks, but also to test their patience and persistence.
@@ -53,7 +54,8 @@ For the last section of training, the recruit must join an official, report-logg
 - Until a system is implemented, the recruit should keep track of how long they spend fighting and report it to their trainer. This does mean we will be assuming they are reporting themselves accurately.
 - The recruit will be paid retroactively for all accumulated time spent in official events at graduation. It is the trainer's responsibility to ensure that this payment is made in the final phase. Trainers who regularly fail to compensate recruits for their time may lose training privileges.
 
-Denote the recruit's initiation into to Phase One in the trainer-chat on Discord.
+## Section Four: Update
+Denote the recruit's progress in the trainee-status channel on Discord.
    - Use this template in the channel to track progress:
      - Trainer:
      - Recruit:
