@@ -19,10 +19,10 @@ OTHER PHASES: [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training
    - "-Epsilon Standard Gear (Adony)-" (has the current HUD and an old outdated plasma knife)
    - HUD gestures package.
    - The RF30 Recruit SMG
-2. Have them wear the trainee uniform. They may need to disable or alpha their body, because the uniform suit is a fully-rigged set.
+2. Have them wear the trainee uniform. It is recommended that they disable all but their head and neck for this outfit.
 3. Have the recruit attach the HUD and gestures package. Take the recruit back to our defender spawn area to configure their HUD Return-to-Base homepoint using /c !sethome. 
-   - The recruit will need to have RLV enabled for this, and for other parts of the HUD. If they don't allow it, they are unable to use this feature.
-   - Explain that this alllows us to instantly go back to our defender spawn after a raid, instead of being teleported to the visitor area and having to manually run back. Great convenience.
+   - The recruit will need to have RLV enabled for this (and for a couple other parts of the HUD). If they don't allow it, they are unable to use this feature. They don't absolutely have to, of course, but it's recommended.
+   - Explain that this alllows us to instantly go back to our defender spawn after a raid, instead of being teleported to the visitor area and having to manually run back. It's great for anytime the client homepoint is set elsewhere.
    
 ## Section Two: HUD Overview
 1. Bring the recruit to the classroom and review the components of the HUD. The HUD is gesture-driven.
