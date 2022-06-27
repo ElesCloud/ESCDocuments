@@ -11,10 +11,10 @@ OTHER PHASES: [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training
 
 ## Table of Contents
   - [Section One: Primer](#section-one-primer)
-  - [Section One: Code](#section-two-handbook-code)
-  - [Section Two: Policy](#section-three-handbook-policy)
-  - [Section Three: Structure, Classes, Gear](#section-four-handbook-structure-classes-gear)
-  - [Section Four: Recap](#section-five-recap-and-test)
+  - [Section One: Handbook - Code](#section-two-handbook-code)
+  - [Section Two: Handbook - Policy](#section-three-handbook-policy)
+  - [Section Three: Handbook - Structure, Classes, Gear](#section-four-handbook-structure-classes-gear)
+  - [Section Four: Recap and Test](#section-five-recap-and-test)
 
 In this phase, you will be covering ESC's culture, policies, and structure to the recruit. You will explain the handbook to them lecture-style, in an approach that works best for you (as long as it still conveys all of the necessary information). Watch your recruit's level of engagement. This is an interactive and variable part of the training. Read the room and go at a pace/use a level of verbiage appropriate to the class you are holding.
 
