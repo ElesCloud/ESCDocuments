@@ -25,9 +25,13 @@ OTHER PHASES: [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training
    - The recruit will need to have RLV enabled for this (and for a couple other parts of the HUD). If they don't allow it, they are unable to use this feature. They don't absolutely have to, of course, but it's recommended.
    - Explain that this alllows us to instantly go back to our defender spawn after a raid, instead of being teleported to the visitor area and having to manually run back. It's great for anytime the client homepoint is set elsewhere.
    - If they did it right, it will look like this:
+
 [13:16:31] [ESC.] Enlisted HUD -  v1.0.4: Getting Data...
+
 [13:16:31] [ESC.] Enlisted HUD -  v1.0.4: New home set to: 
+
 REGION: Keres
+
 POS: <2.86206, 9.13427, 38.14831>
    
 ## Section Two: HUD Overview
