@@ -17,7 +17,7 @@ OTHER PHASES: [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training
 ## Section One: Gear Acquisition
 1. Bring the recruit to the armory and direct them to collect the items under the Recruit section, including:
    - The trainee uniform
-   - "-Epsilon Standard Gear (Adony)-" (has the current HUD and an old outdated plasma knife)
+   - Enlisted HUD
    - HUD gestures package.
    - The RF30 Recruit SMG
 2. Have them wear the trainee uniform. It is recommended that they disable all but their head and neck for this outfit.
