@@ -41,9 +41,8 @@ Shift to Chapter Three: Policy and go over each section. While it is not necessa
 
 ## Section Four: Handbook - Structure, Classes, Gear
 
-Briefly cover our rank structure, from "Foundation" (trainees), to "Core" (enlisted/"contracted" and NCOs), and "Administration" (officers and command).
-
-Illustrate in more detail our "input/output" concept as it relates to rank, structure, and job choices.
+1. Briefly cover our rank structure, from "Foundation" (trainees), to "Core" (enlisted/"contracted" and NCOs), and "Administration" (officers and command).
+2. Illustrate in more detail our "input/output" concept as it relates to rank, structure, and job choices.
   - Everyone's contribution, from simply attending regularly to beyond, is valued and appreciated. 
   - Rank-chasing is a bad idea and will only lead to sadness and frustration.
     - Promotions are assigned based not just on level of contribution, but the caliber of one's leadership qualities. 
@@ -53,17 +52,16 @@ Illustrate in more detail our "input/output" concept as it relates to rank, stru
     - The difference is in keeping us apprised of the situation. Tell us you need a break, don't just disappear.
     - If someone is avoiding us because of a problem, they need to make an effort to speak up about it. We can't resolve problems we are not aware of.
     - If that doesn't help and they are still not happy, they are free to leave. Our members should be here because they want to be, not because they feel like they have to be.
-
-Make note of the combat classes and be sure they check the [class document](https://github.com/ElesCloud/ESCDocuments/blob/main/CLASSES.md) for details on how class ranks work and what specialized gear is available to each class.
-
-Make note of the different ancillary departments and what they do.
+3. Make note of the combat classes and be sure they check the [class document](https://github.com/ElesCloud/ESCDocuments/blob/main/CLASSES.md) for details on how class ranks work and what specialized gear is available to each class.
+4. Make note of the different ancillary departments and what they do. Some can be joined on request (training, combat ops), while others you must demonstrate applicable skillsets and will be selected to join (RND, QA, Omega).
 
 ## Section Five: Recap and Test
-
 To ensure that the recruit has at least a basic understanding of our expectations, a quiz has been developed for use [here](https://forms.gle/wQFGguMS71cZVAGk8). 
--  This quiz requires a passing grade of 8/10. The quiz will give them a score response immediately after they complete it.
--  If they fail, go over the handbook with them again and spend more time covering the rules. It is crucial that they understand how we operate and will abide by our protocols. Remember Sections Two and Three. If they are not clicking well with these parts, it is not too late for them to decide to drop out.
-- Offer an opportunity to ask any questions.
+- This quiz is open-book, but it was designed to be tricky, so the trainee should think before they answer or ask questions for clarification.
+- The trainee should receive a score response immediately after they complete it.
+- If they miss ANY of the questions, go over the handbook with them again and spend more time covering the rules. 
+  - It is crucial that they understand how we operate and will abide by our protocols. Remember Sections Two and Three. If they are not clicking well with these parts, it is not too late for them to decide to drop out.
+- Offer an opportunity to ask any questions as a recap.
 
 ## Section Six: Update
 Denote the recruit's progress in the trainee-status channel on Discord.
