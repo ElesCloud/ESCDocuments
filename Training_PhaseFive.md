@@ -65,10 +65,9 @@ To start the new Contracted personnel on their fruitful career with Epsilon Secu
 - All ESC gear is subject to the Authorization list found [here](https://epsilonsecurityconsulting.net/viewforum.php?f=10) (secure, must be logged in). Personnel are advised to spend their credits prudently, starting with basic items that are authorized for general use, and then working towards the flashy, powerful items that only get authorized for use on occasion.
 
 ### Trainer
-Trainers will be compensated for their efforts to bring new members into the group. The rate is 75 credits per phase completed.
-- A fully completed standard training course from intake to exit processing is 300 credits.
-- Trainers who completed the expedited process are eligible for 225 credits. 
-- Partial training is paid per phase.
+Trainers will be compensated for their efforts to bring new members into the group.
+- The rate is 100 credits per phase completed.The rate is 100 credits per phase completed; a fully completed standard training course from intake to exit processing is 500 credits. Expedited is 400.
+- Split training between more than one instructor should be paid per phase.
 - If you cannot pay yourself, ask to be paid.
 
 **PHASE FOUR COMPLETE.** 
