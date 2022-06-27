@@ -22,15 +22,15 @@ In this phase, you will be covering ESC's culture, policies, and structure to th
 ## Section One: Primer
 - If the new trainee is not familiar with the SLMC at all, they will need to be introduced to what the SLMC is and how the community as a whole operates. Furnish them a copy of the [SLMC primer](https://github.com/ElesCloud/ESCDocuments/blob/main/SLMCPrimer.md).
 - Give the trainee plenty of time to read this and ask any questions they might have.
-- If they have been in the SLMC before, you can still give them a copy if you want to but it is not necessary.
+- If they have been in the SLMC before but it's been a long time, they should probably still review it. If they're fresh out of a previous group, you can skip it.
 - Ensure the trainee has a copy of the handbook [at this link](https://github.com/ElesCloud/ESCDocuments/blob/main/HANDBOOK.md).
 
 ## Section Two: Handbook - Code
-- Ultimately, this is our "ethos," the ideals that make us who we are.
-- If the recruit isn't meshing with those ideals for any reason, now is the best time to amicably part ways and minimize loss of time. 
+- Ultimately, this is our "ethos." This section defines who we are in general.
+- If the recruit isn't meshing with these ideals for any reason, now is the best time to amicably part ways and minimize loss of time. 
   - In this phase of training, you aren't just educating them on our expectations, you are also monitoring for early signs of trouble. It is your job to pay attention to how receptive the recruit is to what is presented in the handbook, especially to the Code.
   - If the recruit doesn't take it seriously, you are not just allowed, but **expected**, to discuss with them and help them decide if ESC is the right group for them. There should be no hard feelings. Not everyone has to be a good fit for ESC.
-- If this does happen, you should still post an update in trainer-chat. Depending on their degree of connection to the group, they may leave entirely or simply be bumped over as a Civilian. They can stick around and be friends, or sever ties completely. It's up to them.
+- If this does happen, you should still post an update in the trainee-status channel on Discord. Depending on their degree of connection to the group, they may leave entirely or simply be bumped over as a Civilian. They can stick around and be friends, or sever ties completely. It's up to them.
 
 ## Section Three: Handbook - Policy
 
@@ -44,7 +44,7 @@ Shift to Chapter Three: Policy and go over each section. While it is not necessa
 Briefly cover our rank structure, from "Foundation" (trainees), to "Core" (enlisted/"contracted" and NCOs), and "Administration" (officers and command).
 
 Illustrate in more detail our "input/output" concept as it relates to rank, structure, and job choices.
-  - Everyone's contribution, from simply attending regularly and beyond, is valued and appreciated. 
+  - Everyone's contribution, from simply attending regularly to beyond, is valued and appreciated. 
   - Rank-chasing is a bad idea.
     - Promotions are assigned based not just on level of contribution, but the caliber of one's leadership qualities. 
     - A member's rank is a signifier not only of their time and effort dedicated to the group, but also trust.
