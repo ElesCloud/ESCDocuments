@@ -21,7 +21,7 @@ OTHER PHASES: [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training
    - The RF30 Recruit SMG
 2. Have them wear the trainee uniform. They may need to disable or alpha their body, because the uniform suit is a fully-rigged set.
 3. Have the recruit attach the HUD and gestures package. Take the recruit back to our defender spawn area to configure their HUD Return-to-Base homepoint using /c !sethome. 
-   - The recruit will need to have RLV for this, and for other parts of the HUD. If they don't allow it, they are unable to use this feature.
+   - The recruit will need to have RLV enabled for this, and for other parts of the HUD. If they don't allow it, they are unable to use this feature.
    - Explain that this alllows us to instantly go back to our defender spawn after a raid, instead of being teleported to the visitor area and having to manually run back. Great convenience.
    
 ## Section Two: HUD Overview
