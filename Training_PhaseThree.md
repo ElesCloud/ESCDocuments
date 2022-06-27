@@ -1,7 +1,7 @@
 # EPSILON SECURITY CONSULTING
 
 TRAINING INSTRUCTIONS
-PHASE TWO | ORIENTATION
+PHASE THREE | ORIENTATION
 
 SECURITY LEVEL: PUBLIC DOMAIN
 
@@ -15,6 +15,7 @@ OTHER PHASES: [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training
   - [Section Three: Handbook - Policy](#section-three-handbook---policy)
   - [Section Four: Handbook - Structure, Classes, Gear](#section-four-handbook---structure-classes-gear)
   - [Section Five: Recap and Test](#section-five-recap-and-test)
+  - [Section Six: Update](#section-six-update)
 
 In this phase, you will be covering ESC's culture, policies, and structure to the recruit. You will explain the handbook to them lecture-style, in an approach that works best for you (as long as it still conveys all of the necessary information). Watch your recruit's level of engagement. This is an interactive and variable part of the training. Read the room and go at a pace/use a level of verbiage appropriate to the class you are holding.
 
@@ -63,5 +64,16 @@ To ensure that the recruit has at least a basic understanding of our expectation
 -  This quiz requires a passing grade of 8/10. The quiz will give them a score response immediately after they complete it.
 -  If they fail, go over the handbook with them again and spend more time covering the rules. It is crucial that they understand how we operate and will abide by our protocols. Remember Sections Two and Three. If they are not clicking well with these parts, it is not too late for them to decide to drop out.
 - Offer an opportunity to ask any questions.
+
+## Section Six: Update
+Denote the recruit's initiation into to Phase One in the trainer-chat on Discord.
+   - This will aid us in staying efficient and organized, so we are not constantly wondering who has done what.
+   - **Also, to receive credit for the trainers-only Showstopper reward, you must post each phase individually.**
+   - Use this template in the channel to track progress:
+     - Trainer:
+     - Recruit:
+     - Phase:
+     - R/D/S: 0/0/0
+     - Comments:
 
 **PHASE TWO COMPLETE. Proceed to Phase [Three](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseThree.md) (standard training) or Phase [Four](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFour.md) (expedited).**
