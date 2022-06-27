@@ -29,6 +29,7 @@ Important information about the database and the forums:
 - Explain that the web database tracks individual rank and class, and most of the gear we keep is documented and distributed through this website.
 - You will need to go into the database and manually edit their new user file from Rank: Conscript to Rank: Contracted. If you cannot do this, ask for help right away.
 - Anytime they click the terminal on the pedestal after initial registration, it provides a direct link to the database. The terminal on the wall will allow them to reset their password on the database.
+- The forums have to be manually assigned by an admin (Nikki, usually). You can contact her if she is available, otherwise the recruit may have to wait a little bit.
 
 
 ## Section Two: Contracted Gear
@@ -58,8 +59,8 @@ Seraph Light Armor - General combat use and meetings (required for meetings). Fu
 ## Section Three: Payment
 
 ### Trainee
-To start the new Contracted personnel on their fruitful career with Epsilon Security Consulting, all graduates are paid a 60-credit stipend, in addition to any time they earned previously while participating in combat. As mentioned in Phase Three, this does involve taking the trainee's word for it. We accept the risk this involves.
-- This step must be done by someone who has the ability to pay others on the database. If you can't, ask for help.
+To start the new Contracted personnel on their fruitful career with Epsilon Security Consulting, all graduates are paid a 500-credit stipend, in addition to any time they earned previously while participating in combat. As mentioned in Phase Three, this does involve taking the trainee's word for it. We accept the risk this involves.
+- This step must be done by someone who has the ability to pay (import time) on the database. **If you can't or don't know how, ask for help.**
 - The appropriate method to pay a user for time is to go to "Import Time" under "Users", paste the recruit's UUID, add a comma (,) and then the number of credits after the comma. There should be no spaces. The Import Time page will return a successful result report if you did it correctly.
 - All ESC gear is subject to the Authorization list found [here](https://epsilonsecurityconsulting.net/viewforum.php?f=10) (secure, must be logged in). Personnel are advised to spend their credits prudently, starting with basic items that are authorized for general use, and then working towards the flashy, powerful items that only get authorized for use on occasion.
 
