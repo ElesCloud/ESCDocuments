@@ -5,7 +5,7 @@ PHASE FOUR | PRACTICAL SKILLS
 
 SECURITY LEVEL: PUBLIC DOMAIN
 
-OTHER PHASES [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOne.md) - [TWO](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md) - [THREE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseThree.md) - [FIVE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFive.md)
+OTHER PHASES: [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOne.md) - [TWO](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md) - [THREE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseThree.md) - [FIVE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFive.md)
 
 ![Banner](https://github.com/ElesCloud/ESCHandbook/blob/main/TYYGtcn.jpg)
 
