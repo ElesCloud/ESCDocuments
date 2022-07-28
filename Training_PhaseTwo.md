@@ -24,11 +24,11 @@
 </p>
 
 ## Table of Contents
-  - [Section One: Gear Acquisition](#section-one-gear-acquisition)
+  - [Section One: Recruit Gear and Registration](#section-one-recruit-gear-and-registration)
   - [Section Two: HUD Overview](#section-two-hud-overview)
   - [Section Three: Update](#section-three-update)
 
-## Section One: Gear Acquisition
+## Section One: Recruit Gear and Registration
 + Bring the recruit to the armory and direct them to collect the items under the Recruit section, including:
    - The trainee uniform
    - Enlisted HUD
@@ -36,6 +36,7 @@
    - The RF30 Recruit SMG
 + Have them wear the trainee uniform. This outfit is fully rigged with no parts. It is recommended that they disable all but their head and neck for this outfit.
 + The recruit must click on the left-side terminal that is labeled "Trainee Terminal." This will sync their SL account to both the forums and armory database.
+  - Explain that the database is where much of our gear distribution happens and registration is mandatory. More on how to earn points to buy stuff in a later phase.
 + They will receive a message in local chat with their assigned forum password. Right away, the recruit should:
   - Log in to the forums [here](https://epsilonsecurityconsulting.net/index.php) with their **legacy SL username (FirstName LastName)** and this assigned password;
   - Change the password to something else;
