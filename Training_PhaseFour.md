@@ -1,13 +1,27 @@
-# EPSILON SECURITY CONSULTING
+<p align="center">
+  
+![Banner](https://github.com/ElesCloud/ESCHandbook/blob/main/Banner.jpg)
+  
+</p>
 
-TRAINING INSTRUCTIONS
-PHASE FOUR | PRACTICAL SKILLS
 
-SECURITY LEVEL: PUBLIC DOMAIN
+# <p align='center'> EPSILON SECURITY CONSULTING </p> 
 
-OTHER PHASES: [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOne.md) - [TWO](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md) - [THREE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseThree.md) - [FIVE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFive.md)
+<p align="center"> DURA QUAMVIS, SECURITAS </p>
+  
+<p align="center"> TRAINING INSTRUCTIONS </p>
 
-![Banner](https://github.com/ElesCloud/ESCHandbook/blob/main/TYYGtcn.jpg)
+<p align="center"> PHASE FOUR | PRACTICAL SKILLS </p>
+
+<p align="center"> SECURITY CLEARANCE: PUBLIC DOMAIN </p>
+
+<p align="center"> 
+ <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOne.md>PHASE ONE</a> 
+ <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md>PHASE TWO</a> | 
+ <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseThree.md>PHASE THREE</a> | 
+ PHASE FOUR | 
+ <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFive.md>PHASE FIVE</a>
+</p>
 
 ## Table of Contents
   - [Section One: Movement Course](#section-one-movement-course)
