@@ -1,13 +1,13 @@
 # EPSILON SECURITY CONSULTING
 
-/// DURA QUAMVIS, SECURITAS \\\
-
 ![Banner](https://github.com/ElesCloud/ESCHandbook/blob/main/TYYGtcn.jpg)
+
+/// DURA QUAMVIS, SECURITAS \\\
 
 TRAINING INSTRUCTIONS
 PHASE THREE | ORIENTATION
 
-SECURITY LEVEL: PUBLIC DOMAIN
+SECURITY CLEARANCE: PUBLIC DOMAIN
 
 OTHER PHASES: [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOne.md) - [TWO](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md) - [FOUR](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFour.md) - [FIVE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFive.md)
 
