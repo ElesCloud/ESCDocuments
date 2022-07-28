@@ -1,13 +1,26 @@
-# EPSILON SECURITY CONSULTING
+<p align="center">
+  
+![Banner](https://github.com/ElesCloud/ESCHandbook/blob/main/Banner.jpg)
+  
+</p>
 
-TRAINING INSTRUCTIONS
-PHASE FIVE | EXIT PROCESSING
+# <p align='center'> EPSILON SECURITY CONSULTING </p> 
 
-SECURITY LEVEL: PUBLIC DOMAIN
+<p align="center"> DURA QUAMVIS, SECURITAS </p>
+  
+<p align="center"> TRAINING INSTRUCTIONS </p>
 
-OTHER PHASES: [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOne.md) - [TWO](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md) - [THREE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseThree.md) - [FOUR](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFour.md)
+<p align="center"> PHASE FIVE | EXIT PROCESSING </p>
 
-![Banner](https://github.com/ElesCloud/ESCHandbook/blob/main/TYYGtcn.jpg)
+<p align="center"> SECURITY CLEARANCE: PUBLIC DOMAIN </p>
+
+<p align="center"> 
+ <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOne.md>PHASE ONE</a> 
+ <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md>PHASE TWO</a> | 
+ <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseThree.md>PHASE THREE</a> | 
+ <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFour.md>PHASE FOUR</a> | 
+ PHASE FIVE
+</p>
 
 ## Table of Contents
   - [Section One: Database Registration](#section-one-database-registration)
