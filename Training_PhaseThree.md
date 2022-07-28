@@ -1,6 +1,8 @@
 # EPSILON SECURITY CONSULTING
 
-/// DURA QUAMVIS, SECURITAS
+/// DURA QUAMVIS, SECURITAS \\\
+
+![Banner](https://github.com/ElesCloud/ESCHandbook/blob/main/TYYGtcn.jpg)
 
 TRAINING INSTRUCTIONS
 PHASE THREE | ORIENTATION
@@ -8,8 +10,6 @@ PHASE THREE | ORIENTATION
 SECURITY LEVEL: PUBLIC DOMAIN
 
 OTHER PHASES: [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOne.md) - [TWO](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md) - [FOUR](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFour.md) - [FIVE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFive.md)
-
-![Banner](https://github.com/ElesCloud/ESCHandbook/blob/main/TYYGtcn.jpg)
 
 ## Table of Contents
   - [Section One: Handbook - Code](#section-one-handbook---code)
