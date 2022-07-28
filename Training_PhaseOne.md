@@ -1,6 +1,6 @@
 <p align="center">
   
-![Banner](https://github.com/ElesCloud/ESCHandbook/blob/main/TYYGtcn.jpg)
+![Banner](https://github.com/ElesCloud/ESCHandbook/blob/main/Banner.jpg)
   
 </p>
 
