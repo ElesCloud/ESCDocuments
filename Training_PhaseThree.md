@@ -15,7 +15,13 @@
 
 <p align="center"> SECURITY CLEARANCE: PUBLIC DOMAIN </p>
 
-OTHER PHASES: [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOne.md) - [TWO](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md) - [FOUR](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFour.md) - [FIVE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFive.md)
+<p align="center"> 
+ <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOne.md>PHASE ONE</a> 
+ <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md>PHASE TWO</a> | 
+ PHASE THREE | 
+ <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFour.md>PHASE FOUR</a> | 
+ <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFive.md>PHASE FIVE</a>
+</p>
 
 
 
