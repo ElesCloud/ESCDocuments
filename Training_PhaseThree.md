@@ -1,15 +1,23 @@
-# EPSILON SECURITY CONSULTING
-
+<p align="center">
+  
 ![Banner](https://github.com/ElesCloud/ESCHandbook/blob/main/TYYGtcn.jpg)
+  
+</p>
 
-||| DURA QUAMVIS, SECURITAS |||
 
-TRAINING INSTRUCTIONS
-PHASE THREE | ORIENTATION
+# <p align='center'> EPSILON SECURITY CONSULTING </p> 
 
-SECURITY CLEARANCE: PUBLIC DOMAIN
+<p align="center"> DURA QUAMVIS, SECURITAS </p>
+  
+<p align="center"> TRAINING INSTRUCTIONS </p>
+
+<p align="center"> PHASE THREE | ORIENTATION </p>
+
+<p align="center"> SECURITY CLEARANCE: PUBLIC DOMAIN </p>
 
 OTHER PHASES: [ONE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOne.md) - [TWO](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md) - [FOUR](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFour.md) - [FIVE](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFive.md)
+
+
 
 ## Table of Contents
   - [Section One: Handbook - Code](#section-one-handbook---code)
