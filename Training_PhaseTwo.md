@@ -31,20 +31,23 @@
    
 ## Section Two: HUD Overview
 
-1. Review the components of the HUD. The HUD is gesture-driven and makes use of RLV for some features. We do not force individuals to enable RLV, but without it, certain components will fail to function properly.
-3. The HUD is broken down into five sections from left to right:
-   - [Deployable Tools]
-   - [Planted Items]
-   - [Info and Movement Features]
-   - [Lethal Grenades]
-   - [Utility Grenades]
-5. Spend some time on the center piece and the parts not displayed, such as the parkour system, grapple, and dodge roll.   
-6. Take a moment to review the gesture controls provided in the pack. If you modify yours, keep a default copy for an example to explain to them.
-   - Be sure to explain how our weapons operate on different "layers," one for primary weapons, two for secondaries/sidearms, and three for heavy/special weapons. One weapon can occupy each slot, and the gestures will allow a quick draw/sling to switch, rather than attaching/detaching all the time.
-7. Encourage them to test out the various items (safely, without killing everyone of course) so they get a feel for how they work. Emphasize that this is considered basic knowledge for everyone. Questions and testing should be done *now*, not in the middle of live combat.
-8. The reticle in the pack is optional but highly recommended. It tracks ammo count for many current issue ESC weapons, as well as energy levels for boostpacks.
-9. Take the recruit back to the defender spawn area to configure their HUD Return-to-Base homepoint using the text command "/c !sethome". 
-   - Explain that this alllows us to instantly go back to our defender spawn after a raid, instead of being teleported to the visitor area and having to manually run back.
++ Review the components of the HUD. 
+   - The HUD uses SL gestures as hotkeys and makes use of RLV for some features.
+     - Users are recommended to disable other gestures they may have active. Gestures that use the same shortcut keys will not work.
+     - Individuals are not strictly required to enable RLV, but without it, certain components of the HUD will fail to function properly.
++ Explain the five sections of the HUD as laid out in this diagram:
+
+| ![HudDiagramMain](https://raw.githubusercontent.com/ElesCloud/ESCDocuments/main/HUDdiagram-main.png) |
+|:---:|
+
++ Feel free to share the link with them [here](https://raw.githubusercontent.com/ElesCloud/ESCDocuments/main/HUDdiagram-main.png). Copies may be obtained for use as images in-world from Foundation administration upon request.
++ Take a moment to review the gesture controls provided in the pack. If you modify yours, keep a default copy for an example to explain to them.
++ Explain the weapon layer system: 1 for primary weapons, 2 for secondaries/sidearms, and 3 for heavy/special weapons. One weapon can occupy each slot; the gestures will allow a quick draw/sling to switch, rather than attaching/detaching all the time.
++ Trainees should take time to playtest the HUD functions (carefully, without killing everyone) so they get a feel for how they work. 
+  - **This is considered basic knowledge for everyone. Questions should be fielded and answered _now_, not in the middle of live combat.**
++ The reticle in the pack is optional but highly recommended. It tracks ammo count for many current issue ESC weapons, as well as energy levels for boostpacks.
++ Take the recruit back to the defender spawn area to configure their HUD Return-to-Base homepoint using the text command "/c !sethome". 
+  - Explain that this alllows us to instantly go back to our defender spawn after a raid, instead of being teleported to the visitor area and having to manually run back.
    - If they did it right, the HUD will reutrn a confirmation with coordinates that looks like this:
 
 >[13:16:31] [ESC.] Enlisted HUD -  v1.0.4: Getting Data...
