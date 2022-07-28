@@ -42,12 +42,8 @@
   - Bookmark the link to the forums for later.
 + Limited access to DB and forums is granted at this point and will be expanded to full access at graduation.
 
-<p align="center">
-
-![PasswordOutput](https://github.com/ElesCloud/ESCDocuments/blob/main/passwordoutput.png)
- 
-</p>
-
+| ![PasswordOutput](https://github.com/ElesCloud/ESCDocuments/blob/main/passwordoutput.png) |
+|:---:|
 
 |![RecruitShelf](https://github.com/ElesCloud/ESCDocuments/blob/main/RecruitShelf.png) | ![Trainee Terminal](https://github.com/ElesCloud/ESCDocuments/raw/main/TraineeTerminal.png) |
 |:---:|:---:|
