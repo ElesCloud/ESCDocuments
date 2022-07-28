@@ -29,17 +29,31 @@
   - [Section Three: Update](#section-three-update)
 
 ## Section One: Gear Acquisition
-1. Bring the recruit to the armory and direct them to collect the items under the Recruit section, including:
++ Bring the recruit to the armory and direct them to collect the items under the Recruit section, including:
    - The trainee uniform
    - Enlisted HUD
    - HUD gestures package.
    - The RF30 Recruit SMG
-2. Have them wear the trainee uniform. This outfit is fully rigged with no parts. It is recommended that they disable all but their head and neck for this outfit.
-3. Have the recruit attach the HUD and gestures package, then go to the classroom.
++ Have them wear the trainee uniform. This outfit is fully rigged with no parts. It is recommended that they disable all but their head and neck for this outfit.
++ The recruit must click on the left-side terminal that is labeled "Trainee Terminal." This will sync their SL account to both the forums and armory database.
++ They will receive a message in local chat with their assigned forum password. Right away, the recruit should:
+  - Log in to te forums [here](https://epsilonsecurityconsulting.net/index.php) with their **legacy SL username (FirstName LastName)** and this assigned password;
+  - Change the password to something else;
+  - Bookmark the link to the forums for later.
++ Limited access to DB and forums is granted at this point and will be expanded to full access at graduation.
+
+<p align="center">
+  
+![PasswordOutput](https://github.com/ElesCloud/ESCDocuments/blob/main/passwordoutput.png)
+  
+</p>
+
+|![RecruitShelf](https://github.com/ElesCloud/ESCDocuments/blob/main/RecruitShelf.png) | ![Trainee Terminal](https://github.com/ElesCloud/ESCDocuments/raw/main/TraineeTerminal.png) |
+|:---:|:---:|
    
 ## Section Two: HUD Overview
 
-+ Review the components of the HUD. 
++ Return to the classroom. Have the recruit attach the HUD and gestures. Explain the components of the HUD. 
    - The HUD uses SL gestures as hotkeys and makes use of RLV for some features.
      - Users are recommended to disable other gestures they may have active. Gestures that use the same shortcut keys will not work.
      - Individuals are not strictly required to enable RLV, but without it, certain components of the HUD will fail to function properly.
