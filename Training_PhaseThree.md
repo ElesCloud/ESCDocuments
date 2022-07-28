@@ -23,8 +23,6 @@
  <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFive.md>PHASE FIVE</a>
 </p>
 
-
-
 ## Table of Contents
   - [Section One: Handbook - Code](#section-one-handbook---code)
   - [Section Two: Handbook - Policy](#section-two-handbook---policy)
