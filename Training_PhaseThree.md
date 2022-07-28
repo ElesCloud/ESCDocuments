@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/ElesCloud/ESCHandbook/blob/main/TYYGtcn.jpg)
 
-/// DURA QUAMVIS, SECURITAS \\\
+||| DURA QUAMVIS, SECURITAS |||
 
 TRAINING INSTRUCTIONS
 PHASE THREE | ORIENTATION
