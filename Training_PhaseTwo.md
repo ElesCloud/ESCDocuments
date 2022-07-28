@@ -15,6 +15,14 @@
 
 <p align="center"> SECURITY CLEARANCE: PUBLIC DOMAIN </p>
 
+<p align="center"> 
+  <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md>PHASE ONE</a> | 
+ PHASE TWO | 
+ <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseThree.md>PHASE THREE</a> | 
+ <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFour.md>PHASE FOUR</a> | 
+ <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFive.md>PHASE FIVE</a>
+</p>
+
 ## Table of Contents
   - [Section One: Gear Acquisition](#section-one-gear-acquisition)
   - [Section Two: HUD Overview](#section-two-hud-overview)
