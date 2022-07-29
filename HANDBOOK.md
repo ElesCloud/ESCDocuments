@@ -40,7 +40,7 @@
 
 ## Chapter One: Background
 
-> “Epsilon Security Consulting is a subsidiary group of Epsilon Pharmaceutical Corporation. In a time when automation has all but replaced human labor, individuals are born into debt which they repay by indentured employment to mega-corporations such as Epsilon Pharmaceutical Corporation. This is the case specifically for Epsilon personnel. They are conscripted and sponsored by Epsilon Pharmaceutical Corporation to provide asset security in exchange for the repayment of their life debt.”
+> “Epsilon Security Consulting is a subsidiary group of Epsilon Pharmaceutical Corporation. In a time when automation has all but replaced human labor, individuals are born into debt which they repay by indentured employment to megacorporations that act as pseudo-governments. This is the case specifically for Epsilon personnel. They are conscripted and sponsored by Epsilon Pharmaceutical Corporation to provide asset security in exchange for the eventual repayment of their life debt.”
 
 Epsilon Security Consulting was created in 2019 by Nivanglus Aya, Aurora Guffey, and Sin Straaf, the original founders and Directors of the organization. The main goal of Epsilon Security Consulting is to sustain and, if possible, renew the stagnant and shrinking Second Life Military Community however possible. We are committed to creating a relaxed and fun but responsible atmosphere. We strive to ensure that everyone is welcome to join and find their place, provided that they can prove themselves.
 
