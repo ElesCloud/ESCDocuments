@@ -32,6 +32,8 @@
 
 In this phase, you will be covering ESC's culture, policies, and structure to the recruit. You will explain the handbook to them lecture-style, in an approach that works best for you (as long as it still conveys all of the necessary information). Watch your recruit's level of engagement. This is an interactive and variable part of the training. Read the room and go at a pace/use a level of verbiage appropriate to the class you are holding.
 
+[HANDBOOK LINK](https://github.com/ElesCloud/ESCDocuments/blob/main/HANDBOOK.md)
+
 ## Section One: Handbook - Code
 - This is our ethos. This section defines who we are.
 - If the recruit isn't meshing with these ideals for any reason, now is the best time to amicably part ways and minimize loss of time. 
