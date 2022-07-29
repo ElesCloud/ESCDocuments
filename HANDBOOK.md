@@ -111,6 +111,7 @@ Everyone within the group is assumed to be an adult and is expected to act like 
    - OIC directives must be followed by everyone regardless of rank for the duration of that particular combat event. Despite the implication of the name, OICs are not always and do not necessarily need to be officers.
    - Any messages from opponents should be passed to the OIC to be addressed and not responded to individually. This is to ensure communication stays clear.
    - The OIC should be given a reasonable amount of time to address problems. If there are multiple issues, they should be IMed to the OIC in a list. Recordings and screenshots should be forwarded to the OIC if they are obtained. For some issues, proof is the only way to get a resolution.
+   - During active combat, the HUD will display a Message of the Day that lists authorized gear. This should be consulted before joining.
 
 2. ESC primarily makes use of Discord for external text and voice communication, including announcements.
    - Personnel are generally expected to be able to at least log in to hear what is going on. Being able to talk is NOT required; many folks make use of text-to-speech.
