@@ -64,9 +64,7 @@ If there is more than one recruit, complete each recruit's portion of this train
 For the last section of training, the recruit must join an official, report-logged combat event to pass. They can meet this requirement by participating in any kind of combat available - raid, defense, or skirmish. They must have been present for a minimum of 30 minutes or the full combat event if it lasted less than 30 minutes.
 
 **In keeping with the concept of input/output, it is our policy to pay recruits for all combat they participate in. A recruit who goes above and beyond the minimum should be given more than the minimum.**
-- There is no failsafe way to implement this at this time because the combat HUD does not track participation time for recruits. 
-- Until a system is implemented, the recruit should keep track of how long they spend fighting and report it to their trainer. This does mean we will be assuming they are reporting themselves accurately.
-- The recruit will be paid retroactively for all accumulated time spent in official events at graduation. It is the trainer's responsibility to ensure that this payment is made in the final phase. Trainers who regularly fail to compensate recruits for their time may lose training privileges.
+- If the recruit is properly registered with the database as denoted in prior phases, they should be able to join combat through the HUD and earn credits automatically, though they will not have access to spend them until after graduating.
 
 ## Section Four: Update
 Denote the recruit's progress in the trainee-status channel on Discord.
