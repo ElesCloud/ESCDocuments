@@ -49,7 +49,7 @@ Epsilon Security Consulting was created in 2019 by Nivanglus Aya, Aurora Guffey,
 ## Chapter Two: Code
 
 ### Cooperation
-The Second Life Military Community (SLMC) is made up of many different personalities. Some are great, plenty are terrible, and most are somewhere in between. However, even for the shittiest among us, there are some lines that should never be crossed. Below is a list of acts that are generally agreed upon to be the "Big Four Offenses". 
+The Second Life Military Community (SLMC) is made up of many different personalities. Some are great, plenty are terrible, and most are somewhere in between. However, even for worst among us who will happily disregard the feelings of others, there are some lines that must never be crossed. Below is a list of acts that are generally agreed upon to be the "Big Four Offenses". 
 
 If you commit a "Big Four Offense", you will likely no longer be welcome anywhere. They are as follows:
 - Distribution of identifying real-life information about others (doxxing)
@@ -111,7 +111,7 @@ Everyone within the group is assumed to be an adult and is expected to act like 
    - OIC directives must be followed by everyone regardless of rank for the duration of that particular combat event. Despite the implication of the name, OICs are not always and do not necessarily need to be officers.
    - Any messages from opponents should be passed to the OIC to be addressed and not responded to individually. This is to ensure communication stays clear.
    - The OIC should be given a reasonable amount of time to address problems. If there are multiple issues, they should be IMed to the OIC in a list. Recordings and screenshots should be forwarded to the OIC if they are obtained. For some issues, proof is the only way to get a resolution.
-   - During active combat, the HUD will display a Message of the Day that lists authorized gear. This should be consulted before joining.
+   - During active combat, the HUD will display a Message of the Day that lists authorized gear. This should be consulted **before** asking anyone.
 
 2. ESC primarily makes use of Discord for external text and voice communication, including announcements.
    - Personnel are generally expected to be able to at least log in to hear what is going on. Being able to talk is NOT required; many folks make use of text-to-speech.
@@ -120,7 +120,7 @@ Everyone within the group is assumed to be an adult and is expected to act like 
 3. During any combat operations, communcation should be limited to combat-pertinent conversation. Light banter is fine, but it should not overwhelm combat pertinent communication or be disruptive.
    - Individuals who become upset or find themselves complaining a lot are strongly recommended to take a break.
    - Participants who fail to comply with a request to pipe down will lose their voice privileges. 
-   - ESC personnel are not permitted to mute other ESC personnel. If there is an inter-personnel problem, it should be resolved in other ways.
+   - ESC personnel are not permitted to mute other ESC personnel except in rare approved cases. If there is an interpersonal problem, it should be resolved in other ways.
 
 4. Gear restrictions apply.
    - ESC personnel may only use gear made available from the official armory.
