@@ -34,7 +34,7 @@
    - Enlisted HUD
    - HUD gestures package.
    - The RF30 Recruit SMG
-+ Have them wear the trainee uniform. This outfit is fully rigged with no parts. It is recommended that they disable all but their head and neck for this outfit.
++ Have them wear the trainee uniform. This outfit is fully rigged with no parts. It is recommended that they disable all but their head, neck, and hands for this outfit.
 + The recruit must click on the left-side terminal that is labeled "Trainee Terminal." This will sync their SL account to both the forums and armory database.
   - Explain that the database is where much of our gear distribution happens and registration is mandatory. More on how to earn points to buy stuff in a later phase.
 + They will receive a message in local chat with their assigned forum password. Right away, the recruit should:
