@@ -119,9 +119,9 @@ Everyone within the group is assumed to be an adult and is expected to act like 
    - ESC personnel should have their nicknames set to match their SL username or display name, or at least have it in parentheses.
    - Observe opsec. Things discussed in internal channels should stay in internal channels. No, this is not the super-spy era of the 2010s ("Fairy-FRUMENTARII PARENTS!"), but that doesn't mean you should share stuff with people outside of the group.
 
-3. During any combat operations, communcation should be limited to combat-pertinent conversation. Light banter is fine, but it should not overwhelm combat pertinent communication or be disruptive.
+3. During any combat operations, communcation should be limited to combat-pertinent conversation. Light banter is fine, but it should not overwhelm combat pertinent communication, be disruptive, or be overly toxic or negative.
    - Individuals who become upset or find themselves complaining a lot are strongly recommended to take a break.
-   - Participants who fail to comply with a request to pipe down will lose their voice privileges. 
+   - Participants who fail to comply with a request to pipe down may be removed from combat, have pay docked, or be muted temporarily. 
    - ESC personnel are not permitted to mute other ESC personnel except in rare approved cases. If there is an interpersonal problem, it should be resolved in other ways.
 
 4. Gear restrictions apply.
