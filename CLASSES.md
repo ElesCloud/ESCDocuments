@@ -1,10 +1,19 @@
-# EPSILON SECURITY CONSULTING
+<p align="center">
+  
+![Banner](https://github.com/ElesCloud/ESCHandbook/blob/main/Banner.jpg)
+  
+</p>
 
-COMBAT CLASS GUIDE
 
-SECURITY LEVEL: PUBLIC DOMAIN
+# <p align='center'> EPSILON SECURITY CONSULTING </p> 
 
-![Banner](https://github.com/ElesCloud/ESCHandbook/blob/main/TYYGtcn.jpg)
+<p align="center"> DURA QUAMVIS, SECURITAS </p>
+  
+<p align="center"> TRAINING INSTRUCTIONS </p>
+
+<p align="center"> COMBAT CLASS GUIDE </p>
+
+<p align="center"> SECURITY CLEARANCE: PUBLIC DOMAIN </p>
 
 ## Table of Contents
    - [Chapter One: Introduction](#chapter-one-introduction)
