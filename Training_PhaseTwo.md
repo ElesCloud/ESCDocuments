@@ -16,7 +16,7 @@
 <p align="center"> SECURITY CLEARANCE: PUBLIC DOMAIN </p>
 
 <p align="center"> 
-  <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md>PHASE ONE</a> | 
+  <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOne.md>PHASE ONE</a> | 
  PHASE TWO | 
  <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseThree.md>PHASE THREE</a> | 
  <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFour.md>PHASE FOUR</a> | 
