@@ -118,7 +118,7 @@ Everyone within the group is assumed to be an adult and is expected to act like 
    - Personnel are generally expected to be able to at least log in to hear what is going on. Being able to talk is NOT required; many folks make use of text-to-speech.
    - ESC personnel should have their nicknames set to match their SL username or display name, or at least have it in parentheses.
    - Observe COMSEC. Things discussed in internal channels should stay in internal channels. 
-     - No, this is not the super-spy era of the 2010s ("Fairy-FRUMENTARII PARENTS!"), but that doesn't mean you should share stuff with people outside of the group.
+     - No, this is not the super-spy era of the 2010s ("Fairy-god FRUMENTARII!"), but that doesn't mean you should share stuff with people outside of the group.
 
 3. During any combat operations, communcation should be limited to combat-pertinent conversation. Light banter is fine, but it should not overwhelm combat pertinent communication, be disruptive, or be overly toxic or negative.
    - Individuals who become upset or find themselves complaining a lot are strongly recommended to take a break.
