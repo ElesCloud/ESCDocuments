@@ -41,7 +41,7 @@
   - Log in to the forums [here](https://epsilonsecurityconsulting.net/index.php) with their **legacy SL username (FirstName LastName)** and this assigned password;
   - Change the password to something else;
   - Bookmark the link to the forums for later.
-+ Limited access to the forums and NO access to database is granted at this point and will be expanded on at graduation.
++ Limited access to the forums and NO access to database is granted at this point and will be expanded on at graduation, however this will allow the trainee to join raids and earn credits they can spend as soon as they reach Contracted.
 
 | ![PasswordOutput](https://github.com/ElesCloud/ESCDocuments/blob/main/passwordoutput.png) |
 |:---:|
