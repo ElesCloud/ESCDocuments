@@ -112,10 +112,12 @@ Everyone within the group is assumed to be an adult and is expected to act like 
    - Any messages from opponents should be passed to the OIC to be addressed and not responded to individually. This is to ensure communication stays clear.
    - The OIC should be given a reasonable amount of time to address problems. If there are multiple issues, they should be IMed to the OIC in a list. Recordings and screenshots should be forwarded to the OIC if they are obtained. For some issues, proof is the only way to get a resolution.
    - During active combat, the HUD will display a Message of the Day that lists authorized gear. This should be consulted **before** asking anyone.
+   - If you can't determine if something has been authorized, do not assume it has been. Stick to basic gear if you do not have confirmation.
 
 2. ESC primarily makes use of Discord for external text and voice communication, including announcements.
    - Personnel are generally expected to be able to at least log in to hear what is going on. Being able to talk is NOT required; many folks make use of text-to-speech.
-   - ESC personnel should have their nicknames set to match their SL username or display name, or at least have it in parentheses. 
+   - ESC personnel should have their nicknames set to match their SL username or display name, or at least have it in parentheses.
+   - Observe opsec. Things discussed in internal channels should stay in internal channels. No, this is not the super-spy era of the 2010s ("Fairy-FRUMENTARII PARENTS!"), but that doesn't mean you should share stuff with people outside of the group.
 
 3. During any combat operations, communcation should be limited to combat-pertinent conversation. Light banter is fine, but it should not overwhelm combat pertinent communication or be disruptive.
    - Individuals who become upset or find themselves complaining a lot are strongly recommended to take a break.
