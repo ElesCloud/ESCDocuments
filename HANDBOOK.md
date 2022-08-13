@@ -129,7 +129,7 @@ Everyone within the group is assumed to be an adult and is expected to act like 
    - ESC personnel may only use gear made available from the official armory, no exceptions.
      - Non-standard and unreleased versions of ESC gear are reserved for R&D/QA and are only permitted for the purpose of testing official projects.
      - Personal project items and independently commissioned works are prohibited.
-     - Commercially sold variants of weapons made by some ESC creators exist, however, these variants are prohibited for use.
+     - Commercially sold variants of weapons made by some ESC creators exist, however, these variants are prohibited for use by personnel.
    - A [gear authorization list](https://epsilonsecurityconsulting.net/viewtopic.php?f=10&t=36) for individual ESC items is maintained by the Combat Operations department.
      - Internal only - you must be logged in to view this page.
    -  Civilians have a [separate list](https://epsilonsecurityconsulting.net/viewtopic.php?f=2&t=641) (public) of approved gear. 
