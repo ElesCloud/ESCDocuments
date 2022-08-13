@@ -126,10 +126,10 @@ Everyone within the group is assumed to be an adult and is expected to act like 
    - ESC personnel are not permitted to mute other ESC personnel except in rare approved cases. If there is an interpersonal problem, it should be resolved in other ways.
 
 4. Gear restrictions apply.
-   - ESC personnel may only use gear made available from the official armory.
+   - ESC personnel may only use gear made available from the official armory, no exceptions.
      - Non-standard and unreleased versions of ESC gear are reserved for R&D/QA and are only permitted for the purpose of testing official projects.
      - Personal project items and independently commissioned works are prohibited.
-     - ESC personnel are only permitted to use store-bought gear if the gear is a commercially-sold variant of something already in the ESC armory, and only on a limited basis. The armory counterpart should be unlocked and replace the store-bought version as soon as possible.
+     - Commercially sold variants of weapons made by some ESC creators exist, however, these variants are prohibited for use.
    - A [gear authorization list](https://epsilonsecurityconsulting.net/viewtopic.php?f=10&t=36) for individual ESC items is maintained by the Combat Operations department.
      - Internal only - you must be logged in to view this page.
    -  Civilians have a [separate list](https://epsilonsecurityconsulting.net/viewtopic.php?f=2&t=641) (public) of approved gear. 
