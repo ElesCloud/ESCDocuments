@@ -45,7 +45,7 @@ When the recruit's application is accepted, if this designation applies, it will
 
 ## Section Three: Group Setup
 1. Reach out to the prospective recruit. Congratulate them on their acceptance into the group and ask them if they are ready to begin.
-2. Invite the trainee to the Foundation, Home, and Land groups.
+2. Invite the trainee to the Foundation and Home groups.
    - If you do not have rights to furnish invitations, reach out for assistance. Ping on Discord if you need to. Officers have this ability as do many NCOs.
 3. Invite them to the Discord using the link provided in the trainer channel on discord and change their role using Epsilon Bot.
    - The command is " !trainee @discordname#number " and you will need to manually type in their username (the trainer channel shouldn't have recruits in it).
