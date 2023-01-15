@@ -175,7 +175,7 @@ Everyone within the group is assumed to be an adult and is expected to act like 
    - A case-by-case approach is preferred. However, if this causes problems, stricter and more specific guidelines may be added in the future. Try to use common sense and have consideration for your fellow ESC personnel.
 4. The armor should be used on bipedal, anthropomorphic avatars ONLY. Quad/feral avatars are prohibited from wearing ESC apparel.
 5. If you are not sure about a modification, it is recommended that you ask for approval first instead of being asked to remove it later.
-6. Modification approvals must be documented and communicated among Omega Bureau and officer staff, to prevent conflicting answers or someone going to another officer to circumvent the first officer's decision.
+6. Modification approvals and denials are documented for future referral and precedent.
 
 ##### Tinting
 1. Parts of the combat armor are blank textured/white and set to glow (LEDs).
@@ -207,12 +207,16 @@ Everyone within the group is assumed to be an adult and is expected to act like 
 - CONTRACTED
   - C-1 // CONTRACTOR
   - C-2 // AGENT *(Permitted to choose a combat class starting at this rank.)*
-  - C-3 // OPERATOR *(Eligible to take on ancillary roles, including combat operations and training.)*
+  - C-3 // OPERATOR *(Eligible to take on roles in ancillary departments.)*
   - C-4 // SPECIALIST
   - C-5 // COURSER
   - C-6 // PREFECT
   - C-7 // WATCHER
   - C-8 // SENTINEL
+    - SENIOR CONTRACTED
+      - SC-1
+      - SC-2
+      - SC-3
 - NON-COMMISSIONED OFFICERS
   - NCO-1 // WARDEN
   - NCO-2 // SUPERVISOR
