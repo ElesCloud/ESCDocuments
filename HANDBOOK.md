@@ -199,6 +199,9 @@ Everyone within the group is assumed to be an adult and is expected to act like 
 
 ## Chapter Four: Structure
 
+| ![Rankplates2](https://github.com/ElesCloud/ESCDocuments/blob/main/passwordoutput.png) |
+|:---:|
+
 ### FOUNDATION
 - F-1 // CONSCRIPT
   - *All trainees introduced to the group are conscripts for the duration of their training.*
@@ -249,17 +252,19 @@ Everyone within the group is assumed to be an adult and is expected to act like 
   - *Internal affairs and external affairs. Resolves disputes between members. Bridges between administration and other SLMC groups. Administers disciplinary action alongside Administration staff when necessary.*
 - Combat Operations
   - *Educates individuals on OIC skills, schedules and encourages raids, determines gear authorizations.*
+  - *Subgroup: Pathfinders - maintains a repository of data on raid targets and helps derive strategies for success when raiding*
 
 
 # Chapter Five: Combat Classes and Gear
 
-ESC personnel are able to unlock a considerable array of gear to enrich and diversify the experience of combat. This is done through an in-house credits system. Credits are earned by actively participating in combat. The standard pay rate is 60 credits per hour, or one credit per minute.
-To be eligible for compensation, a combat operation must meet three criteria:
+ESC personnel are able to unlock a considerable array of gear to enrich and diversify the experience of combat. This is done through an in-house credits system. Credits are earned by actively participating in combat. The standard pay rate is 60 credits per hour/one credit per minute.
+
+To be eligible for payment, a combat operation must meet three criteria:
   - The operation must consist of at least three individuals on at least two opposing teams.
   - The operation must have a designated OIC for each participating team.
   - The operation must be officially recorded via a report in ESC's records (at this time, on the forums).
 
-Time spent idle during combat will not be compensated. However, if members of the ESC team initially join combat but ratio restrictions prevent their active participation, those members will still be paid as long as they continue to actively observe. Junior enlisted are generally given priority when determining who is to be placed on standby and who is to be active. Officer and command staff may, at their discretion, add bonus credits or increase the rate of pay to compensate for extraordinary events, or to increase incentive for participation.
+Time spent idle during combat will not be compensated. However, if members of the ESC team initially join combat but ratio restrictions prevent their active participation, those members will still be paid as long as they continue to actively observe. Junior enlisted are= given priority when determining who is actively deployed and who remains on standby. Officer and command staff may, at their discretion, add bonus credits or increase the rate of pay to compensate for extraordinary events, or to increase incentive for participation.
 
 In addition to the standard gear available to be unlocked by credits, ESC also operates with a combat class system. At a certain rank, ESC personnel are granted the ability to specialize into one of these classes for gear exclusive to that class. There is also an option to further mutliclass.
 
