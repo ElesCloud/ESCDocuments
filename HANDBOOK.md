@@ -117,7 +117,7 @@ Everyone within the group is assumed to be an adult and is expected to act like 
      - If you can't determine if something has been authorized, do not assume it has been. Stick to general authorization-level items until you have confirmation.
 
 2. ESC primarily makes use of Discord for external text and voice communication, including announcements and recordkeeping.
-   - Personnel are generally expected to be able to at least log in to hear what is going on. Being able to talk is NOT required. Many folks make use of the included text-to-speech system.
+   - Personnel are generally expected to be able to at least log in to hear what is going on. Being able to talk is NOT required. Many folks make use of the installed text-to-speech bot.
    - ESC personnel should have their nicknames set to match their SL username or display name, or at least have it in parentheses.
    - Observe COMSEC. Things discussed in internal channels should stay in internal channels.
 
