@@ -53,7 +53,7 @@ Shift to Chapter Three: Policy and go over each section. While it is not necessa
 1. Briefly cover our rank structure, from "Subcontractor" and "Foundation" (militia and trainees), to "Core" (enlisted/"contracted" and NCOs), and "Administration" (officers and command).
 2. Illustrate in more detail our "input/output" concept as it relates to rank, structure, and job choices.
   - Everyone's contribution, from simply attending regularly to beyond, is valued and appreciated. 
-  - Promotions do give a certain sense of validation and achievement, so it's understandable to look forward to future promotions. However, chasing ranks and putting in effort solely to seek rank advancement is a bad idea and will only lead to sadness and frustration.
+  - Promotions do give a certain sense of validation and achievement, so it's understandable to look forward to future promotions. However, making a promotion one's only motivation to keep participating is a bad idea and will only lead to sadness and frustration.
     - Promotions are assigned based not just on level of contribution, but the caliber of one's leadership qualities. 
     - A member's rank is a signifier not only of their time and effort dedicated to the group, but also trust.
     - **Everyone in this group should putting in time and effort because they enjoy doing it and want to, not because they expect a promotion.**
