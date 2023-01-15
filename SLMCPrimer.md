@@ -1,11 +1,16 @@
-# EPSILON SECURITY CONSULTING
-||| DURA QUAMVIS, SECURITAS ///
-
-SECOND LIFE MILITARY COMMUNITY: A PRIMER
-
-SECURITY LEVEL: PUBLIC DOMAIN
-
+<p align="center">
+  
 ![Banner](https://github.com/ElesCloud/ESCHandbook/blob/main/Banner.jpg)
+  
+</p>
+
+# <p align='center'> EPSILON SECURITY CONSULTING </p> 
+
+<p align="center"> DURA QUAMVIS, SECURITAS </p>
+  
+<p align="center"> SUBCONTRACTORS </p>
+
+<p align="center"> SECURITY CLEARANCE: PUBLIC DOMAIN </p>
 
 ## Table of Contents
   - [Section One: Description and Purpose](#section-one-description-and-purpose)
