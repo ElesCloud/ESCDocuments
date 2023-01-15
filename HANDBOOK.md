@@ -130,8 +130,8 @@ Everyone within the group is assumed to be an adult and is expected to act like 
      - Non-standard and unreleased versions of ESC gear are reserved for R&D/QA and are only permitted for the purpose of official testing and development.
      - Personal project items and independently commissioned works are prohibited.
      - Some items in the ESC armory have commercially-sold variants. These variants are not permitted for use.
-   - A gear authorization list is is maintained by the Combat Operations department alongside Command and can be found [here]([https://epsilonsecurityconsulting.net/viewtopic.php?f=10&t=36](https://docs.google.com/spreadsheets/d/1vA7HMS7XBYfRmdiyk6tgSjBokKoKGt3hl99ncaxuKIo/edit#gid=0)).
-   -  ESC Subcontractors have their own list of approved gear to use, found [here](https://github.com/ElesCloud/ESCDocuments/blob/main/Subcontractors.md).
+   - A gear authorization list is is maintained by the Combat Operations department alongside Command and can be found [in this spreadsheet.](https://docs.google.com/spreadsheets/d/1vA7HMS7XBYfRmdiyk6tgSjBokKoKGt3hl99ncaxuKIo/edit#gid=0)
+   -  ESC Subcontractors have their own list of approved gear to use, found [on the Subcontractors info page.](https://github.com/ElesCloud/ESCDocuments/blob/main/Subcontractors.md)
 
 
 #### Defensive Protocols
