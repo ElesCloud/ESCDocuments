@@ -211,7 +211,7 @@ Everyone within the group is assumed to be an adult and is expected to act like 
 - CONTRACTED
   - C-1 // CONTRACTOR
   - C-2 // AGENT *(Permitted to choose a combat class starting at this rank.)*
-  - C-3 // OPERATOR *(Eligible to take on roles in ancillary departments.)*
+  - C-3 // OPERATOR *(Eligible to apply for roles in ancillary departments.)*
   - C-4 // SPECIALIST
   - C-5 // COURSER
   - C-6 // PREFECT
