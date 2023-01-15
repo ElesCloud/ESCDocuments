@@ -50,7 +50,7 @@ Shift to Chapter Three: Policy and go over each section. While it is not necessa
 
 ## Section Three: Handbook - Structure, Classes, Gear
 
-1. Briefly cover our rank structure, from "Foundation" (trainees), to "Core" (enlisted/"contracted" and NCOs), and "Administration" (officers and command).
+1. Briefly cover our rank structure, from "Subcontractor" and "Foundation" (militia and trainees), to "Core" (enlisted/"contracted" and NCOs), and "Administration" (officers and command).
 2. Illustrate in more detail our "input/output" concept as it relates to rank, structure, and job choices.
   - Everyone's contribution, from simply attending regularly to beyond, is valued and appreciated. 
   - Rank-chasing is a bad idea and will only lead to sadness and frustration.
