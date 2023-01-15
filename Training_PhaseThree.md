@@ -52,11 +52,10 @@ Shift to Chapter Three: Policy and go over each section. While it is not necessa
 
 1. Briefly cover our rank structure, from "Subcontractor" and "Foundation" (militia and trainees), to "Core" (enlisted/"contracted" and NCOs), and "Administration" (officers and command).
 2. Illustrate in more detail our "input/output" concept as it relates to rank, structure, and job choices. 
-  - Promotions do give a definite sense of validation and achievement. It's fine and normal to be strive for and look forward to future promotions. However, making a promotion one's **only** motivation to keep participating is a bad idea and will only lead to sadness and frustration.
-    - Promotions are assigned based not just on level of contribution, but leadership strength and trustworthiness.
-    - A member's rank is a signifier not only of their time and effort dedicated to the group, but also the responsibilities they are expected to carry. The higher the rank, in general the more on their shoulders.
-    - **Everyone in this group should putting in time and effort because they enjoy doing it and want to, not because they expect a promotion.**
-    - **Not all ESC members are going to climb to the top of the rank structure, and that is OKAY. Personnel do not need to be high-ranked to be important and valuable to the group. Everyone who participates is appreciated and valued.**
+  - Promotions do give a definite sense of validation and achievement. It's fine and normal to be strive for and look forward to future promotions. However, making a promotion one's **only** motivation to keep participating is a bad idea and will only lead to disappointment and frustration.
+    - Promotions are assigned based not just on level of contribution, but leadership strength and trustworthiness, and role occupancy.
+    - A member's rank is a signifier not only of their time and effort dedicated to the group, but also the responsibilities they are expected to carry. The higher the rank, in general the more they have on their plate to take care of.
+    - **Not all ESC members are going to rise to the top of the rank structure, and that is OKAY. That is how it designed. Personnel do not need to be high-ranked to be important and valuable to the group. Everyone who participates is appreciated and valued.**
   - It's fine to take breaks from ESC sometimes, both short and extended as needed. However, there's a difference between taking a break and going AWOL.
     - The difference is in keeping us apprised of the situation. Tell us you need a break, don't just disappear.
     - If someone is avoiding us because of a problem, they need to make an effort to speak up about it. We can't resolve problems we are not aware of.
