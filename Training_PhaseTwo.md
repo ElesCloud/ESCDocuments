@@ -35,16 +35,9 @@
    - HUD gestures package.
    - The RF30 Recruit SMG
 + Have them wear the trainee uniform. This outfit is fully rigged with no parts. It is recommended that they disable all but their head, neck, and hands for this outfit.
-+ The recruit must click on the left-side terminal that is labeled "Trainee Terminal." This will sync their SL account to both the forums and armory database.
-  - Explain that the database is where much of our gear distribution happens and registration is mandatory. More on how to earn points to buy stuff in a later phase.
-+ They will receive a message in local chat with their assigned forum password. Right away, the recruit should:
-  - Log in to the forums [here](https://epsilonsecurityconsulting.net/index.php) with their **legacy SL username (FirstName LastName)** and this assigned password;
-  - Change the password to something else;
-  - Bookmark the link to the forums for later.
-+ Limited access to the forums and NO access to database is granted at this point and will be expanded on at graduation, however this will allow the trainee to join raids and earn credits they can spend as soon as they reach Contracted.
-
-| ![PasswordOutput](https://github.com/ElesCloud/ESCDocuments/blob/main/passwordoutput.png) |
-|:---:|
++ The recruit must click on the left-side terminal that is labeled "Trainee Terminal." This will sync their SL account to the armory/database.
+  - Explain that the database is where much of our gear distribution happens and registration is mandatory. More on how to earn points to buy stuff will come in a later phase.
++ NO access to database is granted at this point, however this will allow the trainee to join raids and earn credits they can spend as soon as they reach Contracted.
 
 |![RecruitGear](https://github.com/ElesCloud/ESCDocuments/blob/main/RecruitGear.png) | ![Trainee Terminal](https://github.com/ElesCloud/ESCDocuments/raw/main/TraineeTerminal.png) |
 |:---:|:---:|
