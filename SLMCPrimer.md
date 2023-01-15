@@ -21,7 +21,7 @@ This document is a general-level guide on the basics of the Second Life Military
 
 ## SECTION TWO: What exactly is the SLMC?
 
-The Second Life Military Community is a cluster of self-identified combat roleplay groups on Second Life that mutually agree to participate in Linden Labs damage combat with each other. The SLMC uses scripted weapons typically designed to deal one-hit kills which return the target to a designated home point. The SLMC also designs and employs a variety of vehicles, gear, and technology in an effort to make combat more variable and interesting.
+The Second Life Military Community is a cluster of self-identified combat roleplay groups on Second Life that mutually agree to participate in Linden Labs damage combat with each other. The SLMC uses scripted weapons typically designed to deal one-hit kills which return the target to a designated home point. The SLMC also designs and employs a variety of vehicles, gear, and technology to make combat more variable and interesting.
 
 The SLMC has a long history (for a video game), spanning back to the early 2000s. Unfortunately, a portion of the individuals in our community are unabashedly toxic and entirely devoid of any concern for anyone but themselves and their own. It is not as bad as it used to be, but the necessity of this warning still remains: if you intend to participate, be aware that you will need a thick skin. People won't care if you're offended.
 
@@ -48,11 +48,15 @@ There are certain behaviors expected of everyone participating in the Second Lif
 
 ## SECTION FOUR: The Big Four
 
-THE “BIG FOUR”: As mentioned previously, the SLMC is a place where you need a thick skin to survive. We handle our own disputes internally, usually without perma-bans, and almost always without getting Linden Labs involved. However, there are four types of actions that will ensure you will be unilaterally removed from this community and not be able to return:
-- Doxxing: Releasing someone's real life information that they have not made publicly accessible via Second Life. It is morally reprehensible even by the standards of the SLMC. If there is proof you've done this, not only will you be banned and reviled by the entire community, this is one instance where we permit the filing of an abuse report or law enforcement above and beyond.
-- Graphics Crashing: Computer hardware is expensive. Graphics crashing can damage a person’s computer and prevent them from being able to participate in this community. This is not tolerated by any group. You will be banned and other sim owners will be informed who will also likely ban you to protect themselves.
-- Asset theft: Our content creators work hard to produce the many wonderful things we enjoy. Copybotting or open sourcing assets that do not belong to you is theft, period. This is not tolerated and you will be removed from the community. 
-- Abusing the AR system: As mentioned above, the SLMC handles most of its problems internally. Invoking the abuse report system for a problem that can otherwise be addressed within the community, abusing it to file false reports, and convincing others to mass-report in order to increase the chances of getting Linden Labs’ attention is grounds for community expulsion.
+THE “BIG FOUR”: As mentioned above, some members of the community take their license to behave for the most part as they see fit without regard to the opinions or feelings of others, and disputes over that are handled within the community. However, there are four categories actions that go beyond what the SLMC will tolerate that we call the "Big Four."
+The "Big Four" are as follows:
+- Distribution of identifying real-life information about others (known as doxxing)
+- GPU crashing or any other griefing intended to permanently damage a user's real-life PC hardware
+- Creative content theft and distribution (ripping, copybotting, etc); in other words, any unauthorized use of another's work
+- Abuse of the AR (abuse report) system; that is, a bad-faith attempt to provoke a direct response from Linden Labs in order to get someone's account suspended or banned.
+  - It is not considered abuse when individuals have a good-faith reason to involve LL for actions that go beyond the scope of what can be dealt with in the confines of SLMC administration (for example, harassment/stalking, threats of real-life violence, or the other Big Four mentioned above).
+
+The overarching point is that if it moves beyond Second Life and crosses into real life impacts, then it moves beyond the scope of the community. CHances are that if you do any of these things, you're not likely to be welcomed anymore anywhere in the SLMC.
 
 
 ## SECTION FIVE: Glossary
