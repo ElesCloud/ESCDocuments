@@ -50,7 +50,7 @@ Epsilon Security Consulting was created in 2019 by Nivanglus Aya, Aurora Guffey,
 ## Chapter Two: Code
 
 ### Cooperation
-The Second Life Military Community (SLMC) is made up of many different personalities, and most of them are decent. However, a handful of individuals will take advantage of the anonymity and freedom afforded to them to transgress on and disrespect others as they please. Despite the behavior on display from those individuals, there are some lines that even the SLMC won't cross. Below is a list of acts that are generally agreed upon to be the "Big Four Offenses". If you commit a "Big Four Offense", you will likely no longer be welcome anywhere in the community.
+The Second Life Military Community (SLMC) is made up of many different personalities, and most of them are decent. As stated above, ESC will make all reasonable attempts to ensure that the atmosphere is as welcoming and enjoyable as possible. However, a handful of individuals take advantage of the anonymity and freedom afforded to them to transgress on and disrespect others as they please. Despite the behavior on display from those individuals, there are some lines that even the SLMC won't cross. Below is a list of acts that are generally agreed upon to be the "Big Four Offenses". If you commit a "Big Four Offense", you will likely no longer be welcome anywhere in the community.
 
 The "Big Four" are as follows:
 - Distribution of identifying non-public real-life information about others without their consent or knowledge (known as doxxing)
