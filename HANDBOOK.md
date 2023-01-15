@@ -40,31 +40,31 @@
 
 ## Chapter One: Background
 
-> *“Epsilon Security Consulting is a subsidiary group of Epsilon Pharmaceutical Corporation. In a time when automation has all but replaced human labor, individuals are born into debt which they repay by indentured employment to megacorporations that act as pseudo-governments. This is the case specifically for Epsilon personnel. They are conscripted and sponsored by Epsilon Pharmaceutical Corporation to provide asset security in exchange for the eventual repayment of their life debt.”*
+> *“Epsilon Security Consulting is a subsidiary of Epsilon Pharmaceutical Corporation. Set in a dystopian future where automation has fully replaced human labor and plutocracy reigns with an iron fist, most individuals are born into a life debt owed to megacorporations that act as pseudo-governments. This life-debt is then repaid through indentured employment. This is the case specifically for Epsilon personnel. They are conscripted and sponsored by Epsilon Pharmaceutical Corporation to provide asset security in exchange for a chance at freedom.”*
 
-Epsilon Security Consulting was created in 2019 by Nivanglus Aya, Aurora Guffey, and Sin Straaf, the original founders and Directors of the organization. The main goal of Epsilon Security Consulting is to sustain and, if possible, renew the stagnant and shrinking Second Life Military Community however possible. We are committed to creating a relaxed and fun but responsible atmosphere. We strive to ensure that everyone is welcome to join and find their place, provided that they can prove themselves.
+Epsilon Security Consulting was created in 2019 by Nivanglus Aya, Aurora Guffey, and Sin Straaf, the original founders and Directors of the organization. The mission of Epsilon Security Consulting is to sustain and, if possible, renew what remains of the Second Life Military Community however possible. Our theme draws inspiration from various sci-fi and dystopian/cyberpunk pop culture, video game, and media elements to create its own flavor unique to others in the community. We are committed to creating an enjoyable atmosphere, and we strive to ensure that everyone is welcome to join and find their place - provided that they can prove themselves.
 
 
 
 ## Chapter Two: Code
 
 ### Cooperation
-The Second Life Military Community (SLMC) is made up of many different personalities. Some are great, plenty are terrible, and most are somewhere in between. However, even for worst among us who will happily disregard the feelings of others, there are some lines that must never be crossed. Below is a list of acts that are generally agreed upon to be the "Big Four Offenses". 
+The Second Life Military Community (SLMC) is made up of many different personalities, and most of them are decent. However, a handful of individuals will take advantage of the anonymity and freedom afforded to them to transgress on and disrespect others as they please. Despite the behavior on display from those individuals, there are some lines that even the SLMC won't cross. Below is a list of acts that are generally agreed upon to be the "Big Four Offenses". If you commit a "Big Four Offense", you will likely no longer be welcome anywhere in the community.
 
-If you commit a "Big Four Offense", you will likely no longer be welcome anywhere. They are as follows:
-- Distribution of identifying real-life information about others (doxxing)
-- GPU crashing or any other griefing intended to damage a user's real-life PC hardware
-- Creative content theft and distribution (ripping, copybotting, etc)
-- Abuse of the Linden Labs AR (abuse report) system; that is, a bad-faith attempt to provoke a direct response from LL with the malicious intent to have someone's account suspended or banned.
-  - This, of course does, not apply for cases where individuals have a good-faith reason to involve LL (for example, threats of real-life violence, etc).
+The "Big Four" are as follows:
+- Distribution of identifying non-public real-life information about others without their consent or knowledge (known as doxxing)
+- GPU crashing or any other griefing that is capable of or designed for permanently damaging a user's real-life PC hardware
+- Creative content theft or distribution (ripping, copybotting, etc); in other words, any unauthorized use of another user's creative work
+- Abuse of the AR (abuse report) system; that is, a bad-faith attempt to provoke a direct response from Linden Labs in order to get someone's account suspended or banned.
+  - It is not considered abuse when individuals have a reason to involve LL for actions that go beyond the scope of what is handled within the community - for example, harassment/stalking, threats of real-life violence, or the other Big Four mentioned above.
 
-We are made up of individuals from many walks of life. We all have our own life experiences, morals, and goals. It is up to **everyone**, from the top of this organization to the bottom, to ensure that this diversity is leveraged as strength to the group instead of breeding conflict.
+ESC (and SL as a whole) is a population made up individuals from many walks of life. Each of us has a different set of life experiences, morals, and goals, none more or less important than any other. It is up to **everyone** in ESC at every rank and station to ensure that this diversity is leveraged as strength to the collective, instead of a source of conflict.
 
-The Second Life Military Community has been a complex patchwork of many different groups throughout its nearly two decade lifespan. If you have spent any significant amount of time here, you are likely to encounter people from your past. These people may have been on the "bad guys" side before. **Leave grudges at the door.**
+The Second Life Military Community has so far been a complex patchwork of many different groups throughout its nearly two decade lifespan. If you have spent any significant amount of time in the SLMC already, you will probably encounter people from your past. These people may have been on the "bad guys" side before, but we are all ESC now. **Please, leave your grudges at the door.**
 
 
 ### Input and Output
-Epsilon Security Consulting was founded on the concept of thinking outside the box and always striving to improve. We ultimately value and want to cultivate openness to new concepts, personal growth, adaptability, and a positive attitude.
+Epsilon Security Consulting was founded on the concept of thinking outside the box and always striving to improve. We value and seek to cultivate openness to new concepts, personal growth, adaptability, and a positive attitude.
 
 You will get out of the group what you put in. Inaction and apathy will net you nothing. Genuine interest and effort will be recognized and rewarded.
 
@@ -83,60 +83,59 @@ Everyone within the group is assumed to be an adult and is expected to act like 
 ### General Conduct
 1. All ESC personnel should strive to exhibit conduct that reflects Chapter Two: Code principles at all times.
 2. Interpersonal conflicts between members should be resolved by a cool-headed conversation first, if at all possible. If a dispute arises that cannot be settled this way, or if there is a situation that requires immediate intervention, the situation should be escalated to officer staff.
-2. Disciplinary actions are administered by officer staff or members of the Omega Bureau. Officers and Omega Bureau Arbiters are afforded the full trust of Command and the discretion to administer as they see fit. This includes up to removal or banning if necessary.
+2. Disciplinary actions are administered by officer staff or members of the Omega Bureau. Officers and Omega Bureau Arbiters are afforded the full trust of Command and the discretion to administer as they see fit.
    - All decisions made by officers and the Omega Bureau are considered final (barring overrides by a Director).
-     - Attempts to argue with, ignore, or otherwise circumvent these decisions will be met with additional disciplinary measures. 
-3. ESC personnel will follow the established chain of command. 
-   - Nobody should go straight to Command staff without a good reason. Command staff oversee day-to-day operations and are typically very busy. 
-     - This does not mean Command should never be approached, but their limited free time should be respected.
-   - The vast majority of issues that crop up can and should be addressed by either a direct supervisor, NCO, or officer. These resources should be used first.
+     - Attempts to argue with, ignore, or circumvent these decisions will be met with additional, harsher disciplinary measures. 
+3. ESC personnel will follow chain of command. 
+   - The vast majority of issues that crop up can and should be addressed by either a direct supervisor, NCO, or officer. These resources should be consulted **first**.
+   - Command staff oversee day-to-day operations and are typically busy. Nobody should go straight to Command without a good reason. 
+   - This does not mean that Command can't be approached *ever*, but their limited free time should be respected and they should be seen as a last resort.
 
 
 ### Visitors
-1. We want new people to come see our sim and join us. Unarmed visitors will be treated like guests unless they cause problems.
-   - If a visitor acts up, whoever is in charge on sim at the time should send the visitor a warning in IMs to stop what they are doing.
-   - If the individual is griefing, an estate manager should be contacted to intervene.
-   - All estate management actions are logged. Recordings and screen captures should be forwarded to officer staff.
+1. We want new people to come see our sim and join us. Unarmed visitors will be treated like guests if they behave.
+   - If a visitor causes a problem, they should be contacted by IM and warned to stop before any other action is taken.
+     - Exception: if the individual is clearyly griefing, an estate manager (NCO+) should be contacted to intervene immediately if not already present.
+   - All estate management actions from official warnings up are to be logged. Recordings and screen captures of incidents should be forwarded to officer staff.
 
-2. Armed (weapons drawn) individuals that exit the attacker spawn are generally considered hostile.
-   - A visitor who is not known to regularly attack ESC should be given an opportunity to disarm. An IM request to stand down is sufficient.
-   - If the visitor is given an opportunity to disarm and fails to comply in a reasonable amount of time, they are a hostile target.
+2. Armed (that is, weapons attached AND drawn) individuals that exit the attacker spawn are generally considered hostile.
+   - ExceptioN: a visitor who is not known to regularly attack ESC should be given an opportunity to disarm. An IM request to stand down is sufficient.
+   - If a visitor is given an opportunity to disarm and then moves out of the spawn area, but fails to comply with the warning, they are considered a target.
 
-3. Visitors invited by ESC personnel are allowed in restricted areas with the stipulation that the invitee is solely responsible for their guest's behavior.
-   - Individuals who abuse this trust may have their privilege to bring friends revoked or face additional discipline as needed.
+3. Visitors invited by ESC personnel may be allowed in restricted areas with supervision.
+   - The invitee of the guest is solely responsible for their guest's behavior.
+   - Individuals who abuse this privilege or invite poorly-behaved guests may have the privilege revoked or face additional discipline.
 
 
 ### Combat Protocols
 1. During combat, the designated officer in charge (OIC) is the individual responsible for all combat-related decisions.
-   - OIC directives must be followed by everyone regardless of rank for the duration of that particular combat event. Despite the implication of the name, OICs are not always and do not necessarily need to be officers.
-   - Any messages from opponents should be passed to the OIC to be addressed and not responded to individually. This is to ensure communication stays clear.
+   - OIC directives must be followed by everyone regardless of rank for the duration of an event. Despite the implication of the name, OICs do not necessarily need to be officers.
+   - Any messages from opponents should be passed to the OIC to be addressed and not responded to individually.
    - The OIC should be given a reasonable amount of time to address problems. If there are multiple issues, they should be IMed to the OIC in a list. Recordings and screenshots should be forwarded to the OIC if they are obtained. For some issues, proof is the only way to get a resolution.
-   - During active combat, the HUD will display a Message of the Day that lists authorized gear. This should be consulted **before** asking anyone.
-     - If you can't determine if something has been authorized, do not assume it has been. Stick to basic gear if you do not have confirmation.
+   - During active combat, the HUD will display a Message of the Day that lists specific gear authorizations for that event. All participants are expected to pay attention to the MOTD.
+     - If you can't determine if something has been authorized, do not assume it has been. Stick to general authorization-level items until you have confirmation.
 
-2. ESC primarily makes use of Discord for external text and voice communication, including announcements.
-   - Personnel are generally expected to be able to at least log in to hear what is going on. Being able to talk is NOT required; many folks make use of text-to-speech.
+2. ESC primarily makes use of Discord for external text and voice communication, including announcements and recordkeeping.
+   - Personnel are generally expected to be able to at least log in to hear what is going on. Being able to talk is NOT required. Many folks make use of the included text-to-speech system.
    - ESC personnel should have their nicknames set to match their SL username or display name, or at least have it in parentheses.
-   - Observe COMSEC. Things discussed in internal channels should stay in internal channels. 
-     - No, this is not the super-spy era of the 2010s ("Fairy-god FRUMENTARII!"), but that doesn't mean you should share stuff with people outside of the group.
+   - Observe COMSEC. Things discussed in internal channels should stay in internal channels.
 
 3. During any combat operations, communcation should be limited to combat-pertinent conversation. Light banter is fine, but it should not overwhelm combat pertinent communication, be disruptive, or be overly toxic or negative.
    - Individuals who become upset or find themselves complaining a lot are strongly recommended to take a break.
-   - Participants who fail to comply with a request to pipe down may be removed from combat, have pay docked, or be muted temporarily. 
+   - Participants who fail to comply with a request to pipe down may be removed from combat and further disciplined.
    - ESC personnel are not permitted to mute other ESC personnel except in rare approved cases. If there is an interpersonal problem, it should be resolved in other ways.
 
 4. Gear restrictions apply.
    - ESC personnel may only use gear made available from the official armory, no exceptions.
-     - Non-standard and unreleased versions of ESC gear are reserved for R&D/QA and are only permitted for the purpose of testing official projects.
+     - Non-standard and unreleased versions of ESC gear are reserved for R&D/QA and are only permitted for the purpose of official testing and development.
      - Personal project items and independently commissioned works are prohibited.
-     - Commercially sold variants of weapons made by some ESC creators exist, however, these variants are prohibited for use by personnel.
-   - A [gear authorization list](https://epsilonsecurityconsulting.net/viewtopic.php?f=10&t=36) for individual ESC items is maintained by the Combat Operations department.
-     - Internal only - you must be logged in to view this page.
-   -  Civilians have a [separate list](https://epsilonsecurityconsulting.net/viewtopic.php?f=2&t=641) (public) of approved gear. 
+     - Some items in the ESC armory have commercially-sold variants. These variants are not permitted for use.
+   - A gear authorization list is is maintained by the Combat Operations department alongside Command and can be found [here]([https://epsilonsecurityconsulting.net/viewtopic.php?f=10&t=36](https://docs.google.com/spreadsheets/d/1vA7HMS7XBYfRmdiyk6tgSjBokKoKGt3hl99ncaxuKIo/edit#gid=0)).
+   -  ESC Subcontractors have their own list of approved gear to use, found [here](https://github.com/ElesCloud/ESCDocuments/blob/main/Subcontractors.md).
 
 
 #### Defensive Protocols
-1. Some attackers who come to fight don't organize under a group and instead fight independently. These "lone wolves" typically come with lower-quality firepower and less tactical advantage than participants in an organized group do. To keep things fair, lone wolves should be handled on a strictly one-to-one ratio. Limited exceptions apply as noted below:
+1. Some attackers who come to fight don't organize under a group and instead fight independently. These "lone wolves" typically come with lower-quality firepower and less tactical advantage than participants in an organized group do. To keep things fair, lone wolves should be handled on a one-to-one ratio. Limited exceptions apply as noted below:
    - The attacker(s) use equipment more powerful than what the defenders have available and the only way to compensate the imbalance is to add more defenders.
    - Additional ESC personnel are invited by the lone wolf.
 2. All ESC personnel are expected to be aware of our own sim rules. The most recent edition can be found [here](https://github.com/Nivanglus/Epsilon-Rules/blob/master/Rules.md).
@@ -151,14 +150,13 @@ Everyone within the group is assumed to be an adult and is expected to act like 
    - The OIC is responsible for ensuring that all members of the raid party arrive and are able to set their home points in the appropriate place.
    - The raid party should attempt to deploy and exit roughly together to avoid unnecessary strain on sim resources.
 
-2. ESC personnel are permitted to engage in combat independent from ESC. Stipulations apply.
+2. ESC personnel are permitted to engage in combat on their own outside of official ESC events. Stipulations apply.
    - ESC personnel may not wear the ESC uniform or tag or otherwise imply that they are acting on behalf of ESC while fighting independently.
-   - ESC gear is acceptable to use, up to and including vehicles, but excluding unreleased and unfinished items.
+   - ESC gear *is* acceptable to use, up to and including vehicles, but excluding unreleased and unfinished items.
      - OIC requests to test/examine gear should be referred to that group's diplomacy rep or an officer with R&D competency.
-   - ESC personnel will not be protected from the administrative actions of sim owners and other groups made in response to unofficial, off-group activities. 
-     - ESC will not act to appeal any admin actions imposed by other SLMC groups in response to ESC personnel acting as lone wolves.
-     - ESC officers and Omega bureau personnel reserve the right to impose additional internal discipline as necessary depending on the context and severity of misconduct as observed.
-     - **Bottom line: you are on your own. Exercise discretion and common sense.**
+   - ESC will not act to appeal any admin actions imposed by other SLMC groups or region owners for misconduct during unsanctioned events.
+     - In addition, personnel may be subject to internal discipline as well, depending on the context and severity of misconduct that is observed.
+   - **Bottom line: you are on your own. Exercise discretion and common sense.**
 
 ### Dress Code
 
@@ -170,8 +168,8 @@ Everyone within the group is assumed to be an adult and is expected to act like 
      - Are not overly demanding of resources (excessive poly count or script load).
 2. Specific rules for the Kusanagi Hard Suit: 
    - At no point should the rank badge be obscured. If its default area on the upper arm piece is covered, it should be moved to somewhere else that is visible.
-   - "Key" pieces of the KHS - the chest piece, upper arms, and thigh pieces - may not be replaced, removed, shrunk down, or obscured to the point that they no longer can be easily seen overall.
-   - The only exception is official armory-release upper arm modifications/replacements: the Ashigaru, Diamas, and Guardian shoulderpads. The above rules still apply.
+   - "Key" pieces of the KHS set - the chest piece, upper arms, and thigh pieces - may not be replaced, removed, shrunk down, or obscured to the point that they no longer can be easily seen overall.
+     - An exception is made for the official armory-release replacements for key parts: the Ashigaru, Diamas, and Guardian shoulderpads and the Senior Contracted upper leg plates. The above rules still apply otherwise.
 3. Modifications of a revealing, explicit, or fetishistic/kinky nature are prohibited.
    - This part of the dress code was intentionally left up to interpretation, because what is considered "revealing" or "explicit" is subjective to the individual. 
    - A case-by-case approach is preferred. However, if this causes problems, stricter and more specific guidelines may be added in the future. Try to use common sense and have consideration for your fellow ESC personnel.
