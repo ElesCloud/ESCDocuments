@@ -48,14 +48,14 @@ There are certain behaviors expected of everyone participating in the Second Lif
 
 ## SECTION FOUR: The Big Four
 
-THE “BIG FOUR”: As mentioned above, some members of the community take their license to behave for the most part as they see fit without regard to the opinions or feelings of others. When disputes about those sorts of things come up, it's usually handled within the community itself. However, there are four categories of actions that go beyond what even the SLMC tolerates. These "Big Four" are as follows:
+THE “BIG FOUR”: As mentioned above, some members of the community take their license to behave for the most part as they see fit without regard to the opinions or feelings of others, and that's par for the course. However, there are four categories of actions that go beyond what even the SLMC tolerates. These "Big Four" are as follows:
 - Distribution of identifying non-public real-life information about others without their consent or knowledge (known as doxxing)
 - GPU crashing or any other griefing that is capable of or designed for permanently damaging a user's real-life PC hardware
 - Creative content theft or distribution (ripping, copybotting, etc); in other words, any unauthorized use of another user's creative work
 - Abuse of the AR (abuse report) system; that is, a bad-faith attempt to provoke a direct response from Linden Labs in order to get someone's account suspended or banned.
   - It is not considered abuse when individuals have a reason to involve LL for actions that go beyond the scope of what is handled within the community - for example, harassment/stalking, threats of real-life violence, or the other Big Four mentioned above.
 
-The overarching point is that while we may be rough around the edges, we draw the line real-life impacts. Chances are that if you do any of these things, you're not likely to be welcomed anymore anywhere in the SLMC.
+The overarching point is that while we may be rough around the edges, we draw the line at real-life impacts. Chances are that if you do any of these things, you're not likely to be welcomed anymore anywhere in the SLMC.
 
 
 ## SECTION FIVE: Glossary
