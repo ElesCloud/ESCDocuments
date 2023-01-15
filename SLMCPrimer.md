@@ -55,7 +55,7 @@ THE “BIG FOUR”: As mentioned above, some members of the community take their
 - Abuse of the AR (abuse report) system; that is, a bad-faith attempt to provoke a direct response from Linden Labs in order to get someone's account suspended or banned.
   - It is not considered abuse when individuals have a reason to involve LL for actions that go beyond the scope of what is handled within the community - for example, harassment/stalking, threats of real-life violence, or the other Big Four mentioned above.
 
-The overarching point is that if it moves beyond Second Life and crosses into real life impacts, then it moves beyond the scope of the community. CHances are that if you do any of these things, you're not likely to be welcomed anymore anywhere in the SLMC.
+The overarching point is that while we may be rough around the edges, we draw the line real-life impacts. Chances are that if you do any of these things, you're not likely to be welcomed anymore anywhere in the SLMC.
 
 
 ## SECTION FIVE: Glossary
