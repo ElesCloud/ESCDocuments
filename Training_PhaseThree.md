@@ -39,7 +39,7 @@ In this phase, you will be covering ESC's culture, policies, and structure to th
 - If the recruit isn't meshing with these ideals for any reason, now is the best time to amicably part ways and minimize loss of time. 
   - In this phase of training, you aren't just educating them on our expectations, you are also monitoring for early signs of trouble. It is your job to pay attention to how receptive the recruit is to what is presented in the handbook, especially to the Code.
   - If the recruit doesn't take it seriously, you are not just allowed, but **expected**, to discuss with them and help them decide if ESC is the right group for them. There should be no hard feelings. Not everyone has to be a good fit for ESC.
-- If this does happen, you should still post an update in the trainee-status channel on Discord. Depending on their degree of connection to the group, they may leave entirely or simply be bumped over as a Civilian. They can stick around and be friends, or sever ties completely. It's up to them.
+- If this does happen, you should still post an update in the trainee-status channel on Discord. Depending on their degree of connection to the group, they may leave entirely or simply be bumped over as a Subcontractor. They can stick around and be friends, or sever ties completely. It's up to them.
 
 ## Section Two: Handbook - Policy
 
@@ -62,7 +62,7 @@ Shift to Chapter Three: Policy and go over each section. While it is not necessa
     - If someone is avoiding us because of a problem, they need to make an effort to speak up about it. We can't resolve problems we are not aware of.
     - If that doesn't help and they are still not happy, they are free to leave. Our members should be here because they want to be, not because they feel like they have to be.
 3. Make note of the combat classes and be sure they check the [class document](https://github.com/ElesCloud/ESCDocuments/blob/main/CLASSES.md) for details on how class ranks work and what specialized gear is available to each class.
-4. Make note of the different ancillary departments and what they do. Some can be joined on request (training, combat ops), while others you must demonstrate applicable skillsets and will be selected to join (RND, QA, Omega).
+4. Make note of the different ancillary departments and what they do. Some can be applied for (training, combat ops/pathfinder), while others you must demonstrate applicable skillsets and will be selected to join (RND, QA, Omega).
 
 ## Section Four: Recap and Test
 To ensure that the recruit has at least a basic understanding of our expectations, a quiz has been developed for use [here](https://forms.gle/wQFGguMS71cZVAGk8). 
