@@ -201,7 +201,10 @@ Everyone within the group is assumed to be an adult and is expected to act like 
 ## Chapter Four: Structure
 
 ### SUBCONTRACTOR
-- *These individuals are not members of Epsilon Security Consulting, but they are considered trustworthy enough to be allowed to take up arms alongside ESC members and are considered friends. This is also sometimes called a militia. More info on Subcontractors is [here.]( https://github.com/ElesCloud/ESCDocuments/blob/main/Subcontractors.md)
+
+*These individuals are not members of Epsilon Security Consulting, but they are considered trustworthy enough to be allowed to take up arms alongside ESC members and are considered friends. This is also sometimes called a militia.*
+
+- More info on Subcontractors is [here.]( https://github.com/ElesCloud/ESCDocuments/blob/main/Subcontractors.md)
 
 ### FOUNDATION
 - F-1 // CONSCRIPT
