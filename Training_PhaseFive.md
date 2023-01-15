@@ -35,7 +35,7 @@
 - Change the recruit's Discord role.
   - Epsilon Bot’s role command is !enlisted @discordname#tag.
   - If you can't change roles, ping for help.
-- To allow full access to the armory store and forum internal posts, the graduate's permissions and rank will need to be adjusted. 
+- To allow full access to the armory store, the graduate's permissions and rank will need to be adjusted. 
   - An NCO+ with admin access to the armory can manually update a Conscript to Contractor on the database so they can use the Contracted Terminal to get a link to the store. This won't work unless they are in the main group and their rank has been changed.
 - Contracted-level members can always access the armory store again in the future through the right-hand "Contracted Terminal" in-world.
 
