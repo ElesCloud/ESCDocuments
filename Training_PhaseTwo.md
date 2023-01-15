@@ -46,7 +46,7 @@
 | ![PasswordOutput](https://github.com/ElesCloud/ESCDocuments/blob/main/passwordoutput.png) |
 |:---:|
 
-|![RecruitShelf](https://github.com/ElesCloud/ESCDocuments/blob/main/RecruitShelf.png) | ![Trainee Terminal](https://github.com/ElesCloud/ESCDocuments/raw/main/TraineeTerminal.png) |
+|![RecruitGear](https://github.com/ElesCloud/ESCDocuments/blob/main/RecruitGear.png) | ![Trainee Terminal](https://github.com/ElesCloud/ESCDocuments/raw/main/TraineeTerminal.png) |
 |:---:|:---:|
    
 ## Section Two: HUD Overview
