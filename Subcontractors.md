@@ -39,3 +39,5 @@ Subcontractors have limited privileges and abilities in ESC. They are allowed to
 - K18 - KM-90 & S-3K Rifle by Katt (Ximonah Resident)
 - Union Weaponry by Bailey
 - Any of the weapons from the ESC spawn hub made available to the public.
+
+[RETURN TO TOP](#table-of-contents)
