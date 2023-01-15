@@ -39,7 +39,7 @@
   - Explain that the database is where much of our gear distribution happens and registration is mandatory. More on how to earn points to buy stuff will come in a later phase.
 + NO access to database is granted at this point, however this will allow the trainee to join raids and earn credits they can spend as soon as they reach Contracted.
 
-|![RecruitGear](https://github.com/ElesCloud/ESCDocuments/blob/main/RecruitGear.png) | ![Trainee Terminal](https://github.com/ElesCloud/ESCDocuments/raw/main/TraineeTerminal.png) |
+|![RecruitGear](https://github.com/ElesCloud/ESCDocuments/blob/main/RecruitGear.png) | ![Recruit Terminal](https://github.com/ElesCloud/ESCDocuments/raw/main/RecruitTerminal.png) |
 |:---:|:---:|
    
 ## Section Two: HUD Overview
