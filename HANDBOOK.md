@@ -101,7 +101,7 @@ Everyone within the group is assumed to be an adult and is expected to act like 
 
 2. Armed (that is, weapons attached AND drawn) individuals that exit the attacker spawn are generally considered hostile.
    - Exception: a visitor who is not known to regularly attack ESC should be given an opportunity to disarm. An IM request to stand down is sufficient.
-   - If a visitor is given an opportunity to disarm and then moves out of the spawn area, but fails to comply with the warning, they are considered a target.
+   - If a visitor is given an opportunity to disarm but moves onto the field without complying, they are considered a target.
 
 3. Visitors invited by ESC personnel may be allowed in restricted areas with supervision.
    - The invitee of the guest is solely responsible for their guest's behavior.
