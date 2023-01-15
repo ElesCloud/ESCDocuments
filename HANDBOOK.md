@@ -199,15 +199,15 @@ Everyone within the group is assumed to be an adult and is expected to act like 
 
 ## Chapter Four: Structure
 
-| ![Rankplates2](https://github.com/ElesCloud/ESCDocuments/blob/main/rankplates2.png) |
-|:---:|
-
 ### FOUNDATION
 - F-1 // CONSCRIPT
   - *All trainees introduced to the group are conscripts for the duration of their training.*
 
 ### CORE
 - CONTRACTED
+
+*Contracted are the enlisted members of the group, the main rank and file.*
+
   - C-1 // CONTRACTOR
   - C-2 // AGENT *(Permitted to choose a combat class starting at this rank.)*
   - C-3 // OPERATOR *(Eligible to take on roles in ancillary departments.)*
@@ -217,10 +217,17 @@ Everyone within the group is assumed to be an adult and is expected to act like 
   - C-7 // WATCHER
   - C-8 // SENTINEL
     - SENIOR CONTRACTED
+      *Senior Contracted are additional ranks branching off of C-8 given as a reward to dedicated and talented Contracted.*
       - SC-1
       - SC-2
       - SC-3
+      - SC-4
+      - SC-5
+
 - NON-COMMISSIONED OFFICERS
+
+*Non-commissioned officers are members of ESC who demonstrate a consistent desire to contribute and some qualities of leadership. They are afforded a limited amount of trust and tools to administrate. They generally hold some sort of leadership role, such as a division CO/XO, or have consistently been involved in Anccillary roles.*
+
   - NCO-1 // WARDEN
   - NCO-2 // SUPERVISOR
   - NCO-3 // SENIOR SUPERVISOR
@@ -229,6 +236,9 @@ Everyone within the group is assumed to be an adult and is expected to act like 
   - W-2 // ENFORCER
 
 ### ADMINISTRATION
+
+*Administration is composed of Officer and Command staff. These individuals are have proven leadership capability and have full trust and discretion to enforce policy. They hold significant responsibilities and run day-to-day operations for major areas of the group,*
+
 - OFFICERS
   - O-1 // CAPTAIN
   - O-2 // MAJOR
@@ -237,6 +247,9 @@ Everyone within the group is assumed to be an adult and is expected to act like 
   - B-1 // OVERSEER
   - B-2 // ASSISTANT DIRECTOR
   - B-3 // DIRECTOR
+
+| ![Rankplates2](https://github.com/ElesCloud/ESCDocuments/blob/main/rankplates2.png) |
+|:---:|
 
 ### ANCILLARY DEPARTMENTS
 *These are additional roles that ESC personnel may participate in that involve work above and beyond combat.*
