@@ -199,7 +199,7 @@ Everyone within the group is assumed to be an adult and is expected to act like 
 
 ## Chapter Four: Structure
 
-| ![Rankplates2](https://github.com/ElesCloud/ESCDocuments/blob/main/passwordoutput.png) |
+| ![Rankplates2](https://github.com/ElesCloud/ESCDocuments/blob/main/rankplates2.png) |
 |:---:|
 
 ### FOUNDATION
