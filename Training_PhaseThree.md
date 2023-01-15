@@ -57,6 +57,7 @@ Shift to Chapter Three: Policy and go over each section. While it is not necessa
     - Promotions are assigned based not just on level of contribution, but leadership strength and trustworthiness.
     - A member's rank is a signifier not only of their time and effort dedicated to the group, but also the responsibilities they are expected to carry. The higher the rank, in general the more on their shoulders.
     - **Everyone in this group should putting in time and effort because they enjoy doing it and want to, not because they expect a promotion.**
+    - **Not all ESC members are going to climb to the top of the rank structure, and that is OK!**
   - It's fine to take breaks from ESC sometimes, both short and extended as needed. However, there's a difference between taking a break and going AWOL.
     - The difference is in keeping us apprised of the situation. Tell us you need a break, don't just disappear.
     - If someone is avoiding us because of a problem, they need to make an effort to speak up about it. We can't resolve problems we are not aware of.
