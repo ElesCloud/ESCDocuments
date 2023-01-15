@@ -54,8 +54,8 @@ Shift to Chapter Three: Policy and go over each section. While it is not necessa
 2. Illustrate in more detail our "input/output" concept as it relates to rank, structure, and job choices.
   - Everyone's contribution, from simply attending regularly to beyond, is valued and appreciated. 
   - Promotions do give a definite sense of validation and achievement. It's fine and normal to be strive for and look forward to future promotions. However, making a promotion one's **only** motivation to keep participating is a bad idea and will only lead to sadness and frustration.
-    - Promotions are assigned based not just on level of contribution, but the caliber of one's leadership qualities. 
-    - A member's rank is a signifier not only of their time and effort dedicated to the group, but also trust.
+    - Promotions are assigned based not just on level of contribution, but leadership strength and trustworthiness.
+    - A member's rank is a signifier not only of their time and effort dedicated to the group, but also the responsibilities they are expected to carry.
     - **Everyone in this group should putting in time and effort because they enjoy doing it and want to, not because they expect a promotion.**
   - It's fine to take breaks from ESC sometimes, both short and extended as needed. However, there's a difference between taking a break and going AWOL.
     - The difference is in keeping us apprised of the situation. Tell us you need a break, don't just disappear.
