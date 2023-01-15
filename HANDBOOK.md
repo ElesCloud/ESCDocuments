@@ -29,6 +29,7 @@
       - [Tinting](#tinting)
       - [Time and Place](#time-and-place)
   - [Chapter Four: Structure](#chapter-four-structure)
+    - [Subcontractor](#subcontractor)
     - [Foundation](#foundation)
     - [Core](#core)
     - [Administration](#administration)
@@ -199,6 +200,9 @@ Everyone within the group is assumed to be an adult and is expected to act like 
 
 ## Chapter Four: Structure
 
+### SUBCONTRACTOR
+- *These individuals are not members of Epsilon Security Consulting, but they are considered trustworthy enough to be allowed to take up arms alongside ESC members and are considered friends. This is also sometimes called a militia. More info on Subcontractors is [here.]( https://github.com/ElesCloud/ESCDocuments/blob/main/Subcontractors.md)
+
 ### FOUNDATION
 - F-1 // CONSCRIPT
   - *All trainees introduced to the group are conscripts for the duration of their training.*
@@ -227,7 +231,7 @@ Everyone within the group is assumed to be an adult and is expected to act like 
 
 **NON-COMMISSIONED OFFICERS**
 
-*Non-commissioned officers are members of ESC who demonstrate a consistent desire to contribute and some qualities of leadership. They are afforded a limited amount of trust and tools to administrate. They generally hold some sort of leadership role, such as a division CO/XO, or have consistently been involved in Anccillary roles.*
+*Non-commissioned officers are members of ESC who demonstrate a consistent desire to contribute and budding leadership skills. They are afforded a moderate amount of trust and some tools to administrate. They often hold some sort of limited leadership role, such as a division CO/XO, or are consistently been involved in one or more Ancillary Department roles.*
 
 - NCOS
   - NCO-1 // WARDEN
@@ -287,7 +291,7 @@ In addition to the standard gear available to be unlocked by credits, ESC also o
 
 The currently available combat classes and their intended "flavor' are as follows:
 - Assault
-  - Aggressive and high-intensity up-in-your-face boots-on-the-ground fighting.
+  - Aggressive and high-intensity, up-in-your-face, boots-on-the-ground gunplay.
 - Technician
   - A wide array of items made to support other classes and control the battlefield.
 - Mechanized
@@ -303,7 +307,7 @@ More information about specific gear and how to progress in the class system can
 
 This handbook was designed and is currently maintained by Eles Cloud. If you have any questions, you can reach out there, or to any other officer. Suggestions are welcome.
 
-Remember that ignorance is not an excuse. 
+Remember that ignorance is not an excuse for failure to observe policy.
 
 Thank you for reading.
 
