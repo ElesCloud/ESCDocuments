@@ -8,7 +8,7 @@
 
 <p align="center"> DURA QUAMVIS, SECURITAS </p>
   
-<p align="center"> SUBCONTRACTORS </p>
+<p align="center"> SLMC PRIMER </p>
 
 <p align="center"> SECURITY CLEARANCE: PUBLIC DOMAIN </p>
 
