@@ -100,7 +100,7 @@ Everyone within the group is assumed to be an adult and is expected to act like 
    - All estate management actions from official warnings up are to be logged. Recordings and screen captures of incidents should be forwarded to officer staff.
 
 2. Armed (that is, weapons attached AND drawn) individuals that exit the attacker spawn are generally considered hostile.
-   - ExceptioN: a visitor who is not known to regularly attack ESC should be given an opportunity to disarm. An IM request to stand down is sufficient.
+   - Exception: a visitor who is not known to regularly attack ESC should be given an opportunity to disarm. An IM request to stand down is sufficient.
    - If a visitor is given an opportunity to disarm and then moves out of the spawn area, but fails to comply with the warning, they are considered a target.
 
 3. Visitors invited by ESC personnel may be allowed in restricted areas with supervision.
