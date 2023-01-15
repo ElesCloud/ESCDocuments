@@ -9,7 +9,7 @@ SECURITY LEVEL: PUBLIC DOMAIN
 
 ## Table of Contents
   - [Section One: Description and Purpose](#section-one-description-and-purpose)
-  - [Section Two: What exactly is the SLMC?](#section-two-what-exactly-is-the-slmc-?)
+  - [Section Two: What exactly is the SLMC?](#section-two-what-exactly-is-the-slmc)
   - [Section Three: General Etiquette Do's and Don'ts](#section-three-general-etiquette-do's-and-don'ts)
   - [Section Four: The Big Four](#section-four-the-big-four)
   - [Section Five: Glossary](#section-five-glossary)
