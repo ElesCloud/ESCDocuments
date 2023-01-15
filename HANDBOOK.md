@@ -206,8 +206,9 @@ Everyone within the group is assumed to be an adult and is expected to act like 
 ### CORE
 **CONTRACTED**
 
-*Contracted are the enlisted members of the group, the main rank and file.*
+*Contracted are the enlisted members of the group, the main rank and file. They hold no enforcement authority but have minimum responsibility other than to be consistently present. Senior Contracted are additional ranks branching off of C-8 given as a reward to dedicated and talented Contracted with no additional responsibility expectations attached.
 
+- CONTRACTED
   - C-1 // CONTRACTOR
   - C-2 // AGENT *(Permitted to choose a combat class starting at this rank.)*
   - C-3 // OPERATOR *(Eligible to take on roles in ancillary departments.)*
@@ -216,13 +217,13 @@ Everyone within the group is assumed to be an adult and is expected to act like 
   - C-6 // PREFECT
   - C-7 // WATCHER
   - C-8 // SENTINEL
-    - SENIOR CONTRACTED
-      *Senior Contracted are additional ranks branching off of C-8 given as a reward to dedicated and talented Contracted.*
-      - SC-1
-      - SC-2
-      - SC-3
-      - SC-4
-      - SC-5
+ 
+- SENIOR CONTRACTED
+  - SC-I
+  - SC-II
+  - SC-III
+  - SC-IV
+  - SC-V 
 
 **NON-COMMISSIONED OFFICERS**
 
