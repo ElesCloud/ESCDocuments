@@ -31,13 +31,12 @@
 ## Section One: Update and Payment
 - Invite the recruit to the main Epsilon Security Consulting group.
   - Not all trainers have this ability. If you don't, contact an available officer or other trainer with admin rights. **This step is critical. Please ping for a group admin or officer to send an invite if you do not have the rights to do so, before you proceed.**
-- Trainees should leave the Foundation group and the Land (if applicable) group at this point. They do not need either of these groups anymore. If they don't leave them now, they will be ejected later.
+- Trainees should leave the Foundation group at this point. They do not it anymore. If they don't leave it now, they will be ejected later in a periodic purge.
 - Change the recruit's Discord role.
   - Epsilon Bot’s role command is !enlisted @discordname#tag.
   - If you can't change roles, ping for help.
 - To allow full access to the armory store and forum internal posts, the graduate's permissions and rank will need to be adjusted. 
   - An NCO+ with admin access to the armory can manually update a Conscript to Contractor on the database so they can use the Contracted Terminal to get a link to the store. This won't work unless they are in the main group and their rank has been changed.
-  - A command-level staff member (typically Nikki) will assign forum permissions. This may not be done immediately but is usually handled within 24 hours.
 - Contracted-level members can always access the armory store again in the future through the right-hand "Contracted Terminal" in-world.
 
 ## Section Two: Contracted Gear
@@ -69,7 +68,7 @@ Seraph Light Armor - General combat use and meetings (required for meetings). Fu
 ### Trainee
 To start the new Contracted personnel on their fruitful career with Epsilon Security Consulting, all graduates are paid a 500-credit stipend. This is _in addition_ to any time they earned previously while participating in combat.
 - This step must be done by a database admin (NCO+) just like above steps. **If you do not have admin access, ask for help.**
-- All ESC gear is subject to the Authorization list found [here](https://epsilonsecurityconsulting.net/viewforum.php?f=10) (secure, must be logged in). Personnel are advised to spend their credits prudently, starting with basic items that are authorized for general use, and then working towards the flashy, powerful items that only get authorized for use on occasion.
+- All ESC gear is subject to the Authorization list found [here](https://docs.google.com/spreadsheets/d/1vA7HMS7XBYfRmdiyk6tgSjBokKoKGt3hl99ncaxuKIo/). Personnel are advised to spend their credits prudently, starting with at least a few basic items that are authorized for general use, and then saving for the flashy, powerful items that are OIC authorization only.
 
 ### Trainer
 Trainers will be compensated for their time and effort in training.
