@@ -48,8 +48,7 @@ There are certain behaviors expected of everyone participating in the Second Lif
 
 ## SECTION FOUR: The Big Four
 
-THE “BIG FOUR”: As mentioned above, some members of the community take their license to behave for the most part as they see fit without regard to the opinions or feelings of others, and disputes over that are handled within the community. However, there are four categories actions that go beyond what the SLMC will tolerate that we call the "Big Four."
-The "Big Four" are as follows:
+THE “BIG FOUR”: As mentioned above, some members of the community take their license to behave for the most part as they see fit without regard to the opinions or feelings of others. When disputes about those sorts of things come up, it's usually handled within the community itself. However, there are four categories of actions that go beyond what even the SLMC tolerates. These "Big Four" are as follows:
 - Distribution of identifying real-life information about others (known as doxxing)
 - GPU crashing or any other griefing intended to permanently damage a user's real-life PC hardware
 - Creative content theft and distribution (ripping, copybotting, etc); in other words, any unauthorized use of another's work
