@@ -54,7 +54,7 @@ When an ESC Contracted member reaches C-8, they may be eligible for an opportuni
 Additional Senior Contracted unlocks may be added in the future - check back and watch for announcements.
 
 ## Class Resets
-Do you feel that the primary class you chose was not the right pick? Every ESC member is afforded ***one*** opportunity to respec. If you choose to respec, your one free "respec token" will be expended and your primary class points will be made available again be reapplied to a different class. By doing this, you will lose access to any unlocks from the classes you left behind. 
+Do you feel that the primary class you chose was not the right pick? Every ESC member is afforded ***one*** opportunity to respec. If you choose to respec, your one free "respec token" will be expended and your primary class points will be made available again to be reapplied to a different class. By doing this, you will lose access to any unlocks from the classes you left behind. 
 
 Contact a member of Command to do this until the database function is added.
 
