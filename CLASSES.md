@@ -62,28 +62,10 @@ When an ESC Contracted member reaches C-8, they may be eligible for an opportuni
 | Rank | Rewards Obtained |
 | --- | --- |
 | Se. Contracted I | +1 Additional Class Point; Renelli M5 Combat Shotgun; Bronze Tier Badge |
-| Content Cell  | Content Cell  |
-
-- Sr. Contracted I: 
-  - +1 Additional Class Point
-  - Renelli Shotgun
-  - Bronze Tier Badge
-- Sr. Contracted II:
-  - +1 Additional Class Point
-  - Mk. II Upper Leg Pads for the Kusanagi Hard Suit armor set
-  - KHS Backpack
-- Sr. Contracted III:
-  - +1 Additional Class Point
-  - Shock Rifle
-  - Silver Tier Badge
-- Sr. Contracted IV:
-  - +1 Additional Class Point
-  - Fur Mantle Accessory
-  - Exclusive Camo Kit for the Kusanagi Hard Suit armor set
-- Sr. Contracted V: 
-  - +1 Additional Class Point
-  - Malorian Arms 3516 (Nivanglus's "special boy" pistol)
-  - Gold Tier Badge
+| Sr. Contracted II | +1 Additional Class Point; Mk. II Upper Leg Pads for the KHS armor set; KHS Backpack |
+| Sr. Contracted III | +1 Additional Class Point; Shock Rifle; Silver Tier Badge |
+| Sr. Contracted IV | +1 Additional Class Point; Fur Mantle Accessory; Exclusive Camo Kit for the Kusanagi Hard Suit armor set |
+| Sr. Contracted V | +1 Additional Class Point; Malorian Arms 3516 (Nivanglus's "special boy" pistol); Gold Tier Badge |
 
 Additional Senior Contracted unlocks may be added in the future - check back and watch for announcements.
 
