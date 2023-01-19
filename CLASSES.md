@@ -19,7 +19,7 @@
    - [Chapter One: Introduction](#chapter-one-introduction)
    - [Chapter Two: How to Rank Up](#chapter-two-how-to-rank-up)
    - [Chapter Three: Prestige Mode and Class Resets](#chapter-three-prestige-mode-and-class-resets)
-     - [Prestige Mode](#prestige-mode)
+     - [Senior Contracted](#senior-contracted)
      - [Class Resets](#class-resets)
    - [Chapter Four: Available Gear](#chapter-four-available-gear)
      - [1. ASSAULT](#1-assault)
@@ -29,14 +29,12 @@
    
    
 # Chapter One: Introduction
-The intended purpose of this document is to explain how the class system works to all members of ESC.
+The intended purpose of this document is to explain how the class and unlock system works to all members of ESC.
  
 Because this is a **live** document that may change frequently, updates are detailed in the commit log.
 
 # Chapter Two: How to Rank Up
-Upon obtaining a promotion to rank C-2, each ESC member will be given the chance to choose their primary class. Rank points are generated through raids and defenses. Skirmishes are not eligible to count towards progress. 
-
-Until automated systems are added, each ESC member is expected to keep a log of combat attendances that apply and submit them to the CO/XO of that combat class for review and awarding.
+Upon obtaining a promotion to rank C-2, each ESC member will be given the chance to choose a primary class. Rank points are generated through raids and defenses. Skirmishes are not eligible to count towards progress. As always, credits are awarded one per minute/60 per hour and are used to purchase items that are both locked with class points and available to the general pool.
 
 Below is a list of the each rank and the minimum requirements to reach each one:
 - R1: Promoted to rank C-2
@@ -45,7 +43,7 @@ Below is a list of the each rank and the minimum requirements to reach each one:
 - R4: Participated in 40 combat operations
 - R5: Participated in 50 combat operations
 
-While each class has its own flavor and choosing your first is a big step, there is more beyond that. The ability to multiclass is available upon reaching Rank 5 in your primary class. At Rank 5, you will be able to obtain an additional five rank points through continued combat contribution and place them in the remaining classes as desired. They are not constrained to any specific class beyond your first five. Want to have two points in a secondd class and three more in a third? It's your choice.
+While each class has its own flavor, and of course, choosing your first is a big step, there is more beyond that. The ability to multiclass is available upon reaching Rank 5 in your primary class. At Rank 5, you will be able to obtain an additional five rank points through continued combat contribution and place them in the remaining classes as desired. They are not constrained to any specific class beyond your first five. Want to have two points in a secondd class and three more in a third? It's your choice.
 
 Below are the requirements for the remaining five points:
 - R6: 60 Combat operations
@@ -55,11 +53,39 @@ Below are the requirements for the remaining five points:
 - R10: 100 Combat operations
 
 
-# Chapter Three: Prestige Mode and Class Resets
+# Chapter Three: Senior Contracted and Class Resets
 
-## Prestige Mode
-***This system is not yet implemented.***
-So you’ve earned that final class point and it appears that there's nothing left to do with the class system? Not so! Upon reaching Rank 10, you are able to manually reset your progress via the database and progress through the class ranks again for additional rewards at each rank, ultimately ending with a special armor skin and an 11th class point.
+## Senior Contracted
+When an ESC Contracted member reaches C-8, they may be eligible for an opportunity to branch out into senior contracted ranks. The Senior Contracted system has been put in place to offer additional advancement to those who will not be permitted to or have decided not to take on the responsibilities required to advance into NCO+. Through this system, additional rewards are made available such as: class points, weapons, cosmetics, and so on. Senior Enlisted ranks are earned through peer recommendation, and those recommendations are reviewed by NCO+ and awarded during regular promotion cycles along with other promotions. Below are the current unlocks available at each level.
+
+
+| Rank | Rewards Obtained |
+| --- | --- |
+| Se. Contracted I | +1 Additional Class Point; Renelli M5 Combat Shotgun; Bronze Tier Badge |
+| Content Cell  | Content Cell  |
+
+- Sr. Contracted I: 
+  - +1 Additional Class Point
+  - Renelli Shotgun
+  - Bronze Tier Badge
+- Sr. Contracted II:
+  - +1 Additional Class Point
+  - Mk. II Upper Leg Pads for the Kusanagi Hard Suit armor set
+  - KHS Backpack
+- Sr. Contracted III:
+  - +1 Additional Class Point
+  - Shock Rifle
+  - Silver Tier Badge
+- Sr. Contracted IV:
+  - +1 Additional Class Point
+  - Fur Mantle Accessory
+  - Exclusive Camo Kit for the Kusanagi Hard Suit armor set
+- Sr. Contracted V: 
+  - +1 Additional Class Point
+  - Malorian Arms 3516 (Nivanglus's "special boy" pistol)
+  - Gold Tier Badge
+
+Additional Senior Contracted unlocks may be added in the future - check back and watch for announcements.
 
 ## Class Resets
 Do you feel that the primary class you chose was not the right pick? Every ESC member is afforded ***one*** opportunity to respec. If you choose to respec, your one free "respec token" will be expended and your primary class points will be made available again be reapplied to a different class. By doing this, you will lose access to any unlocks from the classes you left behind. 
