@@ -22,10 +22,10 @@
      - [Senior Contracted](#senior-contracted)
      - [Class Resets](#class-resets)
    - [Chapter Four: Available Gear](#chapter-four-available-gear)
-     - [1. ASSAULT](#1-assault)
-     - [2. TECHNICIAN](#2-technician)
-     - [3. MECHANIZED](#3-mechanized)
-     - [4. AIRBORNE](#4-airborne)
+     - [ASSAULT](#assault)
+     - [TECHNICIAN](#technician)
+     - [MECHANIZED](#mechanized)
+     - [AIRBORNE](#airborne)
    
    
 # Chapter One: Introduction
