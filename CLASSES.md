@@ -8,8 +8,6 @@
 # <p align='center'> EPSILON SECURITY CONSULTING </p> 
 
 <p align="center"> DURA QUAMVIS, SECURITAS </p>
-  
-<p align="center"> TRAINING INSTRUCTIONS </p>
 
 <p align="center"> COMBAT CLASS GUIDE </p>
 
