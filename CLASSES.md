@@ -68,28 +68,28 @@ Contact a member of Command to do this until the database function is added.
 # ASSAULT
 <p align="center">
   
-![AssaultUnlocks](https://github.com/ElesCloud/ESCHandbook/blob/main/Banner.jpg)
+![AssaultUnlocks](https://github.com/ElesCloud/ESCDocuments/blob/main/AssaultUnlocks.png)
   
 </p>
 
-#TECHNICIAN
+# TECHNICIAN
 <p align="center">
   
-![TechUnlocks](https://github.com/ElesCloud/ESCHandbook/blob/main/Banner.jpg)
+![TechUnlocks](https://github.com/ElesCloud/ESCDocuments/blob/main/TechUnlocks.png)
   
 </p>
 
-#MECHANIZED
+# MECHANIZED
 <p align="center">
   
-![MechUnlocks](https://github.com/ElesCloud/ESCHandbook/blob/main/Banner.jpg)
+![MechUnlocks](https://github.com/ElesCloud/ESCDocuments/blob/main/MechUnlocks.png)
   
 </p>
 
-#AIRBORNE
+# AIRBORNE
 <p align="center">
   
-![AirUnlocks](https://github.com/ElesCloud/ESCHandbook/blob/main/Banner.jpg)
+![AirUnlocks](https://github.com/ElesCloud/ESCDocuments/blob/main/AirUnlocks.png)
   
 </p>
 
