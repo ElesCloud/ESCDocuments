@@ -11,7 +11,7 @@
   
 <p align="center"> TRAINING INSTRUCTIONS </p>
 
-<p align="center"> PHASE THREE | ORIENTATION </p>
+<p align="center"> PHASE THREE | CULTURAL ORIENTATION </p>
 
 <p align="center"> SECURITY CLEARANCE: PUBLIC DOMAIN </p>
 
