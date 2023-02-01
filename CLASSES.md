@@ -45,7 +45,7 @@ When an ESC Contracted member reaches C-8, they may be eligible for an opportuni
 
 | Rank | Rewards Obtained |
 | --- | --- |
-| Se. Contracted I | +1 Additional Class Point; Renelli M5 Combat Shotgun; Bronze Tier Badge |
+| Sr. Contracted I | +1 Additional Class Point; Renelli M5 Combat Shotgun; Bronze Tier Badge |
 | Sr. Contracted II | +1 Additional Class Point; Mk. II Upper Leg Pads for the KHS armor set; KHS Backpack (*backpack to be inmplemented in the future*) |
 | Sr. Contracted III | +1 Additional Class Point; Shock Rifle; Silver Tier Badge |
 | Sr. Contracted IV | +1 Additional Class Point; Fur Mantle Accessory; Exclusive Camo Kit for the Kusanagi Hard Suit armor set (*mantle and camo to be implemented in the future*) |
