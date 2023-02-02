@@ -183,7 +183,7 @@ Everyone within the group is assumed to be an adult and is expected to act like 
    - You are encouraged to tint these LEDs in "Epsilon Blue" (hex code #8fdaff) or any color of your choosing.
    - These parts are the ONLY parts that have NO restrictions.
 2. Most of the rest of the combat armor is in shades of gray with specific trim colors.
-   - Some parts of newer armor and accessories, like the Mk.2 upper leg parts, has sections that are not LEDs/glowy bits, but are designed to be recolored. These non-glowing recolorable areas are treated like the non-modifiable armor trim on the default set. That means that the following colors or combinations are **reserved** for their appropriate rank brackets:
+   - Some parts of newer armor and accessories, like the Mk.2/Senior Contracted upper leg plates, has sections that are not LEDs/glowy bits, but are designed to be recolored. These non-glowing recolorable areas are treated like the non-modifiable armor trim on the default set. That means that the following colors or combinations are **reserved** for their appropriate rank brackets:
      - Red - NCO
      - Gold - Officer
      - White/gold - Command
