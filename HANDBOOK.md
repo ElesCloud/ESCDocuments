@@ -180,8 +180,14 @@ Everyone within the group is assumed to be an adult and is expected to act like 
 
 ##### Tinting
 1. Parts of the combat armor are blank textured/white and set to glow (LEDs).
-  - You are encouraged to tint these LEDs in "Epsilon Blue" (hex code #8fdaff) or any color of your choosing, but ONLY those glowing areas can be any color.
-  - Anything else that is NOT a blank texture may only be tinted in subtle shades of gray. It should not be tinted dark enough to stand out from the default shade of gray. Use common sense.
+   - You are encouraged to tint these LEDs in "Epsilon Blue" (hex code #8fdaff) or any color of your choosing.
+   - These parts are the ONLY parts that have NO restrictions.
+2. Most of the rest of the combat armor is in shades of gray with specific trim colors.
+   - Some parts of newer armor and accessories, like the Mk.2 upper leg parts, has sections that are not LEDs/glowy bits, but are designed to be recolored. These non-glowing recolorable areas are treated like the non-modifiable armor trim on the default set. That means that the following colors or combinations are **reserved** for their appropriate rank brackets:
+     - Red - NCO
+     - Gold - Officer
+     - White/gold - Command
+3. The only other acceptable tint adjustment is to slightly darken the overall color of the armor set with shade of gray. This tint should be subtle. If it is too obvious and makes the wearer stand out in comparison to others, it is considered unacceptable.
 
 ##### Time and Place
 1. ESC personnel are expected to wear the appropriate attire at all times while in service.
