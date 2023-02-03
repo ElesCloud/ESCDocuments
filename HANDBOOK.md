@@ -189,6 +189,12 @@ Everyone within the group is assumed to be an adult and is expected to act like 
      - White/gold - Command
 3. The only other acceptable tint adjustment is to slightly darken the overall color of the armor set with shade of gray. This tint should be subtle. If it is too obvious and makes the wearer stand out in comparison to others, it is considered unacceptable.
 
+| ![infograph chest](https://github.com/ElesCloud/ESCDocuments/blob/main/infograph%20chest.png) |
+|:---:|
+
+| ![infograph legs](https://github.com/ElesCloud/ESCDocuments/blob/main/infograph%20legs.png) |
+|:---:|
+
 ##### Time and Place
 1. ESC personnel are expected to wear the appropriate attire at all times while in service.
    - One of the two uniforms must be worn while on sim. Limited exceptions apply:
