@@ -196,6 +196,7 @@ Everyone within the group is assumed to be an adult and is expected to act like 
 
 | ![infograph legs](https://github.com/ElesCloud/ESCDocuments/blob/main/infograph%20legs.png) |
 |:---:|
+4. This also goes for any weapons with applicable NCO/officer skins.
 
 ##### Time and Place
 1. ESC personnel are expected to wear the appropriate attire at all times while in service.
