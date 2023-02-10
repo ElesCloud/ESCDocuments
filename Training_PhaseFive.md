@@ -82,7 +82,6 @@ Denote the recruit's progress through phase five in the trainee-status channel o
      - Trainer:
      - Recruit:
      - Phase:
-     - R/D/S: 0/0/0
      - Comments:
 
 **PHASE FIVE COMPLETE. TRAINING COMPLETE.** 
