@@ -96,7 +96,7 @@ Everyone within the group is assumed to be an adult and is expected to act like 
 ### Visitors
 1. We want new people to come see our sim and join us. Unarmed visitors will be treated like guests if they behave.
    - If a visitor causes a problem, they should be contacted by IM and warned to stop before any other action is taken.
-     - Exception: if the individual is clearyly griefing, an estate manager (NCO+) should be contacted to intervene immediately if not already present.
+     - Exception: if the individual is clearly griefing, an estate manager (NCO+) should be contacted to intervene immediately if not already present.
    - All estate management actions from official warnings up are to be logged. Recordings and screen captures of incidents should be forwarded to officer staff.
 
 2. Armed (that is, weapons attached AND drawn) individuals that exit the attacker spawn are generally considered hostile.
