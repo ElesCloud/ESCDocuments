@@ -77,7 +77,6 @@ Denote the recruit's progress in the trainee-status channel on Discord.
      - Trainer:
      - Recruit:
      - Phase:
-     - R/D/S: 0/0/0
      - Comments:
 
 **PHASE TWO COMPLETE. Proceed to Phase [Three](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseThree.md).**
