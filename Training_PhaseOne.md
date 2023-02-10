@@ -63,7 +63,6 @@ Denote the recruit's initation and completion of Phase One in the trainee-status
      - Trainer:
      - Recruit:
      - Phase:
-     - R/D/S: 0/0/0
      - Comments:
 
 **To receive credit for the trainers-only Showstopper revolver, you must post each phase individually to be counted.**
