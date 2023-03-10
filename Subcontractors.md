@@ -30,6 +30,8 @@ Subcontractors have limited privileges and abilities in ESC. They are allowed to
 **The following ESC items are available for Subcontractors:**
 - R301 Assault Rifle
 - NEOLAW - Disposable RPG
+- Huntsman Knife
+- M6G Magnum Pistol
 
 **The following commercially available gear may be used by Subcontractors also:**
 - D18 Weapons by Hokusai Otsuka
