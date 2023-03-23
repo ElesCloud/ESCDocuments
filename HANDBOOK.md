@@ -115,7 +115,7 @@ Everyone within the group is assumed to be an adult and is expected to act like 
    - The OIC should be given a reasonable amount of time to address problems. If there are multiple issues, they should be IMed to the OIC in a list. Recordings and screenshots should be forwarded to the OIC if they are obtained. For some issues, proof is the only way to get a resolution.
    - During active combat, the HUD will display a Message of the Day that lists specific gear authorizations for that event. All participants are expected to pay attention to the MOTD.
      - If you can't determine if something has been authorized, do not assume it has been. Stick to general authorization-level items until you have confirmation.
-**   - "Backseat OICing" is not tolerated. What the OIC says, goes. Attempts to undermine or argue with an OIC's direction will be responded to with disciplinary measures.**
+   - **"Backseat OICing" is not tolerated. What the OIC says, goes. Attempts to undermine or argue with an OIC's direction will be responded to with disciplinary measures.**
 
 2. ESC primarily makes use of Discord for external text and voice communication, including announcements and recordkeeping.
    - Personnel are generally expected to be able to at least log in to hear what is going on. Being able to talk is NOT required. Many folks make use of the installed text-to-speech bot.
@@ -123,7 +123,7 @@ Everyone within the group is assumed to be an adult and is expected to act like 
    - Observe COMSEC. Things discussed in internal channels should stay in internal channels.
 
 3. During any combat operations, communcation should be (for the most part) on topic and contributing positively to the conversation.
-**   - Tolerance for derailment, rambling, and excessive negativity - repeated complaints, flaming and shit-talking, arguing - is very limited. If the OIC or an NCO+ individual in the party calls for the topic to be changed, the topic stops there.**
+   - **Tolerance for derailment, rambling, and excessive negativity - repeated complaints, flaming and shit-talking, arguing - is very limited. If the OIC or an NCO+ individual in the party calls for the topic to be changed, the topic stops there.**
    - Participants who are getting upset and not having fun with the event should step back and take a break, or drop from the event.
    - Participants who fail to comply with a request to pipe down or drop a topic will be removed from combat and further disciplined.
    - ESC personnel should not mute other ESC personnel except in rare approved cases as a last resort, cleared with administration.
