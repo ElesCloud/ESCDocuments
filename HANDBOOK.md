@@ -136,6 +136,9 @@ Everyone within the group is assumed to be an adult and is expected to act like 
    - A gear authorization list is is maintained by the Combat Operations department alongside Command and can be found [in this spreadsheet.](https://docs.google.com/spreadsheets/d/1vA7HMS7XBYfRmdiyk6tgSjBokKoKGt3hl99ncaxuKIo/edit#gid=0)
    -  ESC Subcontractors have their own list of approved gear to use, found [on the Subcontractors info page.](https://github.com/ElesCloud/ESCDocuments/blob/main/Subcontractors.md)
 
+5. Participation in the militia groups of other SLMC entities is permitted with one stipulation.
+   - ESC personnel shall not be part of the opposing group when they are attacking or defending against ESC unless they have the express permission of ESC's OIC beforehand, or unless it is free-for-all at a neutral region.
+
 
 #### Defensive Protocols
 1. Some attackers who come to fight don't organize under a group and instead fight independently. These "lone wolves" typically come with lower-quality firepower and less tactical advantage than participants in an organized group do. To keep things fair, lone wolves should be handled on a one-to-one ratio. Limited exceptions apply as noted below:
