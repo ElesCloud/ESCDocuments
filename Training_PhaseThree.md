@@ -55,12 +55,12 @@ Shift to Chapter Three: Policy and go over each section. While it is not necessa
   - Promotions do give a definite sense of validation and achievement. It's fine and normal to be strive for and look forward to future promotions. However, making a promotion one's **only** motivation to keep participating is a bad idea and will only lead to disappointment and frustration.
     - Promotions are assigned based not just on level of contribution, but leadership strength and trustworthiness, and role occupancy.
     - A member's rank is a signifier not only of their time and effort dedicated to the group, but also the responsibilities they are expected to carry. The higher the rank, in general the more they have on their plate to take care of.
-    - **Not all ESC members are going to rise to the top of the rank structure, and that is OKAY. That is how it designed. Personnel do not need to be high-ranked to be important and valuable to the group. Everyone who participates is appreciated and valued.**
+    - **Not all ESC members are going to rise to the top of the rank structure, and that is OKAY. Personnel do not need to be high-ranked to be important to the group. Rank =/= personal worth.**
   - It's fine to take breaks from ESC sometimes, both short and extended as needed. However, there's a difference between taking a break and going AWOL.
     - The difference is in keeping us apprised of the situation. Tell us you need a break, don't just disappear.
     - If someone is avoiding us because of a problem, they need to make an effort to speak up about it. We can't resolve problems we are not aware of.
     - If that doesn't help and they are still not happy, they are free to leave. Our members should be here because they want to be, not because they feel like they have to be.
-3. Make note of the combat classes and be sure they check the [class document](https://github.com/ElesCloud/ESCDocuments/blob/main/CLASSES.md) for details on how class ranks work and what specialized gear is available to each class.
+3. Make note of the combat classes and be sure they check the [class document](https://github.com/ElesCloud/ESCDocuments/blob/main/CLASSES.md). Classes are now unlocked but specialized gear is still categorized according to its role on the battlefield.
 4. Make note of the different ancillary departments and what they do. Some can be applied for (training, combat ops/pathfinder), while others you must demonstrate applicable skillsets and will be selected to join (RND, QA, Omega).
 
 ## Section Four: Recap and Test
@@ -79,4 +79,4 @@ Denote the recruit's progress in the trainee-status channel on Discord.
      - Phase:
      - Comments:
 
-**PHASE TWO COMPLETE. Proceed to Phase [Four](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFour.md) (standard training) or Phase [Five](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFive.md) (expedited).**
+**PHASE TWO COMPLETE. Proceed to Phase [Four](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFour.md).**
