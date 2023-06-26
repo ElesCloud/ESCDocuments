@@ -38,6 +38,8 @@
   - If you can't change roles, ping for help.
 - To allow full access to the armory store, the graduate's rank will need to be adjusted manually. 
   - An NCO+ with admin capabilities can change a Conscript to Contractor on the database so they can use the Contracted Terminal to get a link to the store. This won't work unless they are in the main group and their rank has been changed.
+- To start the new Contracted personnel on their fruitful career with Epsilon Security Consulting, all graduates are paid a 500-credit stipend. This is _in addition_ to any time they earned previously while participating in combat.
+  - This step must be done by a database admin (NCO+) just like above steps. **If you do not have admin access, ask for help.**
 - Contracted-level members can always access the armory store again in the future through the right-hand "Contracted Terminal" in-world.
 
 ## Section Two: Contracted Gear
@@ -78,14 +80,7 @@ Seraph Light Armor - General combat use and meetings (**required for meetings**)
 ![image](https://user-images.githubusercontent.com/71983240/148656913-7824c117-e7d3-45ec-bcc2-39f155b2f3ec.png)
 
 
-## Section Three: Payment
-
-### Trainee
-To start the new Contracted personnel on their fruitful career with Epsilon Security Consulting, all graduates are paid a 500-credit stipend. This is _in addition_ to any time they earned previously while participating in combat.
-- This step must be done by a database admin (NCO+) just like above steps. **If you do not have admin access, ask for help.**
-- All ESC gear is subject to the Authorization list found [here](https://docs.google.com/spreadsheets/d/1vA7HMS7XBYfRmdiyk6tgSjBokKoKGt3hl99ncaxuKIo/). Personnel are advised to spend their credits prudently, starting with at least a few basic items that are authorized for general use, and then saving for the flashy, powerful items that are OIC authorization only.
-
-## Section Four: Update
+## Section Three: Update
 Denote the recruit's progress through phase four in the trainee-status channel on Discord.
    - Use this template in the channel to track progress:
      - Trainer:
