@@ -26,7 +26,7 @@
 ## Table of Contents
   - [Section One: Mortar](#section-one-Mortar)
   - [Section Two: Falken](#section-two-falken)
-  - [Section Three: Hover Thank](#section-three-hover-tank)
+  - [Section Three: Hover Tank](#section-three-hover-tank)
   - [Section Four: Trainer Payout and Final Update](#section-four-trainer-payout-and-final-update)
 
 
