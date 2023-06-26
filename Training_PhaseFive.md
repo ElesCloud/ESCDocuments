@@ -27,7 +27,8 @@
   - [Section One: Mortar](#section-one-Mortar)
   - [Section Two: Falken](#section-two-falken)
   - [Section Three: Hover Tank](#section-three-hover-tank)
-  - [Section Four: Trainer Payout and Final Update](#section-four-trainer-payout-and-final-update)
+  - [Section Four: Live Combat](#section-four-live-combat)
+  - [Section Five: Trainer Payout and Final Update](#section-four-trainer-payout-and-final-update)
 
 
 ### Trainer Payout and Final Update
@@ -39,7 +40,7 @@ Denote the recruit's progress through phase five in the trainee-status channel o
      - Comments:
 
 Trainers will be compensated for their time and effort in training.
-- The rate is 100 credits per phase completed; a fully completed standard training course from intake to exit processing is 500 credits. Expedited is 400.
+- The rate is 100 credits per phase completed; a fully completed course of training from intake through contracted certification is 500 credits.
 - Split training between more than one instructor should be paid per phase.
 - If you cannot pay yourself, ask to be paid.
 
