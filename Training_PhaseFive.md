@@ -31,12 +31,19 @@
 
 
 ### Trainer Payout and Final Update
+Denote the recruit's progress through phase five in the trainee-status channel on Discord.
+   - Use this template in the channel to track progress:
+     - Trainer:
+     - Recruit:
+     - Phase:
+     - Comments:
+
 Trainers will be compensated for their time and effort in training.
 - The rate is 100 credits per phase completed; a fully completed standard training course from intake to exit processing is 500 credits. Expedited is 400.
 - Split training between more than one instructor should be paid per phase.
 - If you cannot pay yourself, ask to be paid.
 
-Thank you for your continued, valuable service as a Trainer. If you have any questions, contact Eles Cloud, Chief Foundation Officer.
+Thank you for your continued, valuable service as a Trainer. If you have any questions, contact Johann Wilberg, Foundation Superintendent, or Eles Cloud, Director.
 
 WORK IN PROGRESS
 
