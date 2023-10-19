@@ -50,7 +50,7 @@ Epsilon Security Consulting was created in 2019 by Nivanglus Aya, Aurora Guffey,
 ## Chapter Two: Code
 
 ### Cooperation
-ESC will make every reasonable attempt to ensure that the atmosphere is as welcoming and enjoyable as possible. However, a handful of particularly unpleasant individuals in the SLMC take advantage of the anonymity and paucity of consequences for their actions to abuse others. The ability to respond to this behavior is limited, and existing in this community unfortuantely means taking the bullshit in stride and not allowing one's self to take things personally. Even so, there are still some lines in the sand that even the SLMC won't cross, and they've come to be known as "Big Four" offenses. They are:
+ESC will make every reasonable attempt to ensure that the atmosphere is as welcoming and enjoyable as possible. However, a handful of particularly unpleasant individuals in the SLMC take advantage of the anonymity and paucity of consequences for their actions to abuse others. The ability to respond to this behavior is limited, and existing in this community unfortunately means taking the bullshit in stride and not allowing oneself to take things personally. Even so, there are still some lines in the sand that even the SLMC won't cross, and they've come to be known as "Big Four" offenses. They are:
 
 - Distribution of identifying non-public real-life information about others without their consent or knowledge (known as doxxing)
 - GPU crashing or any other griefing that is able or designed to permanently damage a user's real PC hardware
