@@ -60,19 +60,19 @@ ESC will make every reasonable attempt to ensure that the atmosphere is as welco
  
 The common denominator in each offense is its potential to cause real and tangible harm outside of SL. For that reason, a "Big Four" offense generally would result in exclusion from the community. That is the closest the SLMC, at least right now, can get to a consensus about holding its members accountable.
 
-ESC (and SL as a whole) is a population made up individuals from many walks of life. Each of us has a different set of life experiences, morals, and goals, none more or less important than any other. It is up to **everyone** in ESC at every rank and station to ensure that this diversity is leveraged as collective strenth instead of allowed to breed conflict.
+ESC (and SL as a whole) is a population made up individuals from many walks of life. We each have our own set of life experiences, morals, and goals, none more or less important than any other. We may not be able to control how the individuals outside of our group treat us, but we can hold ourselves to our own standard within. Every ESC member at every rank and station carries a responsibility to try and leverage those different perspectives and experiences as collective strength ... or at the very least, reserve judgment about one another's personal identities and avoid making individuals feel unwelcome.
 
-The Second Life Military Community has so far been a complex patchwork of many different groups throughout its nearly two decade lifespan. If you have spent any significant amount of time in the SLMC already, you will probably encounter people from your past. These people may have been on the "bad guys" side before, but we are all ESC now. **Please, leave your grudges at the door.**
+The Second Life Military Community has existed for almost twenty years and has a complex history. Many groups have come and gone in that time. If you're not new to this community, being part of our group may mean coexisting with individuals you've been at odds with before, or that you don't necessarily like. We don't expect everyone here to be best buds with each other, but a minimum level of civility is expected. Under no circumstances will we pick sides in personal disputes.
 
 
 ### Input and Output
-Epsilon Security Consulting was founded on the concept of thinking outside the box and doing better. We aim to cultivate openness to new concepts, personal growth, adaptability, and a positive attitude.
+You will get out of the group what you put in. Simply being part of ESC and not doing anything else won't net you much in return. If you find a way to actively engage, we will recognize that and encourage it.
 
-You will get out of the group what you put in. Inaction and apathy will net you nothing. Genuine interest and effort will be recognized and rewarded.
+We aspire to think outside the box and find ways to improve. We value openness to new ideas, personal growth, adaptability, and a positive attitude. Conversely, we don't have much room here for apathy, dogmatic thinking, and finger pointing.
 
 
 ### Professionalism
-Mistakes are expected, but we must own up to shortcomings and strive to do better next time. Finger-pointing and blame-shifting are unhelpful.
+Mistakes are expected, but we must own up to shortcomings. Once you know better, do better.
 
 Individuality and expression are encouraged. However, that freedom of expression is limited to the extent that it is not disruptive to others in the group.
 
