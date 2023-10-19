@@ -134,8 +134,8 @@ Everyone within the group is assumed to be an adult and is expected to act like 
    -  ESC Subcontractors have their own list of approved gear to use, found [on the Subcontractors info page.](https://github.com/ElesCloud/ESCDocuments/blob/main/Subcontractors.md)
 
 5. Participation in the militia groups of other SLMC entities is permitted with one stipulation:
-   - ESC personnel may not fight with that militia group when it attacks or defends against ESC.
-   - An exception may be made if they have the express permission of ESC's OIC prior to engagement, or if the combat is free-for-all at a neutral region.
+   - **ESC personnel may not fight with that militia group when it attacks or defends against ESC.**
+     - An exception may be made if they have the express permission of ESC's OIC prior to engagement, or if the combat is free-for-all at a neutral region.
 
 
 #### Defensive Protocols
