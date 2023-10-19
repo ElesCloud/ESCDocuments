@@ -50,7 +50,7 @@ Epsilon Security Consulting was created in 2019 by Nivanglus Aya, Aurora Guffey,
 ## Chapter Two: Code
 
 ### Cooperation
-ESC will make every reasonable attempt to ensure that the atmosphere is as welcoming and enjoyable as possible. However, a handful of particularly unpleasant individuals in the SLMC take advantage of the anonymity and paucity of consequences for their actions to abuse others. The ability to respond to this behavior is limited, and existing in this community unfortunately means taking the bullshit in stride and not allowing oneself to take things personally. Even so, there are still some lines in the sand that even the SLMC won't cross, and they've come to be known as "Big Four" offenses. They are:
+ESC will make every reasonable attempt to ensure that the atmosphere is as welcoming and enjoyable as possible. However, a handful of particularly unpleasant individuals in the SLMC take advantage of the anonymity and paucity of consequences for their actions to abuse others. The ability to respond to this behavior is limited. Existing in this community unfortunately comess with the necessity of taking the bullshit in stride and not allowing oneself to take things personally. Even so, there are some things that even we won't condone, and they've come to be known as "Big Four" offenses. They are:
 
 - Distribution of identifying non-public real-life information about others without their consent or knowledge (known as doxxing)
 - GPU crashing or any other griefing that is able or designed to permanently damage a user's real PC hardware
@@ -58,7 +58,7 @@ ESC will make every reasonable attempt to ensure that the atmosphere is as welco
 - Abuse of the AR (abuse report) system; that is, a bad-faith attempt to provoke a direct response from Linden Labs to get someone's account suspended or banned.
   - It is not considered abuse when individuals have a reason to involve LL for actions that go beyond the scope of what is handled within the community - for example, harassment or stalking, threats of real-life violence, or the other Big Four abuses mentioned above.
  
-The common denominator in each offense is its potential to cause real and tangible harm outside of SL. For that reason, a "Big Four" offense generally means exclusion from the entire community. That is the closest the community, at least right now, can get to being on the same page about holding its members accountable.
+The common denominator in each offense is its potential to cause real and tangible harm outside of SL. For that reason, a "Big Four" offense generally would result in exclusion from the community. That is the closest the SLMC, at least right now, can get to a consensus about holding its members accountable.
 
 ESC (and SL as a whole) is a population made up individuals from many walks of life. Each of us has a different set of life experiences, morals, and goals, none more or less important than any other. It is up to **everyone** in ESC at every rank and station to ensure that this diversity is leveraged as collective strenth instead of allowed to breed conflict.
 
