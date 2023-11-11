@@ -32,7 +32,7 @@
 
 ## Section One: Before You Begin
 
-- **Remember that, as a Foundation trainer, YOU represent ESC and create the first impression of our group. Proper execution is critical. Be prepared and proactive.
+- Remember that, as a Foundation trainer, YOU represent ESC and create the first impression of our group. Proper execution is critical. Be prepared and proactive.
 - Trainers are expected to completely follow through with any recruits they take on, through graduation, unless arranged and agreed upon with another trainer.
 - Training session times can be lengthy. If you can't complete a session, set a specific follow-up time in the future.
 
