@@ -24,12 +24,15 @@
 </p>
 
 ## Table of Contents
-  - [Section One: Update and Payment](#section-one-update-and-payment)
-  - [Section Two: Contracted Gear](#section-two-contracted-gear)
-  - [Section Three: Update](#section-three-update)
+  - [Section One: Combat Test](#section-one-combat-test)
+  - [Section Two: Update and Payment](#section-two-update-and-payment)
+  - [Section Three: Contracted Gear](#section-three-contracted-gear)
+  - [Section Four: Update](#section-four-update)
 
-
-## Section One: Update and Payment
+## Section One: Combat Test
+- New recruits should participate in at least one combat session (a raid, defense, or skirmish, or even one-on-one training with a Foundation trainer) prior to being processed out. This step can be flexible depending on the recruit's existing combat experience and relationship with ESC.
+- 
+## Section Two: Update and Payment
 - Invite the recruit to the main Epsilon Security Consulting group.
   - Not all trainers have this ability. If you don't, contact an available officer or other trainer with admin rights. **This step is critical. Please ping for a group admin or officer to send an invite if you do not have the rights to do so, before you proceed.**
 - Trainees should leave the Foundation group at this point. They do not need it anymore. If they don't leave it now, they will be ejected later in a periodic purge.
@@ -42,7 +45,7 @@
   - This step must be done by a database admin (NCO+) just like above steps. **If you do not have admin access, ask for help.**
 - Contracted-level members can always access the armory store again in the future through the right-hand "Contracted Terminal" in-world.
 
-## Section Two: Contracted Gear
+## Section Three: Contracted Gear
 
 After they have been successfully updated the database and their rank has been configured, the new Contracted will have access to a variety of free weapons.
 - Weapons and tools:
@@ -80,7 +83,7 @@ Seraph Light Armor - General combat use and meetings (**required for meetings**)
 ![image](https://user-images.githubusercontent.com/71983240/148656913-7824c117-e7d3-45ec-bcc2-39f155b2f3ec.png)
 
 
-## Section Three: Update
+## Section Four: Update
 Denote the recruit's progress through phase four in the trainee-status channel on Discord.
    - Use this template in the channel to track progress:
      - Trainer:
