@@ -17,9 +17,9 @@
 <p align="center"> 
  <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOne.md>PHASE ONE</a> |
  <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md>PHASE TWO</a> | 
- <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseThree.md>PHASE THREE</a> |
- <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFour.md>PHASE FOUR</a> | 
+ <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseThree.md>PHASE THREE</a> | 
  PHASE FIVE |
+ <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFive.md>PHASE FIVE</a> |
 
 </p>
 
@@ -28,8 +28,9 @@
   - [Section Two: Falken](#section-two-falken)
   - [Section Three: Hover Tank](#section-three-hover-tank)
   - [Section Four: Live Combat](#section-four-live-combat)
-  - [Section Five: Trainer Payout and Final Update](#section-four-trainer-payout-and-final-update)
+  - [Section Five: Update](#section-four-trainer-payout-and-final-update)
 
+WORK IN PROGRESS
 
 ### Trainer Payout and Final Update
 Denote the recruit's progress through phase five in the trainee-status channel on Discord.
@@ -39,12 +40,5 @@ Denote the recruit's progress through phase five in the trainee-status channel o
      - Phase:
      - Comments:
 
-Trainers will be compensated for their time and effort in training.
-- The rate is 100 credits per phase completed; a fully completed course of training from intake through contracted certification is 500 credits.
-- Split training between more than one instructor should be paid per phase.
-- If you cannot pay yourself, ask to be paid.
 
-Thank you for your continued, valuable service as a Trainer. If you have any questions, contact Johann Wilberg, Foundation Superintendent, or Eles Cloud, Director.
-
-WORK IN PROGRESS
 
