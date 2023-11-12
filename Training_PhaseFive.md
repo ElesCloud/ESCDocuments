@@ -10,7 +10,7 @@
   
 <p align="center"> TRAINING INSTRUCTIONS </p>
 
-<p align="center"> PHASE FOUR | C-1 TRANSITION </p>
+<p align="center"> PHASE FIVE | C-1 TRANSITION </p>
 
 <p align="center"> SECURITY CLEARANCE: PUBLIC DOMAIN </p>
 
@@ -18,21 +18,17 @@
  <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOne.md>PHASE ONE</a> |
  <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md>PHASE TWO</a> | 
  <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseThree.md>PHASE THREE</a> |
- PHASE FOUR |
- <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFive.md>PHASE FIVE</a> | 
+ <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFive.md>PHASE FOUR</a> | 
+ PHASE FIVE |
  
 </p>
 
 ## Table of Contents
-  - [Section One: Combat Test](#section-one-combat-test)
-  - [Section Two: Update and Payment](#section-two-update-and-payment)
-  - [Section Three: Contracted Gear](#section-three-contracted-gear)
-  - [Section Four: Update](#section-four-update)
+  - [Section One: Update and Payment](#section-one-update-and-payment)
+  - [Section Two: Contracted Gear](#section-two-contracted-gear)
+  - [Section Three: Update](#section-three-update)
 
-## Section One: Combat Test
-- New recruits should participate in at least one combat session (a raid, defense, or skirmish, or even one-on-one training with a Foundation trainer) prior to being processed out. This step can be flexible depending on the recruit's existing combat experience and relationship with ESC.
-
-## Section Two: Update and Payment
+## Section One: Update and Payment
 - Invite the recruit to the main Epsilon Security Consulting group.
   - Not all trainers have this ability. If you don't, contact an available officer or other trainer with admin rights. **This step is critical. Please ping for a group admin or officer to send an invite if you do not have the rights to do so, before you proceed.**
 - Trainees should leave the Foundation group at this point. They do not need it anymore. If they don't leave it now, they will be ejected later in a periodic purge.
@@ -83,7 +79,7 @@ Seraph Light Armor - General combat use and meetings (**required for meetings**)
 ![image](https://user-images.githubusercontent.com/71983240/148656913-7824c117-e7d3-45ec-bcc2-39f155b2f3ec.png)
 
 
-## Section Four: Update
+## Section Four: Final Update
 Denote the recruit's progress through phase four in the trainee-status channel on Discord.
    - Use this template in the channel to track progress:
      - Trainer:
@@ -91,4 +87,10 @@ Denote the recruit's progress through phase four in the trainee-status channel o
      - Phase:
      - Comments:
 
-**PHASE FOUR COMPLETE. PROCEED TO PHASE FIVE** 
+Trainers will be compensated for their time and effort in training.
+- The rate is 100 credits per phase completed; a fully completed course of training from intake through contracted certification is 500 credits.
+- Split training between more than one instructor should be paid per phase.
+- If you cannot pay yourself, ask to be paid.
+
+Thank you for your continued, valuable service as a Trainer. If you have any questions, contact Johann Wilberg, Foundation Superintendent, or Eles Cloud, Director.
+
