@@ -31,7 +31,7 @@
 
 ## Section One: Combat Test
 - New recruits should participate in at least one combat session (a raid, defense, or skirmish, or even one-on-one training with a Foundation trainer) prior to being processed out. This step can be flexible depending on the recruit's existing combat experience and relationship with ESC.
-- 
+
 ## Section Two: Update and Payment
 - Invite the recruit to the main Epsilon Security Consulting group.
   - Not all trainers have this ability. If you don't, contact an available officer or other trainer with admin rights. **This step is critical. Please ping for a group admin or officer to send an invite if you do not have the rights to do so, before you proceed.**
