@@ -10,7 +10,7 @@
   
 <p align="center"> TRAINING INSTRUCTIONS </p>
 
-<p align="center"> PHASE FIVE | CONTRACTED CERTIFICATIONS </p>
+<p align="center"> PHASE FOUR | CONTRACTED CERTIFICATIONS </p>
 
 <p align="center"> SECURITY CLEARANCE: PUBLIC DOMAIN </p>
 
@@ -18,7 +18,7 @@
  <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseOne.md>PHASE ONE</a> |
  <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseTwo.md>PHASE TWO</a> | 
  <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseThree.md>PHASE THREE</a> | 
- PHASE FIVE |
+ PHASE FOUR |
  <a href= https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFive.md>PHASE FIVE</a> |
 
 </p>
@@ -32,7 +32,7 @@
 
 WORK IN PROGRESS
 
-### Trainer Payout and Final Update
+### Update
 Denote the recruit's progress through phase five in the trainee-status channel on Discord.
    - Use this template in the channel to track progress:
      - Trainer:
