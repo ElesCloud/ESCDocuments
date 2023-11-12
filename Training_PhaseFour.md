@@ -40,5 +40,5 @@ Denote the recruit's progress through phase five in the trainee-status channel o
      - Phase:
      - Comments:
 
-
+**PHASE FOUR COMPLETE. Proceed to Phase [Five](https://github.com/ElesCloud/ESCDocuments/blob/main/Training_PhaseFive.md).**
 
